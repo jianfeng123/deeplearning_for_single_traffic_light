@@ -1,0 +1,42 @@
+<additional>
+    <laneAreaDetector id="laneI1_1" lane="edge-1-0_0" pos="338" freq="0.01" length="160" friendlyPos="x" file="loops.out"/>
+	<laneAreaDetector id="laneI1_2" lane="edge-1-0_1" pos="338" freq="0.01" length="160" friendlyPos="x" file="loops.out"/>
+	<laneAreaDetector id="laneI1_3" lane="edge-1-0_2" pos="338" freq="0.01" length="160" friendlyPos="x" file="loops.out"/>
+	<laneAreaDetector id="laneI1_4" lane="edge-1-0_3" pos="338" freq="0.01" length="160" friendlyPos="x" file="loops.out"/>
+	
+    <laneAreaDetector id="laneI2_1" lane="edge-2-0_0" pos="338" freq="0.01" length="160" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneI2_2" lane="edge-2-0_1" pos="338" freq="0.01" length="160" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneI2_3" lane="edge-2-0_2" pos="338" freq="0.01" length="160" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneI2_4" lane="edge-2-0_3" pos="338" freq="0.01" length="160" file="loops.out" friendlyPos="x"/>
+
+    <laneAreaDetector id="laneI3_1" lane="edge-3-0_0" pos="338" freq="0.01" length="160" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneI3_2" lane="edge-3-0_1" pos="338" freq="0.01" length="160" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneI3_3" lane="edge-3-0_2" pos="338" freq="0.01" length="160" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneI3_4" lane="edge-3-0_3" pos="338" freq="0.01" length="160" file="loops.out" friendlyPos="x"/>
+
+    <laneAreaDetector id="laneI4_1" lane="edge-4-0_0" pos="338" freq="0.01" length="160" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneI4_2" lane="edge-4-0_1" pos="338" freq="0.01" length="160" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneI4_3" lane="edge-4-0_2" pos="338" freq="0.01" length="160" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneI4_4" lane="edge-4-0_3" pos="338" freq="0.01" length="160" file="loops.out" friendlyPos="x"/>
+
+    <laneAreaDetector id="laneO1_1" lane="edge-0-1_0" pos="334" freq="0.01" length="35" friendlyPos="x" file="loops.out"/>
+	<laneAreaDetector id="laneO1_2" lane="edge-0-1_1" pos="334" freq="0.01" length="35" friendlyPos="x" file="loops.out"/>
+	<laneAreaDetector id="laneO1_3" lane="edge-0-1_2" pos="334" freq="0.01" length="35" friendlyPos="x" file="loops.out"/>
+	<laneAreaDetector id="laneO1_4" lane="edge-0-1_3" pos="334" freq="0.01" length="35" friendlyPos="x" file="loops.out"/>
+	
+    <laneAreaDetector id="laneO2_1" lane="edge-0-2_0" pos="334" freq="0.01" length="35" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneO2_2" lane="edge-0-2_1" pos="334" freq="0.01" length="35" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneO2_3" lane="edge-0-2_2" pos="334" freq="0.01" length="35" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneO2_4" lane="edge-0-2_3" pos="334" freq="0.01" length="35" file="loops.out" friendlyPos="x"/>
+
+    <laneAreaDetector id="laneO3_1" lane="edge-0-3_0" pos="334" freq="0.01" length="35" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneO3_2" lane="edge-0-3_1" pos="334" freq="0.01" length="35" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneO3_3" lane="edge-0-3_2" pos="334" freq="0.01" length="35" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneO3_4" lane="edge-0-3_3" pos="334" freq="0.01" length="35" file="loops.out" friendlyPos="x"/>
+
+    <laneAreaDetector id="laneO4_1" lane="edge-0-4_0" pos="334" freq="0.01" length="35" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneO4_2" lane="edge-0-4_1" pos="334" freq="0.01" length="35" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneO4_3" lane="edge-0-4_2" pos="334" freq="0.01" length="35" file="loops.out" friendlyPos="x"/>
+	<laneAreaDetector id="laneO4_4" lane="edge-0-4_3" pos="334" freq="0.01" length="35" file="loops.out" friendlyPos="x"/>
+
+</additional>

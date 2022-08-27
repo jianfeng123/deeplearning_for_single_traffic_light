@@ -1,0 +1,1007 @@
+12-12 21:02:02 ../DATA\traffic_dqn DEBUG     train 0 totalreward : -640.0 ReturnAvg : -8.64864864864865 ReturnStd : 115.74405973110981 meantime : 45.49693593314763
+12-12 21:04:08 ../DATA\traffic_dqn DEBUG     train 1 totalreward : -299.0 ReturnAvg : -4.397058823529412 ReturnStd : 104.10771284444982 meantime : 40.56155988857939
+12-12 21:13:41 ../DATA\traffic_dqn DEBUG     train 0 totalreward : -565.0 ReturnAvg : -7.635135135135135 ReturnStd : 126.31958337447388 meantime : 49.128133704735376
+12-12 21:26:50 ../DATA\traffic_dqn DEBUG     train 0 totalreward : -443.0 ReturnAvg : -6.328571428571428 ReturnStd : 114.2234303495405 meantime : 42.804456824512535
+12-12 21:30:35 ../DATA\traffic_dqn DEBUG     train 1 totalreward : -509.0 ReturnAvg : -6.878378378378378 ReturnStd : 121.00502030044409 meantime : 44.80111420612813
+12-12 21:33:34 ../DATA\traffic_dqn DEBUG     train 2 totalreward : -562.0 ReturnAvg : -7.298701298701299 ReturnStd : 105.83190113106102 meantime : 45.254596100278555
+12-12 21:36:31 ../DATA\traffic_dqn DEBUG     train 3 totalreward : -565.0 ReturnAvg : -8.308823529411764 ReturnStd : 154.8087299325261 meantime : 48.729247910863506
+12-12 21:40:13 ../DATA\traffic_dqn DEBUG     train 4 totalreward : -865.0 ReturnAvg : -10.8125 ReturnStd : 173.22060311565133 meantime : 70.04846796657381
+12-12 21:42:58 ../DATA\traffic_dqn DEBUG     train 5 totalreward : -637.0 ReturnAvg : -9.651515151515152 ReturnStd : 129.6437417326096 meantime : 41.89805013927577
+12-12 21:45:39 ../DATA\traffic_dqn DEBUG     train 6 totalreward : -370.0 ReturnAvg : -5.211267605633803 ReturnStd : 92.86623963847335 meantime : 38.66406685236769
+12-12 21:48:59 ../DATA\traffic_dqn DEBUG     train 7 totalreward : -741.0 ReturnAvg : -9.2625 ReturnStd : 135.32948161339422 meantime : 58.25013927576602
+12-12 21:52:17 ../DATA\traffic_dqn DEBUG     train 8 totalreward : -686.0 ReturnAvg : -9.397260273972602 ReturnStd : 141.48776409907032 meantime : 55.5933147632312
+12-12 21:55:43 ../DATA\traffic_dqn DEBUG     train 9 totalreward : -1138.0 ReturnAvg : -16.492753623188406 ReturnStd : 156.71118299287468 meantime : 66.16378830083565
+12-12 21:58:21 ../DATA\traffic_dqn DEBUG     train 10 totalreward : -579.0 ReturnAvg : -9.046875 ReturnStd : 111.6521425129602 meantime : 40.56490250696379
+12-12 22:01:12 ../DATA\traffic_dqn DEBUG     train 11 totalreward : -499.0 ReturnAvg : -7.128571428571429 ReturnStd : 112.26714586563749 meantime : 41.408356545961006
+12-12 22:03:46 ../DATA\traffic_dqn DEBUG     train 12 totalreward : -551.0 ReturnAvg : -9.032786885245901 ReturnStd : 90.89734206165005 meantime : 36.97103064066852
+12-12 22:06:39 ../DATA\traffic_dqn DEBUG     train 13 totalreward : -454.0 ReturnAvg : -7.09375 ReturnStd : 127.38214145215765 meantime : 42.22284122562674
+12-12 22:09:15 ../DATA\traffic_dqn DEBUG     train 14 totalreward : -461.0 ReturnAvg : -7.203125 ReturnStd : 76.91354311975476 meantime : 33.425626740947074
+12-12 22:11:49 ../DATA\traffic_dqn DEBUG     train 15 totalreward : -293.0 ReturnAvg : -4.80327868852459 ReturnStd : 85.53435119968961 meantime : 37.96490250696379
+12-12 22:14:31 ../DATA\traffic_dqn DEBUG     train 16 totalreward : -462.0 ReturnAvg : -6.6 ReturnStd : 118.77678945941297 meantime : 42.74874651810585
+12-12 22:17:03 ../DATA\traffic_dqn DEBUG     train 17 totalreward : -389.0 ReturnAvg : -6.377049180327869 ReturnStd : 77.61869048498653 meantime : 33.132033426183845
+12-12 22:19:33 ../DATA\traffic_dqn DEBUG     train 18 totalreward : -514.0 ReturnAvg : -9.017543859649123 ReturnStd : 90.86764835063353 meantime : 35.16490250696379
+12-12 22:21:56 ../DATA\traffic_dqn DEBUG     train 19 totalreward : -526.0 ReturnAvg : -8.483870967741936 ReturnStd : 56.27746410119036 meantime : 32.15376044568245
+12-12 22:24:31 ../DATA\traffic_dqn DEBUG     train 20 totalreward : -464.0 ReturnAvg : -7.25 ReturnStd : 86.2666650566718 meantime : 34.77827298050139
+12-12 22:27:07 ../DATA\traffic_dqn DEBUG     train 21 totalreward : -407.0 ReturnAvg : -6.074626865671642 ReturnStd : 68.99455168471061 meantime : 33.3008356545961
+12-12 22:29:44 ../DATA\traffic_dqn DEBUG     train 22 totalreward : -428.0 ReturnAvg : -6.388059701492537 ReturnStd : 84.04315792937997 meantime : 35.85403899721449
+12-12 22:32:00 ../DATA\traffic_dqn DEBUG     train 23 totalreward : -257.0 ReturnAvg : -4.213114754098361 ReturnStd : 71.6242734644806 meantime : 32.26740947075209
+12-12 22:34:24 ../DATA\traffic_dqn DEBUG     train 24 totalreward : -368.0 ReturnAvg : -4.779220779220779 ReturnStd : 64.23993647532548 meantime : 34.11866295264624
+12-12 22:36:42 ../DATA\traffic_dqn DEBUG     train 25 totalreward : -349.0 ReturnAvg : -5.132352941176471 ReturnStd : 63.50032524505976 meantime : 32.013370473537606
+12-12 22:39:03 ../DATA\traffic_dqn DEBUG     train 26 totalreward : -406.0 ReturnAvg : -5.2727272727272725 ReturnStd : 46.13380774700164 meantime : 33.04679665738161
+12-12 22:41:20 ../DATA\traffic_dqn DEBUG     train 27 totalreward : -332.0 ReturnAvg : -4.611111111111111 ReturnStd : 57.430285166634754 meantime : 32.94150417827298
+12-12 22:43:38 ../DATA\traffic_dqn DEBUG     train 28 totalreward : -382.0 ReturnAvg : -5.093333333333334 ReturnStd : 57.285058746199745 meantime : 33.98105849582173
+12-12 22:45:51 ../DATA\traffic_dqn DEBUG     train 29 totalreward : -395.0 ReturnAvg : -5.337837837837838 ReturnStd : 49.3290871450942 meantime : 30.483565459610027
+12-12 22:48:05 ../DATA\traffic_dqn DEBUG     train 30 totalreward : -355.0 ReturnAvg : -4.930555555555555 ReturnStd : 49.81028630627995 meantime : 31.78272980501393
+12-12 22:50:29 ../DATA\traffic_dqn DEBUG     train 31 totalreward : -338.0 ReturnAvg : -4.5675675675675675 ReturnStd : 48.55481190312797 meantime : 33.9933147632312
+12-12 22:52:47 ../DATA\traffic_dqn DEBUG     train 32 totalreward : -322.0 ReturnAvg : -4.472222222222222 ReturnStd : 45.64353800625445 meantime : 30.381058495821726
+12-12 22:55:18 ../DATA\traffic_dqn DEBUG     train 33 totalreward : -435.0 ReturnAvg : -5.723684210526316 ReturnStd : 68.46466600875047 meantime : 37.847910863509746
+12-12 22:57:35 ../DATA\traffic_dqn DEBUG     train 34 totalreward : -291.0 ReturnAvg : -3.9324324324324325 ReturnStd : 54.362231295087305 meantime : 31.821169916434542
+12-12 22:59:42 ../DATA\traffic_dqn DEBUG     train 35 totalreward : -305.0 ReturnAvg : -5.0 ReturnStd : 50.437755829485056 meantime : 29.371030640668522
+12-12 23:01:54 ../DATA\traffic_dqn DEBUG     train 36 totalreward : -409.0 ReturnAvg : -6.292307692307692 ReturnStd : 59.644516951408576 meantime : 31.635654596100277
+12-12 23:04:10 ../DATA\traffic_dqn DEBUG     train 37 totalreward : -287.0 ReturnAvg : -4.220588235294118 ReturnStd : 61.577508687219286 meantime : 31.574373259052926
+12-12 23:06:22 ../DATA\traffic_dqn DEBUG     train 38 totalreward : -313.0 ReturnAvg : -4.602941176470588 ReturnStd : 53.48972955456093 meantime : 29.755431754874653
+12-12 23:08:31 ../DATA\traffic_dqn DEBUG     train 39 totalreward : -295.0 ReturnAvg : -4.836065573770492 ReturnStd : 44.10315044985173 meantime : 28.69025069637883
+12-12 23:10:45 ../DATA\traffic_dqn DEBUG     train 40 totalreward : -310.0 ReturnAvg : -4.84375 ReturnStd : 51.86798710126989 meantime : 29.758217270194987
+12-12 23:13:01 ../DATA\traffic_dqn DEBUG     train 41 totalreward : -208.0 ReturnAvg : -3.25 ReturnStd : 49.669532915057694 meantime : 29.34373259052925
+12-12 23:15:12 ../DATA\traffic_dqn DEBUG     train 42 totalreward : -353.0 ReturnAvg : -5.693548387096774 ReturnStd : 44.04528048009502 meantime : 29.75933147632312
+12-12 23:17:24 ../DATA\traffic_dqn DEBUG     train 43 totalreward : -276.0 ReturnAvg : -4.758620689655173 ReturnStd : 70.7609648734501 meantime : 32.693593314763234
+12-12 23:19:37 ../DATA\traffic_dqn DEBUG     train 44 totalreward : -317.0 ReturnAvg : -5.4655172413793105 ReturnStd : 56.55824447271954 meantime : 31.607799442896937
+12-12 23:21:50 ../DATA\traffic_dqn DEBUG     train 45 totalreward : -262.0 ReturnAvg : -4.295081967213115 ReturnStd : 55.69246476455014 meantime : 30.087465181058494
+12-12 23:24:04 ../DATA\traffic_dqn DEBUG     train 46 totalreward : -344.0 ReturnAvg : -5.548387096774194 ReturnStd : 48.81785680014878 meantime : 30.362674094707522
+12-12 23:26:08 ../DATA\traffic_dqn DEBUG     train 47 totalreward : -268.0 ReturnAvg : -5.254901960784314 ReturnStd : 70.30517319466304 meantime : 31.529805013927575
+12-12 23:28:15 ../DATA\traffic_dqn DEBUG     train 48 totalreward : -288.0 ReturnAvg : -5.433962264150943 ReturnStd : 56.34948541860851 meantime : 30.080779944289695
+12-12 23:30:23 ../DATA\traffic_dqn DEBUG     train 49 totalreward : -289.0 ReturnAvg : -5.0701754385964914 ReturnStd : 44.304314331566786 meantime : 29.568802228412256
+12-12 23:32:35 ../DATA\traffic_dqn DEBUG     train 50 totalreward : -303.0 ReturnAvg : -4.734375 ReturnStd : 64.17535600492899 meantime : 31.225626740947074
+12-12 23:34:45 ../DATA\traffic_dqn DEBUG     train 51 totalreward : -290.0 ReturnAvg : -5.087719298245614 ReturnStd : 54.3143161321549 meantime : 30.565459610027855
+12-12 23:36:52 ../DATA\traffic_dqn DEBUG     train 52 totalreward : -284.0 ReturnAvg : -5.163636363636364 ReturnStd : 50.43943754151242 meantime : 30.495264623955432
+12-12 23:38:54 ../DATA\traffic_dqn DEBUG     train 53 totalreward : -273.0 ReturnAvg : -4.706896551724138 ReturnStd : 46.445002188606296 meantime : 29.377715877437325
+12-12 23:41:00 ../DATA\traffic_dqn DEBUG     train 54 totalreward : -316.0 ReturnAvg : -5.180327868852459 ReturnStd : 53.95155938940263 meantime : 29.568802228412256
+12-12 23:43:04 ../DATA\traffic_dqn DEBUG     train 55 totalreward : -312.0 ReturnAvg : -5.379310344827586 ReturnStd : 46.66528931776361 meantime : 29.31142061281337
+12-12 23:45:07 ../DATA\traffic_dqn DEBUG     train 56 totalreward : -248.0 ReturnAvg : -4.275862068965517 ReturnStd : 51.057031365356956 meantime : 29.114206128133706
+12-12 23:47:14 ../DATA\traffic_dqn DEBUG     train 57 totalreward : -322.0 ReturnAvg : -5.03125 ReturnStd : 44.561042665511096 meantime : 30.176601671309193
+12-12 23:49:17 ../DATA\traffic_dqn DEBUG     train 58 totalreward : -278.0 ReturnAvg : -4.87719298245614 ReturnStd : 47.36905132784062 meantime : 29.78384401114206
+12-12 23:51:23 ../DATA\traffic_dqn DEBUG     train 59 totalreward : -203.0 ReturnAvg : -3.5 ReturnStd : 48.87572206010415 meantime : 28.605571030640668
+12-12 23:53:31 ../DATA\traffic_dqn DEBUG     train 60 totalreward : -310.0 ReturnAvg : -5.535714285714286 ReturnStd : 58.727264380632036 meantime : 29.945961002785516
+12-12 23:55:36 ../DATA\traffic_dqn DEBUG     train 61 totalreward : -279.0 ReturnAvg : -5.166666666666667 ReturnStd : 55.94830616705892 meantime : 29.186629526462397
+12-12 23:57:49 ../DATA\traffic_dqn DEBUG     train 62 totalreward : -220.0 ReturnAvg : -4.230769230769231 ReturnStd : 68.99459716434195 meantime : 33.4974930362117
+12-12 23:59:56 ../DATA\traffic_dqn DEBUG     train 63 totalreward : -199.0 ReturnAvg : -3.262295081967213 ReturnStd : 47.20999534321487 meantime : 29.087465181058494
+12-13 00:01:59 ../DATA\traffic_dqn DEBUG     train 64 totalreward : -281.0 ReturnAvg : -4.844827586206897 ReturnStd : 44.78523529950851 meantime : 29.0991643454039
+12-13 00:04:02 ../DATA\traffic_dqn DEBUG     train 65 totalreward : -283.0 ReturnAvg : -4.879310344827586 ReturnStd : 50.069633438121194 meantime : 30.172701949860723
+12-13 00:06:05 ../DATA\traffic_dqn DEBUG     train 66 totalreward : -264.0 ReturnAvg : -4.551724137931035 ReturnStd : 47.3720317653684 meantime : 30.23175487465181
+12-13 00:08:10 ../DATA\traffic_dqn DEBUG     train 67 totalreward : -322.0 ReturnAvg : -5.551724137931035 ReturnStd : 51.18498312031907 meantime : 31.15431754874652
+12-13 00:10:11 ../DATA\traffic_dqn DEBUG     train 68 totalreward : -279.0 ReturnAvg : -5.072727272727272 ReturnStd : 48.39904377171649 meantime : 29.886350974930362
+12-13 00:12:19 ../DATA\traffic_dqn DEBUG     train 69 totalreward : -286.0 ReturnAvg : -5.296296296296297 ReturnStd : 44.11165531274843 meantime : 30.334818941504178
+12-13 00:14:27 ../DATA\traffic_dqn DEBUG     train 70 totalreward : -245.0 ReturnAvg : -4.224137931034483 ReturnStd : 44.31977962079851 meantime : 29.875208913649026
+12-13 00:16:35 ../DATA\traffic_dqn DEBUG     train 71 totalreward : -289.0 ReturnAvg : -4.982758620689655 ReturnStd : 52.04159191398488 meantime : 30.319220055710307
+12-13 00:18:46 ../DATA\traffic_dqn DEBUG     train 72 totalreward : -285.0 ReturnAvg : -5.181818181818182 ReturnStd : 52.168290929571356 meantime : 31.446796657381615
+12-13 00:20:53 ../DATA\traffic_dqn DEBUG     train 73 totalreward : -303.0 ReturnAvg : -5.716981132075472 ReturnStd : 48.78887027370638 meantime : 31.480779944289694
+12-13 00:22:56 ../DATA\traffic_dqn DEBUG     train 74 totalreward : -252.0 ReturnAvg : -4.581818181818182 ReturnStd : 56.91387142279621 meantime : 30.726462395543177
+12-13 00:25:00 ../DATA\traffic_dqn DEBUG     train 75 totalreward : -349.0 ReturnAvg : -6.232142857142857 ReturnStd : 40.077599314788486 meantime : 28.91643454038997
+12-13 00:27:07 ../DATA\traffic_dqn DEBUG     train 76 totalreward : -290.0 ReturnAvg : -5.471698113207547 ReturnStd : 49.82558400706121 meantime : 30.95933147632312
+12-13 00:29:18 ../DATA\traffic_dqn DEBUG     train 77 totalreward : -283.0 ReturnAvg : -5.549019607843137 ReturnStd : 66.51531261870699 meantime : 32.698050139275765
+12-13 00:31:25 ../DATA\traffic_dqn DEBUG     train 78 totalreward : -293.0 ReturnAvg : -5.327272727272727 ReturnStd : 55.839072193859685 meantime : 30.947632311977717
+12-13 00:33:30 ../DATA\traffic_dqn DEBUG     train 79 totalreward : -261.0 ReturnAvg : -4.278688524590164 ReturnStd : 41.346251300942484 meantime : 29.653481894150417
+12-13 00:35:37 ../DATA\traffic_dqn DEBUG     train 80 totalreward : -227.0 ReturnAvg : -3.661290322580645 ReturnStd : 47.74628631003236 meantime : 30.89025069637883
+12-13 00:37:39 ../DATA\traffic_dqn DEBUG     train 81 totalreward : -316.0 ReturnAvg : -5.543859649122807 ReturnStd : 47.98540354653862 meantime : 30.04735376044568
+12-13 00:39:42 ../DATA\traffic_dqn DEBUG     train 82 totalreward : -387.0 ReturnAvg : -7.4423076923076925 ReturnStd : 38.16029625224589 meantime : 30.637325905292478
+12-13 00:41:46 ../DATA\traffic_dqn DEBUG     train 83 totalreward : -292.0 ReturnAvg : -5.0344827586206895 ReturnStd : 43.80952719453069 meantime : 29.514206128133704
+12-13 00:43:47 ../DATA\traffic_dqn DEBUG     train 84 totalreward : -345.0 ReturnAvg : -6.160714285714286 ReturnStd : 40.93582817119039 meantime : 29.88467966573816
+12-13 00:45:53 ../DATA\traffic_dqn DEBUG     train 85 totalreward : -396.0 ReturnAvg : -7.071428571428571 ReturnStd : 41.358561535006245 meantime : 29.443454038997213
+12-13 00:48:00 ../DATA\traffic_dqn DEBUG     train 86 totalreward : -232.0 ReturnAvg : -4.218181818181818 ReturnStd : 56.54465360438305 meantime : 29.34373259052925
+12-13 00:50:05 ../DATA\traffic_dqn DEBUG     train 87 totalreward : -287.0 ReturnAvg : -5.415094339622642 ReturnStd : 43.81325463367077 meantime : 29.88690807799443
+12-13 00:52:14 ../DATA\traffic_dqn DEBUG     train 88 totalreward : -315.0 ReturnAvg : -5.625 ReturnStd : 43.54577333105935 meantime : 29.44401114206128
+12-13 00:54:26 ../DATA\traffic_dqn DEBUG     train 89 totalreward : -262.0 ReturnAvg : -4.517241379310345 ReturnStd : 67.83581634060954 meantime : 33.2857938718663
+12-13 00:56:40 ../DATA\traffic_dqn DEBUG     train 90 totalreward : -344.0 ReturnAvg : -5.548387096774194 ReturnStd : 50.68711022103977 meantime : 31.95376044568245
+12-13 00:58:47 ../DATA\traffic_dqn DEBUG     train 91 totalreward : -225.0 ReturnAvg : -3.8793103448275863 ReturnStd : 44.36062155055948 meantime : 28.54707520891365
+12-13 01:00:58 ../DATA\traffic_dqn DEBUG     train 92 totalreward : -293.0 ReturnAvg : -4.80327868852459 ReturnStd : 52.58773143468848 meantime : 31.123676880222842
+12-13 01:03:07 ../DATA\traffic_dqn DEBUG     train 93 totalreward : -219.0 ReturnAvg : -3.7758620689655173 ReturnStd : 46.75358850451953 meantime : 28.151532033426182
+12-13 01:05:11 ../DATA\traffic_dqn DEBUG     train 94 totalreward : -314.0 ReturnAvg : -5.607142857142857 ReturnStd : 38.51422676447375 meantime : 29.13649025069638
+12-13 01:07:16 ../DATA\traffic_dqn DEBUG     train 95 totalreward : -373.0 ReturnAvg : -6.216666666666667 ReturnStd : 47.62950474466664 meantime : 29.40724233983287
+12-13 01:09:22 ../DATA\traffic_dqn DEBUG     train 96 totalreward : -251.0 ReturnAvg : -4.327586206896552 ReturnStd : 45.72156660476861 meantime : 30.872423398328692
+12-13 01:11:27 ../DATA\traffic_dqn DEBUG     train 97 totalreward : -339.0 ReturnAvg : -5.557377049180328 ReturnStd : 42.92178345268837 meantime : 29.044011142061283
+12-13 01:13:31 ../DATA\traffic_dqn DEBUG     train 98 totalreward : -270.0 ReturnAvg : -4.426229508196721 ReturnStd : 42.482188752384545 meantime : 29.11643454038997
+12-13 01:15:36 ../DATA\traffic_dqn DEBUG     train 99 totalreward : -291.0 ReturnAvg : -5.196428571428571 ReturnStd : 55.10652659131388 meantime : 29.128690807799444
+12-13 01:17:39 ../DATA\traffic_dqn DEBUG     train 100 totalreward : -294.0 ReturnAvg : -5.547169811320755 ReturnStd : 58.921298976873445 meantime : 30.861281337047355
+12-13 01:19:47 ../DATA\traffic_dqn DEBUG     train 101 totalreward : -242.0 ReturnAvg : -4.4 ReturnStd : 45.24382428977061 meantime : 30.06350974930362
+12-13 01:21:54 ../DATA\traffic_dqn DEBUG     train 102 totalreward : -328.0 ReturnAvg : -5.655172413793103 ReturnStd : 48.24847745467635 meantime : 29.94874651810585
+12-13 01:24:13 ../DATA\traffic_dqn DEBUG     train 103 totalreward : -343.0 ReturnAvg : -6.236363636363636 ReturnStd : 73.48592039205721 meantime : 36.15097493036212
+12-13 01:26:19 ../DATA\traffic_dqn DEBUG     train 104 totalreward : -291.0 ReturnAvg : -5.017241379310345 ReturnStd : 49.81396126807823 meantime : 30.40557103064067
+12-13 01:28:28 ../DATA\traffic_dqn DEBUG     train 105 totalreward : -319.0 ReturnAvg : -5.8 ReturnStd : 56.69227941664143 meantime : 30.65626740947075
+12-13 01:30:37 ../DATA\traffic_dqn DEBUG     train 106 totalreward : -305.0 ReturnAvg : -5.545454545454546 ReturnStd : 63.12464384974401 meantime : 30.77883008356546
+12-13 01:32:59 ../DATA\traffic_dqn DEBUG     train 107 totalreward : -397.0 ReturnAvg : -5.925373134328358 ReturnStd : 74.21898084316494 meantime : 34.64902506963789
+12-13 01:35:09 ../DATA\traffic_dqn DEBUG     train 108 totalreward : -269.0 ReturnAvg : -4.719298245614035 ReturnStd : 59.87992499203219 meantime : 30.857938718662954
+12-13 01:37:23 ../DATA\traffic_dqn DEBUG     train 109 totalreward : -299.0 ReturnAvg : -4.983333333333333 ReturnStd : 69.63104950778464 meantime : 32.811699164345406
+12-13 01:39:33 ../DATA\traffic_dqn DEBUG     train 110 totalreward : -302.0 ReturnAvg : -4.950819672131147 ReturnStd : 60.53624472626003 meantime : 31.65626740947075
+12-13 01:41:38 ../DATA\traffic_dqn DEBUG     train 111 totalreward : -278.0 ReturnAvg : -4.711864406779661 ReturnStd : 44.3025234952752 meantime : 29.417270194986074
+12-13 01:43:46 ../DATA\traffic_dqn DEBUG     train 112 totalreward : -292.0 ReturnAvg : -5.407407407407407 ReturnStd : 63.26151440164529 meantime : 30.67576601671309
+12-13 01:45:55 ../DATA\traffic_dqn DEBUG     train 113 totalreward : -268.0 ReturnAvg : -4.620689655172414 ReturnStd : 77.06106570636197 meantime : 32.58774373259053
+12-13 01:48:06 ../DATA\traffic_dqn DEBUG     train 114 totalreward : -291.0 ReturnAvg : -4.619047619047619 ReturnStd : 43.90662117744833 meantime : 29.947632311977717
+12-13 01:50:29 ../DATA\traffic_dqn DEBUG     train 115 totalreward : -331.0 ReturnAvg : -5.171875 ReturnStd : 85.7121918631438 meantime : 35.298607242339834
+12-13 01:52:36 ../DATA\traffic_dqn DEBUG     train 116 totalreward : -289.0 ReturnAvg : -4.587301587301587 ReturnStd : 42.54992769308571 meantime : 28.38384401114206
+12-13 01:54:48 ../DATA\traffic_dqn DEBUG     train 117 totalreward : -269.0 ReturnAvg : -4.637931034482759 ReturnStd : 64.68829726168353 meantime : 32.17270194986072
+12-13 01:56:58 ../DATA\traffic_dqn DEBUG     train 118 totalreward : -324.0 ReturnAvg : -5.0625 ReturnStd : 45.065187159824376 meantime : 29.61448467966574
+12-13 01:59:06 ../DATA\traffic_dqn DEBUG     train 119 totalreward : -301.0 ReturnAvg : -5.280701754385965 ReturnStd : 61.50873690214273 meantime : 31.893036211699165
+12-13 02:01:14 ../DATA\traffic_dqn DEBUG     train 120 totalreward : -297.0 ReturnAvg : -4.868852459016393 ReturnStd : 63.78433833407647 meantime : 30.592200557103062
+12-13 02:03:22 ../DATA\traffic_dqn DEBUG     train 121 totalreward : -234.0 ReturnAvg : -4.254545454545455 ReturnStd : 66.88693803231573 meantime : 31.83175487465181
+12-13 02:05:28 ../DATA\traffic_dqn DEBUG     train 122 totalreward : -273.0 ReturnAvg : -4.475409836065574 ReturnStd : 45.642447369539845 meantime : 28.77493036211699
+12-13 02:07:35 ../DATA\traffic_dqn DEBUG     train 123 totalreward : -242.0 ReturnAvg : -3.9672131147540983 ReturnStd : 56.5827313090947 meantime : 30.213370473537605
+12-13 02:09:54 ../DATA\traffic_dqn DEBUG     train 124 totalreward : -308.0 ReturnAvg : -5.310344827586207 ReturnStd : 105.17951926252034 meantime : 35.57715877437326
+12-13 02:12:05 ../DATA\traffic_dqn DEBUG     train 125 totalreward : -284.0 ReturnAvg : -4.655737704918033 ReturnStd : 65.12784029762419 meantime : 32.60222841225627
+12-13 02:14:19 ../DATA\traffic_dqn DEBUG     train 126 totalreward : -297.0 ReturnAvg : -4.640625 ReturnStd : 81.84137996520694 meantime : 33.4183844011142
+12-13 02:16:24 ../DATA\traffic_dqn DEBUG     train 127 totalreward : -277.0 ReturnAvg : -5.036363636363636 ReturnStd : 55.81950250140297 meantime : 30.94540389972145
+12-13 02:18:37 ../DATA\traffic_dqn DEBUG     train 128 totalreward : -440.0 ReturnAvg : -7.719298245614035 ReturnStd : 76.73713490345956 meantime : 33.44623955431755
+12-13 02:20:48 ../DATA\traffic_dqn DEBUG     train 129 totalreward : -281.0 ReturnAvg : -4.390625 ReturnStd : 44.131414968357575 meantime : 28.797214484679667
+12-13 02:22:57 ../DATA\traffic_dqn DEBUG     train 130 totalreward : -297.0 ReturnAvg : -5.711538461538462 ReturnStd : 75.2581037135285 meantime : 32.15431754874652
+12-13 02:25:11 ../DATA\traffic_dqn DEBUG     train 131 totalreward : -370.0 ReturnAvg : -5.873015873015873 ReturnStd : 59.89898694415671 meantime : 31.501949860724235
+12-13 02:27:22 ../DATA\traffic_dqn DEBUG     train 132 totalreward : -341.0 ReturnAvg : -5.328125 ReturnStd : 48.48326215287473 meantime : 30.381058495821726
+12-13 02:29:28 ../DATA\traffic_dqn DEBUG     train 133 totalreward : -294.0 ReturnAvg : -5.068965517241379 ReturnStd : 50.58242234861813 meantime : 29.4958217270195
+12-13 02:31:41 ../DATA\traffic_dqn DEBUG     train 134 totalreward : -337.0 ReturnAvg : -5.184615384615385 ReturnStd : 43.44258538406837 meantime : 30.04791086350975
+12-13 02:33:50 ../DATA\traffic_dqn DEBUG     train 135 totalreward : -221.0 ReturnAvg : -3.810344827586207 ReturnStd : 45.36573858995496 meantime : 29.81559888579387
+12-13 02:35:57 ../DATA\traffic_dqn DEBUG     train 136 totalreward : -287.0 ReturnAvg : -5.218181818181818 ReturnStd : 62.91803930051768 meantime : 29.18050139275766
+12-13 02:38:08 ../DATA\traffic_dqn DEBUG     train 137 totalreward : -290.0 ReturnAvg : -5.0 ReturnStd : 61.87501306164961 meantime : 32.38440111420613
+12-13 02:40:16 ../DATA\traffic_dqn DEBUG     train 138 totalreward : -272.0 ReturnAvg : -4.945454545454545 ReturnStd : 68.80312312726883 meantime : 32.15710306406685
+12-13 02:42:22 ../DATA\traffic_dqn DEBUG     train 139 totalreward : -258.0 ReturnAvg : -4.607142857142857 ReturnStd : 52.959444918941976 meantime : 30.93481894150418
+12-13 02:44:31 ../DATA\traffic_dqn DEBUG     train 140 totalreward : -325.0 ReturnAvg : -5.078125 ReturnStd : 48.29217867817081 meantime : 30.572701949860726
+12-13 02:46:39 ../DATA\traffic_dqn DEBUG     train 141 totalreward : -328.0 ReturnAvg : -5.466666666666667 ReturnStd : 65.64816998380246 meantime : 31.72924791086351
+12-13 02:48:56 ../DATA\traffic_dqn DEBUG     train 142 totalreward : -324.0 ReturnAvg : -5.4 ReturnStd : 82.7643643121845 meantime : 33.08245125348189
+12-13 02:51:04 ../DATA\traffic_dqn DEBUG     train 143 totalreward : -253.0 ReturnAvg : -4.362068965517241 ReturnStd : 48.12580434647554 meantime : 28.821727019498606
+12-13 02:53:16 ../DATA\traffic_dqn DEBUG     train 144 totalreward : -267.0 ReturnAvg : -4.377049180327869 ReturnStd : 69.18878046412104 meantime : 30.991643454038996
+12-13 02:55:27 ../DATA\traffic_dqn DEBUG     train 145 totalreward : -275.0 ReturnAvg : -4.508196721311475 ReturnStd : 55.751975029580834 meantime : 30.445125348189414
+12-13 02:57:31 ../DATA\traffic_dqn DEBUG     train 146 totalreward : -242.0 ReturnAvg : -4.4 ReturnStd : 48.12204182171523 meantime : 29.455710306406687
+12-13 02:59:41 ../DATA\traffic_dqn DEBUG     train 147 totalreward : -293.0 ReturnAvg : -4.578125 ReturnStd : 53.87769850767918 meantime : 29.93259052924791
+12-13 03:01:48 ../DATA\traffic_dqn DEBUG     train 148 totalreward : -461.0 ReturnAvg : -7.683333333333334 ReturnStd : 49.81749748387163 meantime : 29.816713091922004
+12-13 03:03:52 ../DATA\traffic_dqn DEBUG     train 149 totalreward : -300.0 ReturnAvg : -5.769230769230769 ReturnStd : 61.24622920405775 meantime : 31.28523676880223
+12-13 03:05:59 ../DATA\traffic_dqn DEBUG     train 150 totalreward : -312.0 ReturnAvg : -5.114754098360656 ReturnStd : 64.27581406812254 meantime : 31.022284122562674
+12-13 03:08:08 ../DATA\traffic_dqn DEBUG     train 151 totalreward : -405.0 ReturnAvg : -6.428571428571429 ReturnStd : 60.87763273814492 meantime : 30.939275766016713
+12-13 03:10:16 ../DATA\traffic_dqn DEBUG     train 152 totalreward : -304.0 ReturnAvg : -5.066666666666666 ReturnStd : 54.41993098938006 meantime : 31.282451253481895
+12-13 03:12:25 ../DATA\traffic_dqn DEBUG     train 153 totalreward : -403.0 ReturnAvg : -6.60655737704918 ReturnStd : 51.52503090207538 meantime : 31.509192200557102
+12-13 03:14:36 ../DATA\traffic_dqn DEBUG     train 154 totalreward : -265.0 ReturnAvg : -4.649122807017544 ReturnStd : 69.8304943260967 meantime : 31.64456824512535
+12-13 03:16:51 ../DATA\traffic_dqn DEBUG     train 155 totalreward : -233.0 ReturnAvg : -3.819672131147541 ReturnStd : 55.86121801913226 meantime : 32.68467966573816
+12-13 03:19:00 ../DATA\traffic_dqn DEBUG     train 156 totalreward : -357.0 ReturnAvg : -5.852459016393443 ReturnStd : 50.082501137450656 meantime : 31.183286908077996
+12-13 03:21:05 ../DATA\traffic_dqn DEBUG     train 157 totalreward : -405.0 ReturnAvg : -7.232142857142857 ReturnStd : 56.95016338601565 meantime : 30.749303621169915
+12-13 03:23:12 ../DATA\traffic_dqn DEBUG     train 158 totalreward : -321.0 ReturnAvg : -5.5344827586206895 ReturnStd : 63.64644138201704 meantime : 30.576044568245127
+12-13 03:25:16 ../DATA\traffic_dqn DEBUG     train 159 totalreward : -206.0 ReturnAvg : -3.377049180327869 ReturnStd : 51.13343647476564 meantime : 28.67799442896936
+12-13 03:27:22 ../DATA\traffic_dqn DEBUG     train 160 totalreward : -304.0 ReturnAvg : -5.1525423728813555 ReturnStd : 52.42163273193714 meantime : 29.811699164345402
+12-13 03:29:24 ../DATA\traffic_dqn DEBUG     train 161 totalreward : -321.0 ReturnAvg : -5.5344827586206895 ReturnStd : 47.99612610705353 meantime : 28.58050139275766
+12-13 03:31:29 ../DATA\traffic_dqn DEBUG     train 162 totalreward : -271.0 ReturnAvg : -4.442622950819672 ReturnStd : 46.78045149739854 meantime : 28.420055710306407
+12-13 03:33:34 ../DATA\traffic_dqn DEBUG     train 163 totalreward : -246.0 ReturnAvg : -4.241379310344827 ReturnStd : 49.913135008466114 meantime : 30.67966573816156
+12-13 03:35:51 ../DATA\traffic_dqn DEBUG     train 164 totalreward : -331.0 ReturnAvg : -5.253968253968254 ReturnStd : 73.66202705794014 meantime : 35.36880222841226
+12-13 03:38:02 ../DATA\traffic_dqn DEBUG     train 165 totalreward : -395.0 ReturnAvg : -6.475409836065574 ReturnStd : 56.156282674767816 meantime : 32.306406685236766
+12-13 03:40:15 ../DATA\traffic_dqn DEBUG     train 166 totalreward : -412.0 ReturnAvg : -7.357142857142857 ReturnStd : 110.25221548979486 meantime : 36.02116991643454
+12-13 03:42:25 ../DATA\traffic_dqn DEBUG     train 167 totalreward : -297.0 ReturnAvg : -4.95 ReturnStd : 48.96714034261479 meantime : 30.972701949860724
+12-13 03:44:36 ../DATA\traffic_dqn DEBUG     train 168 totalreward : -286.0 ReturnAvg : -5.2 ReturnStd : 50.26851535865801 meantime : 30.471866295264626
+12-13 03:46:59 ../DATA\traffic_dqn DEBUG     train 169 totalreward : -391.0 ReturnAvg : -6.109375 ReturnStd : 73.39344256886561 meantime : 35.4874651810585
+12-13 03:49:05 ../DATA\traffic_dqn DEBUG     train 170 totalreward : -290.0 ReturnAvg : -4.833333333333333 ReturnStd : 45.31525374774174 meantime : 28.91309192200557
+12-13 03:51:12 ../DATA\traffic_dqn DEBUG     train 171 totalreward : -309.0 ReturnAvg : -5.327586206896552 ReturnStd : 46.82925254767156 meantime : 30.43899721448468
+12-13 03:53:17 ../DATA\traffic_dqn DEBUG     train 172 totalreward : -208.0 ReturnAvg : -3.5254237288135593 ReturnStd : 50.61263858111418 meantime : 29.26852367688022
+12-13 03:55:21 ../DATA\traffic_dqn DEBUG     train 173 totalreward : -304.0 ReturnAvg : -5.333333333333333 ReturnStd : 47.607434674190436 meantime : 29.542618384401113
+12-13 03:57:30 ../DATA\traffic_dqn DEBUG     train 174 totalreward : -236.0 ReturnAvg : -4.068965517241379 ReturnStd : 64.8812873689632 meantime : 31.15431754874652
+12-13 03:59:32 ../DATA\traffic_dqn DEBUG     train 175 totalreward : -295.0 ReturnAvg : -5.267857142857143 ReturnStd : 58.6772318558511 meantime : 30.81392757660167
+12-13 04:01:44 ../DATA\traffic_dqn DEBUG     train 176 totalreward : -283.0 ReturnAvg : -4.639344262295082 ReturnStd : 49.565996007603296 meantime : 31.039554317548745
+12-13 04:03:54 ../DATA\traffic_dqn DEBUG     train 177 totalreward : -334.0 ReturnAvg : -5.566666666666666 ReturnStd : 54.649905967185546 meantime : 29.74707520891365
+12-13 04:06:03 ../DATA\traffic_dqn DEBUG     train 178 totalreward : -332.0 ReturnAvg : -5.442622950819672 ReturnStd : 51.743543064404015 meantime : 29.157103064066852
+12-13 04:08:14 ../DATA\traffic_dqn DEBUG     train 179 totalreward : -198.0 ReturnAvg : -3.413793103448276 ReturnStd : 50.6284758645862 meantime : 30.76657381615599
+12-13 04:10:22 ../DATA\traffic_dqn DEBUG     train 180 totalreward : -349.0 ReturnAvg : -6.017241379310345 ReturnStd : 53.018048774339924 meantime : 30.981615598885792
+12-13 04:12:31 ../DATA\traffic_dqn DEBUG     train 181 totalreward : -311.0 ReturnAvg : -5.271186440677966 ReturnStd : 52.313860660788805 meantime : 30.876323119777158
+12-13 04:14:40 ../DATA\traffic_dqn DEBUG     train 182 totalreward : -338.0 ReturnAvg : -6.035714285714286 ReturnStd : 53.79822231718996 meantime : 29.265738161559888
+12-13 04:16:51 ../DATA\traffic_dqn DEBUG     train 183 totalreward : -306.0 ReturnAvg : -5.884615384615385 ReturnStd : 60.19476524843011 meantime : 32.8941504178273
+12-13 04:18:58 ../DATA\traffic_dqn DEBUG     train 184 totalreward : -232.0 ReturnAvg : -4.0 ReturnStd : 44.9662708843126 meantime : 29.974373259052925
+12-13 04:21:05 ../DATA\traffic_dqn DEBUG     train 185 totalreward : -276.0 ReturnAvg : -5.2075471698113205 ReturnStd : 58.365264447131764 meantime : 30.32033426183844
+12-13 04:23:11 ../DATA\traffic_dqn DEBUG     train 186 totalreward : -261.0 ReturnAvg : -4.745454545454545 ReturnStd : 66.23078608014092 meantime : 31.314206128133705
+12-13 04:25:15 ../DATA\traffic_dqn DEBUG     train 187 totalreward : -281.0 ReturnAvg : -5.403846153846154 ReturnStd : 66.2063381858288 meantime : 30.441782729805013
+12-13 04:27:22 ../DATA\traffic_dqn DEBUG     train 188 totalreward : -302.0 ReturnAvg : -4.870967741935484 ReturnStd : 46.87095664143021 meantime : 29.676880222841227
+12-13 04:29:33 ../DATA\traffic_dqn DEBUG     train 189 totalreward : -326.0 ReturnAvg : -5.09375 ReturnStd : 46.599261914085076 meantime : 30.43008356545961
+12-13 04:31:43 ../DATA\traffic_dqn DEBUG     train 190 totalreward : -288.0 ReturnAvg : -4.571428571428571 ReturnStd : 55.302835624567344 meantime : 29.7091922005571
+12-13 04:33:59 ../DATA\traffic_dqn DEBUG     train 191 totalreward : -264.0 ReturnAvg : -4.258064516129032 ReturnStd : 73.95507256128025 meantime : 33.75543175487465
+12-13 04:36:08 ../DATA\traffic_dqn DEBUG     train 192 totalreward : -221.0 ReturnAvg : -3.810344827586207 ReturnStd : 59.675691607610304 meantime : 31.078551532033426
+12-13 04:38:14 ../DATA\traffic_dqn DEBUG     train 193 totalreward : -300.0 ReturnAvg : -5.172413793103448 ReturnStd : 55.91284410180646 meantime : 29.94818941504178
+12-13 04:40:23 ../DATA\traffic_dqn DEBUG     train 194 totalreward : -297.0 ReturnAvg : -4.95 ReturnStd : 66.64793695231684 meantime : 32.05515320334262
+12-13 04:42:41 ../DATA\traffic_dqn DEBUG     train 195 totalreward : -350.0 ReturnAvg : -5.223880597014926 ReturnStd : 72.9622312632441 meantime : 34.92924791086351
+12-13 04:44:58 ../DATA\traffic_dqn DEBUG     train 196 totalreward : -283.0 ReturnAvg : -4.492063492063492 ReturnStd : 85.61650801655222 meantime : 34.958774373259054
+12-13 04:47:04 ../DATA\traffic_dqn DEBUG     train 197 totalreward : -366.0 ReturnAvg : -6.0 ReturnStd : 52.74684358515419 meantime : 29.78217270194986
+12-13 04:49:08 ../DATA\traffic_dqn DEBUG     train 198 totalreward : -210.0 ReturnAvg : -3.8181818181818183 ReturnStd : 67.53937327328971 meantime : 30.15376044568245
+12-13 04:50:44 ../DATA\traffic_dqn DEBUG     train 199 totalreward : -245.0 ReturnAvg : -4.375 ReturnStd : 62.51587298438693 meantime : 31.284122562674096
+12-13 04:52:17 ../DATA\traffic_dqn DEBUG     train 200 totalreward : -431.0 ReturnAvg : -6.734375 ReturnStd : 52.3244810615392 meantime : 32.22785515320334
+12-13 04:53:50 ../DATA\traffic_dqn DEBUG     train 201 totalreward : -348.0 ReturnAvg : -6.0 ReturnStd : 66.83123366438366 meantime : 31.955988857938717
+12-13 04:55:19 ../DATA\traffic_dqn DEBUG     train 202 totalreward : -299.0 ReturnAvg : -4.983333333333333 ReturnStd : 61.61533674518238 meantime : 29.72534818941504
+12-13 04:56:49 ../DATA\traffic_dqn DEBUG     train 203 totalreward : -234.0 ReturnAvg : -4.0344827586206895 ReturnStd : 53.19254728626396 meantime : 29.63008356545961
+12-13 04:58:22 ../DATA\traffic_dqn DEBUG     train 204 totalreward : -228.0 ReturnAvg : -4.0 ReturnStd : 75.0478210116489 meantime : 32.28022284122563
+12-13 05:00:01 ../DATA\traffic_dqn DEBUG     train 205 totalreward : -260.0 ReturnAvg : -3.823529411764706 ReturnStd : 79.08780324953634 meantime : 34.97715877437326
+12-13 05:01:33 ../DATA\traffic_dqn DEBUG     train 206 totalreward : -302.0 ReturnAvg : -4.71875 ReturnStd : 60.624991945875756 meantime : 31.43008356545961
+12-13 05:03:07 ../DATA\traffic_dqn DEBUG     train 207 totalreward : -266.0 ReturnAvg : -4.586206896551724 ReturnStd : 85.6488489531043 meantime : 32.44568245125348
+12-13 05:04:35 ../DATA\traffic_dqn DEBUG     train 208 totalreward : -200.0 ReturnAvg : -3.6363636363636362 ReturnStd : 60.78557353857264 meantime : 30.52367688022284
+12-13 05:06:03 ../DATA\traffic_dqn DEBUG     train 209 totalreward : -303.0 ReturnAvg : -5.611111111111111 ReturnStd : 61.42216292809487 meantime : 30.08523676880223
+12-13 05:07:35 ../DATA\traffic_dqn DEBUG     train 210 totalreward : -318.0 ReturnAvg : -5.0476190476190474 ReturnStd : 43.48304853852915 meantime : 29.959888579387187
+12-13 05:09:12 ../DATA\traffic_dqn DEBUG     train 211 totalreward : -283.0 ReturnAvg : -4.639344262295082 ReturnStd : 90.46148220930516 meantime : 34.17047353760446
+12-13 05:10:46 ../DATA\traffic_dqn DEBUG     train 212 totalreward : -306.0 ReturnAvg : -4.78125 ReturnStd : 62.7394086554655 meantime : 32.36824512534819
+12-13 05:12:14 ../DATA\traffic_dqn DEBUG     train 213 totalreward : -298.0 ReturnAvg : -5.137931034482759 ReturnStd : 45.07367466097611 meantime : 29.096935933147634
+12-13 05:13:47 ../DATA\traffic_dqn DEBUG     train 214 totalreward : -297.0 ReturnAvg : -5.120689655172414 ReturnStd : 72.21664665917956 meantime : 32.875208913649026
+12-13 05:15:14 ../DATA\traffic_dqn DEBUG     train 215 totalreward : -276.0 ReturnAvg : -4.758620689655173 ReturnStd : 50.1526326688315 meantime : 28.74317548746518
+12-13 05:16:47 ../DATA\traffic_dqn DEBUG     train 216 totalreward : -312.0 ReturnAvg : -5.473684210526316 ReturnStd : 93.5399539859292 meantime : 33.357103064066855
+12-13 05:18:19 ../DATA\traffic_dqn DEBUG     train 217 totalreward : -316.0 ReturnAvg : -4.9375 ReturnStd : 57.018877082506634 meantime : 29.639554317548747
+12-13 05:19:46 ../DATA\traffic_dqn DEBUG     train 218 totalreward : -270.0 ReturnAvg : -5.0 ReturnStd : 49.586064350559 meantime : 30.149303621169917
+12-13 05:21:16 ../DATA\traffic_dqn DEBUG     train 219 totalreward : -398.0 ReturnAvg : -6.745762711864407 ReturnStd : 64.45142520424935 meantime : 30.183286908077996
+12-13 05:22:50 ../DATA\traffic_dqn DEBUG     train 220 totalreward : -307.0 ReturnAvg : -4.651515151515151 ReturnStd : 66.21715707914159 meantime : 31.12200557103064
+12-13 05:24:21 ../DATA\traffic_dqn DEBUG     train 221 totalreward : -298.0 ReturnAvg : -4.806451612903226 ReturnStd : 56.63403704421113 meantime : 30.54373259052925
+12-13 05:25:48 ../DATA\traffic_dqn DEBUG     train 222 totalreward : -198.0 ReturnAvg : -3.6 ReturnStd : 51.90957172202094 meantime : 29.172701949860723
+12-13 05:27:18 ../DATA\traffic_dqn DEBUG     train 223 totalreward : -308.0 ReturnAvg : -5.049180327868853 ReturnStd : 50.852221199938576 meantime : 29.28857938718663
+12-13 05:28:50 ../DATA\traffic_dqn DEBUG     train 224 totalreward : -292.0 ReturnAvg : -5.0344827586206895 ReturnStd : 80.57615064222583 meantime : 32.6050139275766
+12-13 05:30:24 ../DATA\traffic_dqn DEBUG     train 225 totalreward : -379.0 ReturnAvg : -6.423728813559322 ReturnStd : 87.2475930200419 meantime : 32.92534818941504
+12-13 05:31:58 ../DATA\traffic_dqn DEBUG     train 226 totalreward : -314.0 ReturnAvg : -4.617647058823529 ReturnStd : 50.76011328145378 meantime : 30.761559888579388
+12-13 05:33:28 ../DATA\traffic_dqn DEBUG     train 227 totalreward : -284.0 ReturnAvg : -4.896551724137931 ReturnStd : 64.2137297745402 meantime : 30.414484679665737
+12-13 05:35:01 ../DATA\traffic_dqn DEBUG     train 228 totalreward : -331.0 ReturnAvg : -5.516666666666667 ReturnStd : 75.5639887042028 meantime : 32.86852367688022
+12-13 05:36:30 ../DATA\traffic_dqn DEBUG     train 229 totalreward : -262.0 ReturnAvg : -4.517241379310345 ReturnStd : 58.36013086987239 meantime : 29.85013927576602
+12-13 05:38:01 ../DATA\traffic_dqn DEBUG     train 230 totalreward : -289.0 ReturnAvg : -4.515625 ReturnStd : 54.626857001472956 meantime : 29.370473537604457
+12-13 05:39:40 ../DATA\traffic_dqn DEBUG     train 231 totalreward : -380.0 ReturnAvg : -5.507246376811594 ReturnStd : 96.1795758831117 meantime : 34.266295264623956
+12-13 05:41:16 ../DATA\traffic_dqn DEBUG     train 232 totalreward : -403.0 ReturnAvg : -7.196428571428571 ReturnStd : 112.21605749033189 meantime : 34.954874651810584
+12-13 05:42:47 ../DATA\traffic_dqn DEBUG     train 233 totalreward : -330.0 ReturnAvg : -5.15625 ReturnStd : 51.28785758771271 meantime : 31.060724233983287
+12-13 05:44:15 ../DATA\traffic_dqn DEBUG     train 234 totalreward : -245.0 ReturnAvg : -4.016393442622951 ReturnStd : 45.85025226642034 meantime : 28.70974930362117
+12-13 05:45:48 ../DATA\traffic_dqn DEBUG     train 235 totalreward : -298.0 ReturnAvg : -4.73015873015873 ReturnStd : 64.4515829966065 meantime : 31.077994428969358
+12-13 05:47:23 ../DATA\traffic_dqn DEBUG     train 236 totalreward : -249.0 ReturnAvg : -4.081967213114754 ReturnStd : 75.96381690053025 meantime : 34.28356545961003
+12-13 05:48:53 ../DATA\traffic_dqn DEBUG     train 237 totalreward : -309.0 ReturnAvg : -4.983870967741935 ReturnStd : 52.941078609813445 meantime : 29.698050139275765
+12-13 05:50:25 ../DATA\traffic_dqn DEBUG     train 238 totalreward : -266.0 ReturnAvg : -4.222222222222222 ReturnStd : 51.073692306855776 meantime : 28.362674094707522
+12-13 05:51:55 ../DATA\traffic_dqn DEBUG     train 239 totalreward : -298.0 ReturnAvg : -4.73015873015873 ReturnStd : 52.38205386047279 meantime : 30.445125348189414
+12-13 05:53:30 ../DATA\traffic_dqn DEBUG     train 240 totalreward : -329.0 ReturnAvg : -5.222222222222222 ReturnStd : 67.89591577693545 meantime : 32.32089136490251
+12-13 05:55:04 ../DATA\traffic_dqn DEBUG     train 241 totalreward : -266.0 ReturnAvg : -4.360655737704918 ReturnStd : 73.96056387971953 meantime : 31.940947075208914
+12-13 05:56:36 ../DATA\traffic_dqn DEBUG     train 242 totalreward : -298.0 ReturnAvg : -4.806451612903226 ReturnStd : 61.91170578505651 meantime : 31.35431754874652
+12-13 05:58:09 ../DATA\traffic_dqn DEBUG     train 243 totalreward : -288.0 ReturnAvg : -4.9655172413793105 ReturnStd : 77.57665075249021 meantime : 32.66462395543176
+12-13 05:59:39 ../DATA\traffic_dqn DEBUG     train 244 totalreward : -282.0 ReturnAvg : -4.40625 ReturnStd : 46.76928704756467 meantime : 29.570473537604457
+12-13 06:01:11 ../DATA\traffic_dqn DEBUG     train 245 totalreward : -323.0 ReturnAvg : -5.666666666666667 ReturnStd : 50.29294301349906 meantime : 31.976601671309194
+12-13 06:02:40 ../DATA\traffic_dqn DEBUG     train 246 totalreward : -306.0 ReturnAvg : -5.186440677966102 ReturnStd : 55.11881606077362 meantime : 29.979387186629527
+12-13 06:04:18 ../DATA\traffic_dqn DEBUG     train 247 totalreward : -302.0 ReturnAvg : -5.11864406779661 ReturnStd : 83.83945205090112 meantime : 34.53426183844011
+12-13 06:05:48 ../DATA\traffic_dqn DEBUG     train 248 totalreward : -311.0 ReturnAvg : -4.859375 ReturnStd : 45.85672905484401 meantime : 30.01615598885794
+12-13 06:07:18 ../DATA\traffic_dqn DEBUG     train 249 totalreward : -295.0 ReturnAvg : -4.916666666666667 ReturnStd : 59.85407022268597 meantime : 30.386629526462396
+12-13 06:08:48 ../DATA\traffic_dqn DEBUG     train 250 totalreward : -209.0 ReturnAvg : -3.603448275862069 ReturnStd : 62.281601770859076 meantime : 30.5025069637883
+12-13 06:10:19 ../DATA\traffic_dqn DEBUG     train 251 totalreward : -323.0 ReturnAvg : -5.666666666666667 ReturnStd : 56.653558855504855 meantime : 31.020612813370473
+12-13 06:11:48 ../DATA\traffic_dqn DEBUG     train 252 totalreward : -276.0 ReturnAvg : -4.6 ReturnStd : 51.1022504396822 meantime : 29.79610027855153
+12-13 06:13:19 ../DATA\traffic_dqn DEBUG     train 253 totalreward : -366.0 ReturnAvg : -5.71875 ReturnStd : 64.11695094464099 meantime : 31.708635097493037
+12-13 06:14:51 ../DATA\traffic_dqn DEBUG     train 254 totalreward : -313.0 ReturnAvg : -5.131147540983607 ReturnStd : 54.193785685075284 meantime : 31.413927576601672
+12-13 06:16:18 ../DATA\traffic_dqn DEBUG     train 255 totalreward : -371.0 ReturnAvg : -6.183333333333334 ReturnStd : 37.86928908172895 meantime : 28.263509749303623
+12-13 06:17:54 ../DATA\traffic_dqn DEBUG     train 256 totalreward : -325.0 ReturnAvg : -4.850746268656716 ReturnStd : 74.72541850725813 meantime : 33.04233983286908
+12-13 06:19:23 ../DATA\traffic_dqn DEBUG     train 257 totalreward : -293.0 ReturnAvg : -4.650793650793651 ReturnStd : 46.26945193007802 meantime : 28.140947075208913
+12-13 06:20:55 ../DATA\traffic_dqn DEBUG     train 258 totalreward : -290.0 ReturnAvg : -4.754098360655738 ReturnStd : 60.8116295331915 meantime : 32.02116991643454
+12-13 06:22:26 ../DATA\traffic_dqn DEBUG     train 259 totalreward : -202.0 ReturnAvg : -3.3114754098360657 ReturnStd : 58.90435175095483 meantime : 30.601671309192202
+12-13 06:23:54 ../DATA\traffic_dqn DEBUG     train 260 totalreward : -242.0 ReturnAvg : -4.4 ReturnStd : 58.45327582390446 meantime : 30.987186629526462
+12-13 06:25:27 ../DATA\traffic_dqn DEBUG     train 261 totalreward : -319.0 ReturnAvg : -5.063492063492063 ReturnStd : 57.20497065090211 meantime : 32.35988857938719
+12-13 06:26:54 ../DATA\traffic_dqn DEBUG     train 262 totalreward : -330.0 ReturnAvg : -5.409836065573771 ReturnStd : 46.67796090661368 meantime : 28.119220055710308
+12-13 06:28:26 ../DATA\traffic_dqn DEBUG     train 263 totalreward : -446.0 ReturnAvg : -7.824561403508772 ReturnStd : 69.81532602240465 meantime : 33.622284122562675
+12-13 06:29:58 ../DATA\traffic_dqn DEBUG     train 264 totalreward : -275.0 ReturnAvg : -4.365079365079365 ReturnStd : 58.81348014882238 meantime : 30.951532033426183
+12-13 06:31:31 ../DATA\traffic_dqn DEBUG     train 265 totalreward : -283.0 ReturnAvg : -4.716666666666667 ReturnStd : 59.34450035363194 meantime : 31.88857938718663
+12-13 06:33:05 ../DATA\traffic_dqn DEBUG     train 266 totalreward : -275.0 ReturnAvg : -4.435483870967742 ReturnStd : 66.34285846967373 meantime : 31.450139275766016
+12-13 06:34:36 ../DATA\traffic_dqn DEBUG     train 267 totalreward : -260.0 ReturnAvg : -4.262295081967213 ReturnStd : 54.56742006396781 meantime : 30.740389972144847
+12-13 06:36:12 ../DATA\traffic_dqn DEBUG     train 268 totalreward : -238.0 ReturnAvg : -3.838709677419355 ReturnStd : 81.52818502317942 meantime : 33.41114206128134
+12-13 06:37:39 ../DATA\traffic_dqn DEBUG     train 269 totalreward : -340.0 ReturnAvg : -5.964912280701754 ReturnStd : 55.057534472452424 meantime : 29.05292479108635
+12-13 06:39:07 ../DATA\traffic_dqn DEBUG     train 270 totalreward : -237.0 ReturnAvg : -3.95 ReturnStd : 48.5950700517381 meantime : 29.144846796657383
+12-13 06:40:37 ../DATA\traffic_dqn DEBUG     train 271 totalreward : -338.0 ReturnAvg : -5.633333333333334 ReturnStd : 55.10352882428574 meantime : 29.289693593314762
+12-13 06:42:08 ../DATA\traffic_dqn DEBUG     train 272 totalreward : -274.0 ReturnAvg : -4.491803278688525 ReturnStd : 64.11787887812692 meantime : 31.72757660167131
+12-13 06:43:41 ../DATA\traffic_dqn DEBUG     train 273 totalreward : -346.0 ReturnAvg : -5.492063492063492 ReturnStd : 42.45104482640106 meantime : 30.535376044568245
+12-13 06:45:10 ../DATA\traffic_dqn DEBUG     train 274 totalreward : -270.0 ReturnAvg : -5.09433962264151 ReturnStd : 82.11663682489576 meantime : 31.29192200557103
+12-13 06:46:43 ../DATA\traffic_dqn DEBUG     train 275 totalreward : -245.0 ReturnAvg : -4.016393442622951 ReturnStd : 47.912998956024 meantime : 29.20389972144847
+12-13 06:48:11 ../DATA\traffic_dqn DEBUG     train 276 totalreward : -304.0 ReturnAvg : -4.75 ReturnStd : 37.71521576234186 meantime : 28.008913649025068
+12-13 06:49:40 ../DATA\traffic_dqn DEBUG     train 277 totalreward : -329.0 ReturnAvg : -5.576271186440678 ReturnStd : 52.13158169310388 meantime : 29.262952646239555
+12-13 06:51:13 ../DATA\traffic_dqn DEBUG     train 278 totalreward : -335.0 ReturnAvg : -5.0 ReturnStd : 58.72272310575544 meantime : 30.940947075208914
+12-13 06:52:42 ../DATA\traffic_dqn DEBUG     train 279 totalreward : -252.0 ReturnAvg : -4.131147540983607 ReturnStd : 45.94632485341574 meantime : 28.96601671309192
+12-13 06:54:17 ../DATA\traffic_dqn DEBUG     train 280 totalreward : -309.0 ReturnAvg : -4.753846153846154 ReturnStd : 60.50379028666927 meantime : 32.53983286908078
+12-13 06:55:51 ../DATA\traffic_dqn DEBUG     train 281 totalreward : -264.0 ReturnAvg : -4.327868852459017 ReturnStd : 76.53836952935637 meantime : 34.208356545961
+12-13 06:57:26 ../DATA\traffic_dqn DEBUG     train 282 totalreward : -278.0 ReturnAvg : -4.088235294117647 ReturnStd : 56.855527770501645 meantime : 31.735376044568245
+12-13 06:58:59 ../DATA\traffic_dqn DEBUG     train 283 totalreward : -296.0 ReturnAvg : -4.484848484848484 ReturnStd : 59.44522368463624 meantime : 31.128133704735376
+12-13 07:00:28 ../DATA\traffic_dqn DEBUG     train 284 totalreward : -308.0 ReturnAvg : -5.133333333333334 ReturnStd : 47.19373781434237 meantime : 28.939275766016713
+12-13 07:01:57 ../DATA\traffic_dqn DEBUG     train 285 totalreward : -254.0 ReturnAvg : -4.379310344827586 ReturnStd : 50.52818523331955 meantime : 29.090807799442896
+12-13 07:03:26 ../DATA\traffic_dqn DEBUG     train 286 totalreward : -243.0 ReturnAvg : -3.857142857142857 ReturnStd : 51.48180666248573 meantime : 29.314206128133705
+12-13 07:04:58 ../DATA\traffic_dqn DEBUG     train 287 totalreward : -275.0 ReturnAvg : -4.661016949152542 ReturnStd : 63.43890966893081 meantime : 31.34874651810585
+12-13 07:06:27 ../DATA\traffic_dqn DEBUG     train 288 totalreward : -238.0 ReturnAvg : -4.103448275862069 ReturnStd : 52.84351970030281 meantime : 30.55877437325905
+12-13 07:08:02 ../DATA\traffic_dqn DEBUG     train 289 totalreward : -281.0 ReturnAvg : -4.390625 ReturnStd : 58.30807651697469 meantime : 31.58941504178273
+12-13 07:09:34 ../DATA\traffic_dqn DEBUG     train 290 totalreward : -274.0 ReturnAvg : -4.029411764705882 ReturnStd : 49.00119163864202 meantime : 30.554874651810586
+12-13 07:11:06 ../DATA\traffic_dqn DEBUG     train 291 totalreward : -246.0 ReturnAvg : -4.1 ReturnStd : 51.20016276015797 meantime : 29.133147632311978
+12-13 07:12:34 ../DATA\traffic_dqn DEBUG     train 292 totalreward : -208.0 ReturnAvg : -3.4098360655737703 ReturnStd : 47.20842417501223 meantime : 28.536490250696378
+12-13 07:14:03 ../DATA\traffic_dqn DEBUG     train 293 totalreward : -256.0 ReturnAvg : -4.129032258064516 ReturnStd : 44.207167668343374 meantime : 28.145961002785516
+12-13 07:15:37 ../DATA\traffic_dqn DEBUG     train 294 totalreward : -298.0 ReturnAvg : -4.515151515151516 ReturnStd : 66.85720704657017 meantime : 31.390529247910862
+12-13 07:17:10 ../DATA\traffic_dqn DEBUG     train 295 totalreward : -308.0 ReturnAvg : -4.8125 ReturnStd : 63.34204641271073 meantime : 31.27242339832869
+12-13 07:18:41 ../DATA\traffic_dqn DEBUG     train 296 totalreward : -297.0 ReturnAvg : -4.868852459016393 ReturnStd : 49.98802329012062 meantime : 29.034540389972143
+12-13 07:20:16 ../DATA\traffic_dqn DEBUG     train 297 totalreward : -305.0 ReturnAvg : -4.552238805970149 ReturnStd : 60.28521354859489 meantime : 30.6941504178273
+12-13 07:21:45 ../DATA\traffic_dqn DEBUG     train 298 totalreward : -366.0 ReturnAvg : -6.310344827586207 ReturnStd : 58.14583535255652 meantime : 30.99610027855153
+12-13 07:23:15 ../DATA\traffic_dqn DEBUG     train 299 totalreward : -350.0 ReturnAvg : -6.25 ReturnStd : 56.216815608346735 meantime : 30.238440111420612
+12-13 07:24:44 ../DATA\traffic_dqn DEBUG     train 300 totalreward : -261.0 ReturnAvg : -4.078125 ReturnStd : 51.50616003435293 meantime : 28.629526462395543
+12-13 07:26:15 ../DATA\traffic_dqn DEBUG     train 301 totalreward : -372.0 ReturnAvg : -5.904761904761905 ReturnStd : 44.9693773356846 meantime : 28.6991643454039
+12-13 07:27:49 ../DATA\traffic_dqn DEBUG     train 302 totalreward : -267.0 ReturnAvg : -3.926470588235294 ReturnStd : 61.70835489634966 meantime : 31.28467966573816
+12-13 07:29:26 ../DATA\traffic_dqn DEBUG     train 303 totalreward : -358.0 ReturnAvg : -5.507692307692308 ReturnStd : 50.964278010544746 meantime : 29.246239554317548
+12-13 07:30:53 ../DATA\traffic_dqn DEBUG     train 304 totalreward : -280.0 ReturnAvg : -5.0 ReturnStd : 51.370502931435 meantime : 29.050139275766018
+12-13 07:32:26 ../DATA\traffic_dqn DEBUG     train 305 totalreward : -276.0 ReturnAvg : -4.524590163934426 ReturnStd : 60.05260168464251 meantime : 32.760445682451255
+12-13 07:33:58 ../DATA\traffic_dqn DEBUG     train 306 totalreward : -368.0 ReturnAvg : -5.575757575757576 ReturnStd : 51.89092891068687 meantime : 29.74150417827298
+12-13 07:35:29 ../DATA\traffic_dqn DEBUG     train 307 totalreward : -343.0 ReturnAvg : -5.044117647058823 ReturnStd : 53.269413424350695 meantime : 29.11699164345404
+12-13 07:36:57 ../DATA\traffic_dqn DEBUG     train 308 totalreward : -277.0 ReturnAvg : -4.859649122807017 ReturnStd : 54.23161458899704 meantime : 29.06685236768802
+12-13 07:38:26 ../DATA\traffic_dqn DEBUG     train 309 totalreward : -279.0 ReturnAvg : -4.573770491803279 ReturnStd : 58.39533414338699 meantime : 29.364345403899723
+12-13 07:39:56 ../DATA\traffic_dqn DEBUG     train 310 totalreward : -222.0 ReturnAvg : -3.8275862068965516 ReturnStd : 60.55693756521256 meantime : 30.06518105849582
+12-13 07:41:29 ../DATA\traffic_dqn DEBUG     train 311 totalreward : -299.0 ReturnAvg : -4.983333333333333 ReturnStd : 74.49932699174015 meantime : 32.05069637883008
+12-13 07:43:01 ../DATA\traffic_dqn DEBUG     train 312 totalreward : -284.0 ReturnAvg : -4.303030303030303 ReturnStd : 61.120588629803194 meantime : 30.28857938718663
+12-13 07:44:31 ../DATA\traffic_dqn DEBUG     train 313 totalreward : -283.0 ReturnAvg : -4.964912280701754 ReturnStd : 56.86671548678949 meantime : 30.096935933147634
+12-13 07:46:01 ../DATA\traffic_dqn DEBUG     train 314 totalreward : -267.0 ReturnAvg : -4.171875 ReturnStd : 48.89515399284856 meantime : 29.294707520891365
+12-13 07:47:31 ../DATA\traffic_dqn DEBUG     train 315 totalreward : -329.0 ReturnAvg : -5.061538461538461 ReturnStd : 50.03441182690075 meantime : 29.823955431754875
+12-13 07:49:00 ../DATA\traffic_dqn DEBUG     train 316 totalreward : -198.0 ReturnAvg : -3.2459016393442623 ReturnStd : 52.033298209393784 meantime : 29.046796657381616
+12-13 07:50:29 ../DATA\traffic_dqn DEBUG     train 317 totalreward : -421.0 ReturnAvg : -6.790322580645161 ReturnStd : 52.08991515817878 meantime : 28.99610027855153
+12-13 07:51:58 ../DATA\traffic_dqn DEBUG     train 318 totalreward : -256.0 ReturnAvg : -4.129032258064516 ReturnStd : 52.3334482170751 meantime : 28.71364902506964
+12-13 07:53:25 ../DATA\traffic_dqn DEBUG     train 319 totalreward : -354.0 ReturnAvg : -6.103448275862069 ReturnStd : 54.869968437983054 meantime : 29.15041782729805
+12-13 07:54:56 ../DATA\traffic_dqn DEBUG     train 320 totalreward : -275.0 ReturnAvg : -4.166666666666667 ReturnStd : 48.23822931738652 meantime : 29.3041782729805
+12-13 07:56:23 ../DATA\traffic_dqn DEBUG     train 321 totalreward : -269.0 ReturnAvg : -4.637931034482759 ReturnStd : 55.44326030240972 meantime : 28.838997214484678
+12-13 07:57:54 ../DATA\traffic_dqn DEBUG     train 322 totalreward : -335.0 ReturnAvg : -5.153846153846154 ReturnStd : 50.26429556140246 meantime : 29.88300835654596
+12-13 07:59:27 ../DATA\traffic_dqn DEBUG     train 323 totalreward : -276.0 ReturnAvg : -4.380952380952381 ReturnStd : 49.00613132077943 meantime : 29.237883008356548
+12-13 08:00:55 ../DATA\traffic_dqn DEBUG     train 324 totalreward : -290.0 ReturnAvg : -5.0 ReturnStd : 56.28192580583746 meantime : 29.06183844011142
+12-13 08:02:26 ../DATA\traffic_dqn DEBUG     train 325 totalreward : -325.0 ReturnAvg : -5.0 ReturnStd : 50.19101973001207 meantime : 28.834540389972144
+12-13 08:03:55 ../DATA\traffic_dqn DEBUG     train 326 totalreward : -266.0 ReturnAvg : -4.586206896551724 ReturnStd : 50.080636523289954 meantime : 29.232869080779945
+12-13 08:05:27 ../DATA\traffic_dqn DEBUG     train 327 totalreward : -369.0 ReturnAvg : -5.676923076923077 ReturnStd : 53.7507374381778 meantime : 30.452367688022285
+12-13 08:07:01 ../DATA\traffic_dqn DEBUG     train 328 totalreward : -376.0 ReturnAvg : -5.696969696969697 ReturnStd : 59.88700716500115 meantime : 30.99610027855153
+12-13 08:08:35 ../DATA\traffic_dqn DEBUG     train 329 totalreward : -297.0 ReturnAvg : -4.183098591549296 ReturnStd : 47.59639880422809 meantime : 29.942618384401115
+12-13 08:10:08 ../DATA\traffic_dqn DEBUG     train 330 totalreward : -280.0 ReturnAvg : -4.242424242424242 ReturnStd : 49.59779461313462 meantime : 30.126462395543175
+12-13 08:11:44 ../DATA\traffic_dqn DEBUG     train 331 totalreward : -326.0 ReturnAvg : -5.09375 ReturnStd : 68.31789634449747 meantime : 33.054038997214484
+12-13 08:13:17 ../DATA\traffic_dqn DEBUG     train 332 totalreward : -319.0 ReturnAvg : -5.229508196721311 ReturnStd : 71.22612189879311 meantime : 32.37883008356546
+12-13 08:14:48 ../DATA\traffic_dqn DEBUG     train 333 totalreward : -281.0 ReturnAvg : -4.60655737704918 ReturnStd : 58.96046986058654 meantime : 30.534261838440113
+12-13 08:16:22 ../DATA\traffic_dqn DEBUG     train 334 totalreward : -289.0 ReturnAvg : -4.25 ReturnStd : 50.18564799527732 meantime : 31.15543175487465
+12-13 08:17:50 ../DATA\traffic_dqn DEBUG     train 335 totalreward : -238.0 ReturnAvg : -4.033898305084746 ReturnStd : 54.14010891453575 meantime : 29.096935933147634
+12-13 08:19:23 ../DATA\traffic_dqn DEBUG     train 336 totalreward : -342.0 ReturnAvg : -5.34375 ReturnStd : 58.50299638426651 meantime : 30.848467966573818
+12-13 08:20:53 ../DATA\traffic_dqn DEBUG     train 337 totalreward : -340.0 ReturnAvg : -5.964912280701754 ReturnStd : 55.057534472452424 meantime : 29.05292479108635
+12-13 08:22:26 ../DATA\traffic_dqn DEBUG     train 338 totalreward : -348.0 ReturnAvg : -5.612903225806452 ReturnStd : 54.066373437956514 meantime : 30.714206128133704
+12-13 08:23:57 ../DATA\traffic_dqn DEBUG     train 339 totalreward : -254.0 ReturnAvg : -4.163934426229508 ReturnStd : 48.63082080390248 meantime : 29.59275766016713
+12-13 08:25:24 ../DATA\traffic_dqn DEBUG     train 340 totalreward : -229.0 ReturnAvg : -3.9482758620689653 ReturnStd : 46.99905443428627 meantime : 28.38607242339833
+12-13 08:26:57 ../DATA\traffic_dqn DEBUG     train 341 totalreward : -345.0 ReturnAvg : -5.073529411764706 ReturnStd : 50.56600700088788 meantime : 30.859610027855155
+12-13 08:28:28 ../DATA\traffic_dqn DEBUG     train 342 totalreward : -328.0 ReturnAvg : -5.125 ReturnStd : 51.095957521119026 meantime : 29.807242339832868
+12-13 08:29:59 ../DATA\traffic_dqn DEBUG     train 343 totalreward : -311.0 ReturnAvg : -5.183333333333334 ReturnStd : 58.95972966544388 meantime : 30.193871866295265
+12-13 08:31:26 ../DATA\traffic_dqn DEBUG     train 344 totalreward : -303.0 ReturnAvg : -5.05 ReturnStd : 47.79240699804381 meantime : 27.65125348189415
+12-13 08:32:58 ../DATA\traffic_dqn DEBUG     train 345 totalreward : -432.0 ReturnAvg : -7.081967213114754 ReturnStd : 57.5101687606998 meantime : 30.478551532033425
+12-13 08:34:29 ../DATA\traffic_dqn DEBUG     train 346 totalreward : -415.0 ReturnAvg : -7.033898305084746 ReturnStd : 55.09005450298811 meantime : 30.28857938718663
+12-13 08:35:58 ../DATA\traffic_dqn DEBUG     train 347 totalreward : -252.0 ReturnAvg : -3.9375 ReturnStd : 48.27812489886077 meantime : 28.47799442896936
+12-13 08:37:29 ../DATA\traffic_dqn DEBUG     train 348 totalreward : -247.0 ReturnAvg : -3.6323529411764706 ReturnStd : 49.79720769745697 meantime : 29.479108635097493
+12-13 08:38:57 ../DATA\traffic_dqn DEBUG     train 349 totalreward : -231.0 ReturnAvg : -3.9827586206896552 ReturnStd : 54.321359036408744 meantime : 29.259052924791085
+12-13 08:40:29 ../DATA\traffic_dqn DEBUG     train 350 totalreward : -309.0 ReturnAvg : -4.753846153846154 ReturnStd : 49.539737202877625 meantime : 30.198885793871867
+12-13 08:41:58 ../DATA\traffic_dqn DEBUG     train 351 totalreward : -249.0 ReturnAvg : -4.293103448275862 ReturnStd : 61.46852534110435 meantime : 29.701392757660166
+12-13 08:43:25 ../DATA\traffic_dqn DEBUG     train 352 totalreward : -299.0 ReturnAvg : -5.245614035087719 ReturnStd : 50.97102055976182 meantime : 28.77493036211699
+12-13 08:45:00 ../DATA\traffic_dqn DEBUG     train 353 totalreward : -361.0 ReturnAvg : -5.918032786885246 ReturnStd : 67.27367523583523 meantime : 32.15933147632312
+12-13 08:46:29 ../DATA\traffic_dqn DEBUG     train 354 totalreward : -270.0 ReturnAvg : -4.21875 ReturnStd : 46.95725075467579 meantime : 28.289136490250698
+12-13 08:47:58 ../DATA\traffic_dqn DEBUG     train 355 totalreward : -284.0 ReturnAvg : -4.896551724137931 ReturnStd : 55.43579375718097 meantime : 29.146518105849584
+12-13 08:49:27 ../DATA\traffic_dqn DEBUG     train 356 totalreward : -317.0 ReturnAvg : -4.953125 ReturnStd : 43.974932378963075 meantime : 28.231197771587745
+12-13 08:50:58 ../DATA\traffic_dqn DEBUG     train 357 totalreward : -252.0 ReturnAvg : -3.9375 ReturnStd : 48.27812489886077 meantime : 28.47799442896936
+12-13 08:52:30 ../DATA\traffic_dqn DEBUG     train 358 totalreward : -316.0 ReturnAvg : -5.096774193548387 ReturnStd : 58.533340286353415 meantime : 31.597771587743733
+12-13 08:53:59 ../DATA\traffic_dqn DEBUG     train 359 totalreward : -265.0 ReturnAvg : -4.568965517241379 ReturnStd : 54.97432380884907 meantime : 29.059052924791086
+12-13 08:55:31 ../DATA\traffic_dqn DEBUG     train 360 totalreward : -245.0 ReturnAvg : -3.6029411764705883 ReturnStd : 50.24415087581672 meantime : 29.84735376044568
+12-13 08:56:59 ../DATA\traffic_dqn DEBUG     train 361 totalreward : -300.0 ReturnAvg : -4.918032786885246 ReturnStd : 50.69332257316659 meantime : 28.30974930362117
+12-13 08:58:31 ../DATA\traffic_dqn DEBUG     train 362 totalreward : -310.0 ReturnAvg : -4.84375 ReturnStd : 52.74443654014611 meantime : 28.821169916434542
+12-13 09:00:02 ../DATA\traffic_dqn DEBUG     train 363 totalreward : -271.0 ReturnAvg : -4.044776119402985 ReturnStd : 48.741300895745276 meantime : 28.94818941504178
+12-13 09:01:32 ../DATA\traffic_dqn DEBUG     train 364 totalreward : -355.0 ReturnAvg : -5.819672131147541 ReturnStd : 50.52884525863608 meantime : 29.095264623955433
+12-13 09:03:03 ../DATA\traffic_dqn DEBUG     train 365 totalreward : -252.0 ReturnAvg : -3.9375 ReturnStd : 48.27812489886077 meantime : 28.47799442896936
+12-13 09:04:34 ../DATA\traffic_dqn DEBUG     train 366 totalreward : -257.0 ReturnAvg : -4.015625 ReturnStd : 44.09559650191133 meantime : 27.884122562674094
+12-13 09:06:08 ../DATA\traffic_dqn DEBUG     train 367 totalreward : -365.0 ReturnAvg : -5.53030303030303 ReturnStd : 47.95048572982712 meantime : 29.606128133704736
+12-13 09:07:40 ../DATA\traffic_dqn DEBUG     train 368 totalreward : -303.0 ReturnAvg : -5.224137931034483 ReturnStd : 54.40145887478674 meantime : 30.271309192200558
+12-13 09:09:13 ../DATA\traffic_dqn DEBUG     train 369 totalreward : -223.0 ReturnAvg : -3.6557377049180326 ReturnStd : 47.14083720780225 meantime : 28.44456824512535
+12-13 09:10:44 ../DATA\traffic_dqn DEBUG     train 370 totalreward : -259.0 ReturnAvg : -4.543859649122807 ReturnStd : 58.502982432728686 meantime : 29.324791086350974
+12-13 09:12:23 ../DATA\traffic_dqn DEBUG     train 371 totalreward : -485.0 ReturnAvg : -7.132352941176471 ReturnStd : 54.48958465285029 meantime : 33.503621169916435
+12-13 09:13:54 ../DATA\traffic_dqn DEBUG     train 372 totalreward : -314.0 ReturnAvg : -5.064516129032258 ReturnStd : 42.695044272269236 meantime : 28.367688022284124
+12-13 09:15:24 ../DATA\traffic_dqn DEBUG     train 373 totalreward : -353.0 ReturnAvg : -5.883333333333334 ReturnStd : 44.371947469343986 meantime : 29.250696378830085
+12-13 09:16:57 ../DATA\traffic_dqn DEBUG     train 374 totalreward : -366.0 ReturnAvg : -5.809523809523809 ReturnStd : 40.37162965159598 meantime : 28.21949860724234
+12-13 09:18:29 ../DATA\traffic_dqn DEBUG     train 375 totalreward : -292.0 ReturnAvg : -5.3090909090909095 ReturnStd : 54.81170171257318 meantime : 29.0991643454039
+12-13 09:19:57 ../DATA\traffic_dqn DEBUG     train 376 totalreward : -315.0 ReturnAvg : -5.080645161290323 ReturnStd : 41.5204179803285 meantime : 27.787186629526463
+12-13 09:21:25 ../DATA\traffic_dqn DEBUG     train 377 totalreward : -290.0 ReturnAvg : -5.087719298245614 ReturnStd : 46.72550702859308 meantime : 29.271309192200558
+12-13 09:22:57 ../DATA\traffic_dqn DEBUG     train 378 totalreward : -261.0 ReturnAvg : -4.078125 ReturnStd : 40.90129302949205 meantime : 28.074651810584957
+12-13 09:24:52 ../DATA\traffic_dqn DEBUG     train 379 totalreward : -384.0 ReturnAvg : -5.818181818181818 ReturnStd : 66.38430562307518 meantime : 31.259052924791085
+12-13 09:26:43 ../DATA\traffic_dqn DEBUG     train 380 totalreward : -250.0 ReturnAvg : -4.310344827586207 ReturnStd : 45.30365247380503 meantime : 29.194986072423397
+12-13 09:28:26 ../DATA\traffic_dqn DEBUG     train 381 totalreward : -406.0 ReturnAvg : -6.444444444444445 ReturnStd : 44.312661767776106 meantime : 29.009470752089136
+12-13 09:30:05 ../DATA\traffic_dqn DEBUG     train 382 totalreward : -380.0 ReturnAvg : -6.785714285714286 ReturnStd : 97.0087835282592 meantime : 35.080779944289695
+12-13 09:31:43 ../DATA\traffic_dqn DEBUG     train 383 totalreward : -303.0 ReturnAvg : -4.887096774193548 ReturnStd : 41.34282511325844 meantime : 27.99442896935933
+12-13 09:33:18 ../DATA\traffic_dqn DEBUG     train 384 totalreward : -347.0 ReturnAvg : -5.507936507936508 ReturnStd : 41.98899062655875 meantime : 27.757103064066854
+12-13 09:35:01 ../DATA\traffic_dqn DEBUG     train 385 totalreward : -253.0 ReturnAvg : -3.953125 ReturnStd : 52.40778499168206 meantime : 29.095821727019498
+12-13 09:36:42 ../DATA\traffic_dqn DEBUG     train 386 totalreward : -278.0 ReturnAvg : -4.412698412698413 ReturnStd : 61.15829965367001 meantime : 30.910306406685237
+12-13 09:38:19 ../DATA\traffic_dqn DEBUG     train 387 totalreward : -373.0 ReturnAvg : -5.328571428571428 ReturnStd : 45.18429607999772 meantime : 30.733704735376044
+12-13 09:39:57 ../DATA\traffic_dqn DEBUG     train 388 totalreward : -310.0 ReturnAvg : -4.84375 ReturnStd : 50.84849393971763 meantime : 30.54150417827298
+12-13 09:41:29 ../DATA\traffic_dqn DEBUG     train 389 totalreward : -246.0 ReturnAvg : -4.241379310344827 ReturnStd : 52.413906533452575 meantime : 29.436211699164346
+12-13 09:43:03 ../DATA\traffic_dqn DEBUG     train 390 totalreward : -339.0 ReturnAvg : -5.380952380952381 ReturnStd : 52.83890719326702 meantime : 29.327019498607243
+12-13 09:44:35 ../DATA\traffic_dqn DEBUG     train 391 totalreward : -326.0 ReturnAvg : -5.344262295081967 ReturnStd : 43.14781503724816 meantime : 28.11476323119777
+12-13 09:46:04 ../DATA\traffic_dqn DEBUG     train 392 totalreward : -296.0 ReturnAvg : -4.625 ReturnStd : 40.042750592335686 meantime : 27.47576601671309
+12-13 09:47:35 ../DATA\traffic_dqn DEBUG     train 393 totalreward : -236.0 ReturnAvg : -3.6875 ReturnStd : 40.54236788533694 meantime : 27.823955431754875
+12-13 09:49:05 ../DATA\traffic_dqn DEBUG     train 394 totalreward : -344.0 ReturnAvg : -5.4603174603174605 ReturnStd : 45.29579166717767 meantime : 28.662952646239553
+12-13 09:50:33 ../DATA\traffic_dqn DEBUG     train 395 totalreward : -231.0 ReturnAvg : -3.9827586206896552 ReturnStd : 41.942280280745734 meantime : 28.296378830083565
+12-13 09:52:03 ../DATA\traffic_dqn DEBUG     train 396 totalreward : -292.0 ReturnAvg : -4.5625 ReturnStd : 50.142258562513916 meantime : 28.418941504178274
+12-13 09:53:33 ../DATA\traffic_dqn DEBUG     train 397 totalreward : -362.0 ReturnAvg : -5.65625 ReturnStd : 45.11832317293607 meantime : 28.740947075208915
+12-13 09:55:17 ../DATA\traffic_dqn DEBUG     train 398 totalreward : -280.0 ReturnAvg : -4.516129032258065 ReturnStd : 53.6216560534905 meantime : 29.061281337047355
+12-13 09:57:00 ../DATA\traffic_dqn DEBUG     train 399 totalreward : -283.0 ReturnAvg : -4.964912280701754 ReturnStd : 69.09514541361895 meantime : 30.566573816155987
+12-13 09:58:39 ../DATA\traffic_dqn DEBUG     train 400 totalreward : -274.0 ReturnAvg : -4.566666666666666 ReturnStd : 54.14744274252992 meantime : 30.17214484679666
+12-13 10:00:15 ../DATA\traffic_dqn DEBUG     train 401 totalreward : -337.0 ReturnAvg : -5.184615384615385 ReturnStd : 44.35829375496843 meantime : 28.724233983286908
+12-13 10:01:48 ../DATA\traffic_dqn DEBUG     train 402 totalreward : -291.0 ReturnAvg : -4.770491803278689 ReturnStd : 56.56286027114622 meantime : 30.363231197771587
+12-13 10:03:19 ../DATA\traffic_dqn DEBUG     train 403 totalreward : -335.0 ReturnAvg : -5.583333333333333 ReturnStd : 48.88943023690181 meantime : 28.613370473537604
+12-13 10:04:54 ../DATA\traffic_dqn DEBUG     train 404 totalreward : -458.0 ReturnAvg : -7.387096774193548 ReturnStd : 62.04638089279552 meantime : 31.60724233983287
+12-13 10:06:26 ../DATA\traffic_dqn DEBUG     train 405 totalreward : -296.0 ReturnAvg : -4.625 ReturnStd : 40.042750592335686 meantime : 27.47576601671309
+12-13 10:07:57 ../DATA\traffic_dqn DEBUG     train 406 totalreward : -304.0 ReturnAvg : -4.903225806451613 ReturnStd : 36.93617410258009 meantime : 27.8991643454039
+12-13 10:09:29 ../DATA\traffic_dqn DEBUG     train 407 totalreward : -282.0 ReturnAvg : -4.622950819672131 ReturnStd : 56.81380689223126 meantime : 30.397771587743733
+12-13 10:11:02 ../DATA\traffic_dqn DEBUG     train 408 totalreward : -228.0 ReturnAvg : -3.9310344827586206 ReturnStd : 65.73978537908735 meantime : 32.02896935933148
+12-13 10:12:37 ../DATA\traffic_dqn DEBUG     train 409 totalreward : -249.0 ReturnAvg : -4.293103448275862 ReturnStd : 78.61144266552304 meantime : 31.89526462395543
+12-13 10:14:07 ../DATA\traffic_dqn DEBUG     train 410 totalreward : -268.0 ReturnAvg : -4.962962962962963 ReturnStd : 64.77081045901114 meantime : 30.18217270194986
+12-13 10:15:39 ../DATA\traffic_dqn DEBUG     train 411 totalreward : -333.0 ReturnAvg : -5.459016393442623 ReturnStd : 58.08263581001706 meantime : 30.8958217270195
+12-13 10:17:11 ../DATA\traffic_dqn DEBUG     train 412 totalreward : -345.0 ReturnAvg : -5.476190476190476 ReturnStd : 49.67636758659633 meantime : 29.179944289693594
+12-13 10:19:01 ../DATA\traffic_dqn DEBUG     train 413 totalreward : -258.0 ReturnAvg : -4.448275862068965 ReturnStd : 94.87072373058655 meantime : 34.661281337047356
+12-13 10:20:43 ../DATA\traffic_dqn DEBUG     train 414 totalreward : -273.0 ReturnAvg : -4.55 ReturnStd : 45.369382113197595 meantime : 29.007242339832867
+12-13 10:22:32 ../DATA\traffic_dqn DEBUG     train 415 totalreward : -402.0 ReturnAvg : -6.184615384615385 ReturnStd : 60.888016329523985 meantime : 32.8958217270195
+12-13 10:24:35 ../DATA\traffic_dqn DEBUG     train 416 totalreward : -249.0 ReturnAvg : -3.830769230769231 ReturnStd : 58.63697159531537 meantime : 32.94874651810585
+12-13 10:26:19 ../DATA\traffic_dqn DEBUG     train 417 totalreward : -275.0 ReturnAvg : -5.0 ReturnStd : 98.0181801318696 meantime : 36.26072423398329
+12-13 10:28:03 ../DATA\traffic_dqn DEBUG     train 418 totalreward : -280.0 ReturnAvg : -4.375 ReturnStd : 58.750930843689616 meantime : 31.96824512534819
+12-13 10:29:44 ../DATA\traffic_dqn DEBUG     train 419 totalreward : -340.0 ReturnAvg : -5.3125 ReturnStd : 54.26637857596543 meantime : 30.52033426183844
+12-13 10:31:32 ../DATA\traffic_dqn DEBUG     train 420 totalreward : -288.0 ReturnAvg : -4.5 ReturnStd : 60.483727150366654 meantime : 32.16267409470752
+12-13 10:33:05 ../DATA\traffic_dqn DEBUG     train 421 totalreward : -326.0 ReturnAvg : -5.344262295081967 ReturnStd : 43.14781503724816 meantime : 28.11476323119777
+12-13 10:34:38 ../DATA\traffic_dqn DEBUG     train 422 totalreward : -341.0 ReturnAvg : -5.683333333333334 ReturnStd : 45.4633521519134 meantime : 29.181615598885795
+12-13 10:36:32 ../DATA\traffic_dqn DEBUG     train 423 totalreward : -253.0 ReturnAvg : -4.362068965517241 ReturnStd : 50.64742845902924 meantime : 29.9008356545961
+12-13 10:38:28 ../DATA\traffic_dqn DEBUG     train 424 totalreward : -293.0 ReturnAvg : -4.80327868852459 ReturnStd : 51.10799227612158 meantime : 31.730362116991643
+12-13 10:40:33 ../DATA\traffic_dqn DEBUG     train 425 totalreward : -318.0 ReturnAvg : -5.389830508474576 ReturnStd : 72.26083097495912 meantime : 31.65849582172702
+12-13 10:42:14 ../DATA\traffic_dqn DEBUG     train 426 totalreward : -317.0 ReturnAvg : -5.56140350877193 ReturnStd : 67.75472212296341 meantime : 31.485793871866296
+12-13 10:44:01 ../DATA\traffic_dqn DEBUG     train 427 totalreward : -268.0 ReturnAvg : -4.1875 ReturnStd : 68.98140034639772 meantime : 31.698607242339833
+12-13 10:45:55 ../DATA\traffic_dqn DEBUG     train 428 totalreward : -284.0 ReturnAvg : -4.507936507936508 ReturnStd : 47.34301477644779 meantime : 30.232869080779945
+12-13 10:48:02 ../DATA\traffic_dqn DEBUG     train 429 totalreward : -319.0 ReturnAvg : -4.984375 ReturnStd : 58.40068818823435 meantime : 32.41169916434541
+12-13 10:49:54 ../DATA\traffic_dqn DEBUG     train 430 totalreward : -269.0 ReturnAvg : -4.409836065573771 ReturnStd : 68.08249023810971 meantime : 30.413927576601672
+12-13 10:51:44 ../DATA\traffic_dqn DEBUG     train 431 totalreward : -296.0 ReturnAvg : -5.381818181818182 ReturnStd : 91.62046038047714 meantime : 34.74317548746518
+12-13 10:53:43 ../DATA\traffic_dqn DEBUG     train 432 totalreward : -355.0 ReturnAvg : -5.916666666666667 ReturnStd : 88.10832190485124 meantime : 33.70863509749304
+12-13 10:55:50 ../DATA\traffic_dqn DEBUG     train 433 totalreward : -246.0 ReturnAvg : -3.967741935483871 ReturnStd : 59.45992625613503 meantime : 31.140947075208913
+12-13 10:57:35 ../DATA\traffic_dqn DEBUG     train 434 totalreward : -314.0 ReturnAvg : -5.147540983606557 ReturnStd : 83.42835073923008 meantime : 32.99721448467967
+12-13 10:59:19 ../DATA\traffic_dqn DEBUG     train 435 totalreward : -357.0 ReturnAvg : -5.409090909090909 ReturnStd : 68.12977306553599 meantime : 31.951532033426183
+12-13 11:00:56 ../DATA\traffic_dqn DEBUG     train 436 totalreward : -219.0 ReturnAvg : -3.5901639344262297 ReturnStd : 56.73966347669447 meantime : 29.654038997214485
+12-13 11:02:31 ../DATA\traffic_dqn DEBUG     train 437 totalreward : -285.0 ReturnAvg : -4.672131147540983 ReturnStd : 53.667073677419324 meantime : 30.480779944289694
+12-13 11:04:09 ../DATA\traffic_dqn DEBUG     train 438 totalreward : -285.0 ReturnAvg : -4.672131147540983 ReturnStd : 51.48952505646345 meantime : 29.08467966573816
+12-13 11:05:53 ../DATA\traffic_dqn DEBUG     train 439 totalreward : -325.0 ReturnAvg : -5.416666666666667 ReturnStd : 77.21923155679693 meantime : 34.87242339832869
+12-13 11:07:25 ../DATA\traffic_dqn DEBUG     train 440 totalreward : -397.0 ReturnAvg : -6.403225806451613 ReturnStd : 52.73135190249858 meantime : 29.391643454039
+12-13 11:09:01 ../DATA\traffic_dqn DEBUG     train 441 totalreward : -430.0 ReturnAvg : -6.71875 ReturnStd : 52.30274513290387 meantime : 31.908635097493036
+12-13 11:10:38 ../DATA\traffic_dqn DEBUG     train 442 totalreward : -325.0 ReturnAvg : -5.416666666666667 ReturnStd : 83.93535045233061 meantime : 34.38607242339833
+12-13 11:12:08 ../DATA\traffic_dqn DEBUG     train 443 totalreward : -345.0 ReturnAvg : -5.75 ReturnStd : 53.65495472616361 meantime : 29.47242339832869
+12-13 11:13:41 ../DATA\traffic_dqn DEBUG     train 444 totalreward : -297.0 ReturnAvg : -4.790322580645161 ReturnStd : 50.420853691629574 meantime : 30.186629526462397
+12-13 11:15:13 ../DATA\traffic_dqn DEBUG     train 445 totalreward : -308.0 ReturnAvg : -5.049180327868853 ReturnStd : 60.396619770116324 meantime : 29.888022284122563
+12-13 11:16:48 ../DATA\traffic_dqn DEBUG     train 446 totalreward : -309.0 ReturnAvg : -5.327586206896552 ReturnStd : 85.34744161792622 meantime : 33.8033426183844
+12-13 11:18:18 ../DATA\traffic_dqn DEBUG     train 447 totalreward : -259.0 ReturnAvg : -4.111111111111111 ReturnStd : 44.75297670727901 meantime : 28.88133704735376
+12-13 11:19:52 ../DATA\traffic_dqn DEBUG     train 448 totalreward : -320.0 ReturnAvg : -5.0 ReturnStd : 49.65631883255141 meantime : 30.44233983286908
+12-13 11:21:28 ../DATA\traffic_dqn DEBUG     train 449 totalreward : -327.0 ReturnAvg : -5.190476190476191 ReturnStd : 67.40869359948398 meantime : 32.725348189415044
+12-13 11:22:56 ../DATA\traffic_dqn DEBUG     train 450 totalreward : -330.0 ReturnAvg : -5.689655172413793 ReturnStd : 43.76237042709565 meantime : 28.7949860724234
+12-13 11:24:37 ../DATA\traffic_dqn DEBUG     train 451 totalreward : -500.0 ReturnAvg : -8.064516129032258 ReturnStd : 99.44375472496061 meantime : 37.305849582172705
+12-13 11:26:07 ../DATA\traffic_dqn DEBUG     train 452 totalreward : -199.0 ReturnAvg : -3.4310344827586206 ReturnStd : 49.5726955118355 meantime : 29.157103064066852
+12-13 11:27:39 ../DATA\traffic_dqn DEBUG     train 453 totalreward : -236.0 ReturnAvg : -4.068965517241379 ReturnStd : 61.66647277449138 meantime : 31.237883008356548
+12-13 11:29:09 ../DATA\traffic_dqn DEBUG     train 454 totalreward : -309.0 ReturnAvg : -4.983870967741935 ReturnStd : 48.36003813316751 meantime : 29.13649025069638
+12-13 11:30:42 ../DATA\traffic_dqn DEBUG     train 455 totalreward : -268.0 ReturnAvg : -4.1875 ReturnStd : 54.762234648980495 meantime : 30.628969359331478
+12-13 11:32:14 ../DATA\traffic_dqn DEBUG     train 456 totalreward : -298.0 ReturnAvg : -4.806451612903226 ReturnStd : 53.49158471943084 meantime : 29.898607242339832
+12-13 11:33:43 ../DATA\traffic_dqn DEBUG     train 457 totalreward : -329.0 ReturnAvg : -5.672413793103448 ReturnStd : 48.0647508417962 meantime : 29.244011142061282
+12-13 11:35:14 ../DATA\traffic_dqn DEBUG     train 458 totalreward : -367.0 ReturnAvg : -6.220338983050848 ReturnStd : 49.93625353222089 meantime : 29.1025069637883
+12-13 11:36:49 ../DATA\traffic_dqn DEBUG     train 459 totalreward : -404.0 ReturnAvg : -6.3125 ReturnStd : 57.33342039116452 meantime : 31.018941504178272
+12-13 11:38:19 ../DATA\traffic_dqn DEBUG     train 460 totalreward : -253.0 ReturnAvg : -4.216666666666667 ReturnStd : 47.9725934489915 meantime : 28.775487465181058
+12-13 11:39:55 ../DATA\traffic_dqn DEBUG     train 461 totalreward : -295.0 ReturnAvg : -4.538461538461538 ReturnStd : 64.31773936973482 meantime : 32.09359331476323
+12-13 11:41:22 ../DATA\traffic_dqn DEBUG     train 462 totalreward : -253.0 ReturnAvg : -4.216666666666667 ReturnStd : 47.9725934489915 meantime : 28.775487465181058
+12-13 11:42:51 ../DATA\traffic_dqn DEBUG     train 463 totalreward : -316.0 ReturnAvg : -5.266666666666667 ReturnStd : 49.256426540661224 meantime : 29.57158774373259
+12-13 11:44:20 ../DATA\traffic_dqn DEBUG     train 464 totalreward : -252.0 ReturnAvg : -4.131147540983607 ReturnStd : 49.59821368076167 meantime : 28.841782729805015
+12-13 11:45:50 ../DATA\traffic_dqn DEBUG     train 465 totalreward : -272.0 ReturnAvg : -4.459016393442623 ReturnStd : 45.12662467734789 meantime : 29.06685236768802
+12-13 11:47:20 ../DATA\traffic_dqn DEBUG     train 466 totalreward : -227.0 ReturnAvg : -3.913793103448276 ReturnStd : 47.76605506682385 meantime : 29.686908077994428
+12-13 11:48:52 ../DATA\traffic_dqn DEBUG     train 467 totalreward : -312.0 ReturnAvg : -5.032258064516129 ReturnStd : 47.59200520483744 meantime : 30.19108635097493
+12-13 11:50:27 ../DATA\traffic_dqn DEBUG     train 468 totalreward : -282.0 ReturnAvg : -4.622950819672131 ReturnStd : 45.658448281663986 meantime : 29.372144846796658
+12-13 11:52:00 ../DATA\traffic_dqn DEBUG     train 469 totalreward : -244.0 ReturnAvg : -3.753846153846154 ReturnStd : 43.94893217193399 meantime : 28.59108635097493
+12-13 11:53:32 ../DATA\traffic_dqn DEBUG     train 470 totalreward : -276.0 ReturnAvg : -4.524590163934426 ReturnStd : 59.838472891165836 meantime : 31.334818941504178
+12-13 11:55:07 ../DATA\traffic_dqn DEBUG     train 471 totalreward : -287.0 ReturnAvg : -4.864406779661017 ReturnStd : 75.72014881464838 meantime : 31.485793871866296
+12-13 11:56:39 ../DATA\traffic_dqn DEBUG     train 472 totalreward : -329.0 ReturnAvg : -5.061538461538461 ReturnStd : 48.838155614099335 meantime : 29.05348189415042
+12-13 11:58:12 ../DATA\traffic_dqn DEBUG     train 473 totalreward : -296.0 ReturnAvg : -4.417910447761194 ReturnStd : 45.759967270410016 meantime : 29.35543175487465
+12-13 11:59:43 ../DATA\traffic_dqn DEBUG     train 474 totalreward : -249.0 ReturnAvg : -3.9523809523809526 ReturnStd : 49.79017196686306 meantime : 28.45515320334262
+12-13 12:01:21 ../DATA\traffic_dqn DEBUG     train 475 totalreward : -421.0 ReturnAvg : -7.517857142857143 ReturnStd : 113.26296694472757 meantime : 36.627298050139274
+12-13 12:03:00 ../DATA\traffic_dqn DEBUG     train 476 totalreward : -327.0 ReturnAvg : -5.274193548387097 ReturnStd : 92.25283794128289 meantime : 35.4941504178273
+12-13 12:04:35 ../DATA\traffic_dqn DEBUG     train 477 totalreward : -444.0 ReturnAvg : -6.434782608695652 ReturnStd : 53.16626321073656 meantime : 30.88467966573816
+12-13 12:06:07 ../DATA\traffic_dqn DEBUG     train 478 totalreward : -309.0 ReturnAvg : -4.983870967741935 ReturnStd : 52.51251523192686 meantime : 29.64456824512535
+12-13 12:07:38 ../DATA\traffic_dqn DEBUG     train 479 totalreward : -263.0 ReturnAvg : -4.311475409836065 ReturnStd : 44.16086130946336 meantime : 28.54206128133705
+12-13 12:09:09 ../DATA\traffic_dqn DEBUG     train 480 totalreward : -297.0 ReturnAvg : -4.714285714285714 ReturnStd : 52.967024354160586 meantime : 29.64623955431755
+12-13 12:10:44 ../DATA\traffic_dqn DEBUG     train 481 totalreward : -329.0 ReturnAvg : -5.061538461538461 ReturnStd : 48.838155614099335 meantime : 29.05348189415042
+12-13 12:12:15 ../DATA\traffic_dqn DEBUG     train 482 totalreward : -294.0 ReturnAvg : -4.666666666666667 ReturnStd : 50.682015219076156 meantime : 28.839554317548746
+12-13 12:13:48 ../DATA\traffic_dqn DEBUG     train 483 totalreward : -279.0 ReturnAvg : -4.2272727272727275 ReturnStd : 52.11694177361821 meantime : 29.218384401114207
+12-13 12:15:19 ../DATA\traffic_dqn DEBUG     train 484 totalreward : -340.0 ReturnAvg : -5.483870967741935 ReturnStd : 43.36742568820589 meantime : 29.61448467966574
+12-13 12:16:50 ../DATA\traffic_dqn DEBUG     train 485 totalreward : -260.0 ReturnAvg : -4.262295081967213 ReturnStd : 45.191360569719905 meantime : 29.076323119777157
+12-13 12:18:21 ../DATA\traffic_dqn DEBUG     train 486 totalreward : -284.0 ReturnAvg : -4.507936507936508 ReturnStd : 50.56816019889126 meantime : 29.736490250696377
+12-13 12:19:52 ../DATA\traffic_dqn DEBUG     train 487 totalreward : -283.0 ReturnAvg : -4.492063492063492 ReturnStd : 46.113343114572785 meantime : 28.432869080779945
+12-13 12:21:24 ../DATA\traffic_dqn DEBUG     train 488 totalreward : -245.0 ReturnAvg : -3.712121212121212 ReturnStd : 50.48935235830486 meantime : 28.30974930362117
+12-13 12:22:58 ../DATA\traffic_dqn DEBUG     train 489 totalreward : -304.0 ReturnAvg : -5.241379310344827 ReturnStd : 64.52994769734158 meantime : 31.886350974930362
+12-13 12:24:34 ../DATA\traffic_dqn DEBUG     train 490 totalreward : -275.0 ReturnAvg : -4.296875 ReturnStd : 48.638551995658496 meantime : 31.008356545961004
+12-13 12:26:07 ../DATA\traffic_dqn DEBUG     train 491 totalreward : -264.0 ReturnAvg : -4.551724137931035 ReturnStd : 65.07453880340317 meantime : 31.528133704735374
+12-13 12:27:40 ../DATA\traffic_dqn DEBUG     train 492 totalreward : -325.0 ReturnAvg : -5.241935483870968 ReturnStd : 45.26648175468743 meantime : 29.4974930362117
+12-13 12:29:14 ../DATA\traffic_dqn DEBUG     train 493 totalreward : -284.0 ReturnAvg : -4.507936507936508 ReturnStd : 50.56816019889126 meantime : 29.736490250696377
+12-13 12:30:48 ../DATA\traffic_dqn DEBUG     train 494 totalreward : -316.0 ReturnAvg : -5.096774193548387 ReturnStd : 49.05878951119616 meantime : 30.03175487465181
+12-13 12:32:22 ../DATA\traffic_dqn DEBUG     train 495 totalreward : -284.0 ReturnAvg : -4.507936507936508 ReturnStd : 50.56816019889126 meantime : 29.736490250696377
+12-13 12:33:54 ../DATA\traffic_dqn DEBUG     train 496 totalreward : -367.0 ReturnAvg : -5.825396825396825 ReturnStd : 48.86571807126451 meantime : 29.342618384401113
+12-13 12:35:29 ../DATA\traffic_dqn DEBUG     train 497 totalreward : -326.0 ReturnAvg : -4.865671641791045 ReturnStd : 51.37073198958637 meantime : 29.994986072423398
+12-13 12:37:00 ../DATA\traffic_dqn DEBUG     train 498 totalreward : -277.0 ReturnAvg : -4.540983606557377 ReturnStd : 50.7425432688703 meantime : 29.76824512534819
+12-13 12:38:41 ../DATA\traffic_dqn DEBUG     train 499 totalreward : -256.0 ReturnAvg : -4.413793103448276 ReturnStd : 72.2221273005667 meantime : 30.99442896935933
+01-01 21:44:48 ../DATA\traffic_dqn DEBUG     train  meantime : 61.102798053527984 arrived : 1644
+01-01 21:45:54 ../DATA\traffic_dqn DEBUG     train  meantime : 38.12329579134558 arrived : 1687
+01-01 21:46:59 ../DATA\traffic_dqn DEBUG     train  meantime : 44.229905437352244 arrived : 1692
+01-01 21:48:02 ../DATA\traffic_dqn DEBUG     train  meantime : 39.770108043217284 arrived : 1666
+01-01 21:50:00 ../DATA\traffic_dqn DEBUG     train  meantime : 45.09040928527795 arrived : 1637
+01-01 21:52:00 ../DATA\traffic_dqn DEBUG     train  meantime : 73.73611111111111 arrived : 1584
+01-01 21:53:14 ../DATA\traffic_dqn DEBUG     train  meantime : 36.26750448833034 arrived : 1671
+01-01 21:54:42 ../DATA\traffic_dqn DEBUG     train  meantime : 61.032934131736525 arrived : 1670
+01-01 21:56:28 ../DATA\traffic_dqn DEBUG     train  meantime : 86.50329934013197 arrived : 1667
+01-01 21:57:43 ../DATA\traffic_dqn DEBUG     train  meantime : 41.02787663107948 arrived : 1686
+01-01 21:59:04 ../DATA\traffic_dqn DEBUG     train  meantime : 47.69350029815146 arrived : 1677
+01-01 22:00:20 ../DATA\traffic_dqn DEBUG     train  meantime : 40.92491060786651 arrived : 1678
+01-01 22:01:40 ../DATA\traffic_dqn DEBUG     train  meantime : 45.35368043087971 arrived : 1671
+01-01 22:03:17 ../DATA\traffic_dqn DEBUG     train  meantime : 69.70777642770352 arrived : 1646
+01-01 22:04:32 ../DATA\traffic_dqn DEBUG     train  meantime : 36.64268727705113 arrived : 1682
+01-01 22:05:56 ../DATA\traffic_dqn DEBUG     train  meantime : 50.25383707201889 arrived : 1694
+01-01 22:07:19 ../DATA\traffic_dqn DEBUG     train  meantime : 45.16125150421179 arrived : 1662
+01-01 22:08:34 ../DATA\traffic_dqn DEBUG     train  meantime : 39.5673420738975 arrived : 1678
+01-01 22:09:51 ../DATA\traffic_dqn DEBUG     train  meantime : 40.29780935464772 arrived : 1689
+01-01 22:11:30 ../DATA\traffic_dqn DEBUG     train  meantime : 37.425029515938604 arrived : 1694
+01-01 22:13:42 ../DATA\traffic_dqn DEBUG     train  meantime : 42.22428229665072 arrived : 1672
+01-01 22:15:01 ../DATA\traffic_dqn DEBUG     train  meantime : 39.26138379657008 arrived : 1691
+01-01 22:16:20 ../DATA\traffic_dqn DEBUG     train  meantime : 37.77402135231317 arrived : 1686
+01-01 22:17:38 ../DATA\traffic_dqn DEBUG     train  meantime : 39.05056513979774 arrived : 1681
+01-01 22:19:02 ../DATA\traffic_dqn DEBUG     train  meantime : 45.06163973668462 arrived : 1671
+01-01 22:20:17 ../DATA\traffic_dqn DEBUG     train  meantime : 37.448763250883395 arrived : 1698
+01-01 22:21:33 ../DATA\traffic_dqn DEBUG     train  meantime : 37.16548463356974 arrived : 1692
+01-01 22:22:52 ../DATA\traffic_dqn DEBUG     train  meantime : 39.70125223613596 arrived : 1677
+01-01 22:24:24 ../DATA\traffic_dqn DEBUG     train  meantime : 41.56305506216696 arrived : 1689
+01-01 22:25:47 ../DATA\traffic_dqn DEBUG     train  meantime : 38.73423688862699 arrived : 1697
+01-01 22:27:07 ../DATA\traffic_dqn DEBUG     train  meantime : 35.52736904061212 arrived : 1699
+01-01 22:28:27 ../DATA\traffic_dqn DEBUG     train  meantime : 33.40833333333333 arrived : 1680
+01-01 22:29:45 ../DATA\traffic_dqn DEBUG     train  meantime : 31.945132743362834 arrived : 1695
+01-01 22:31:10 ../DATA\traffic_dqn DEBUG     train  meantime : 42.01180637544274 arrived : 1694
+01-01 22:32:29 ../DATA\traffic_dqn DEBUG     train  meantime : 35.158543746330004 arrived : 1703
+01-01 22:33:49 ../DATA\traffic_dqn DEBUG     train  meantime : 34.756981580510995 arrived : 1683
+01-01 22:35:10 ../DATA\traffic_dqn DEBUG     train  meantime : 33.80199764982374 arrived : 1702
+01-01 22:36:30 ../DATA\traffic_dqn DEBUG     train  meantime : 33.86430678466077 arrived : 1695
+01-01 22:37:51 ../DATA\traffic_dqn DEBUG     train  meantime : 33.14056939501779 arrived : 1686
+01-01 22:39:11 ../DATA\traffic_dqn DEBUG     train  meantime : 33.53800824985268 arrived : 1697
+01-01 22:40:38 ../DATA\traffic_dqn DEBUG     train  meantime : 32.64474456840869 arrived : 1703
+01-01 22:41:49 ../DATA\traffic_dqn DEBUG     train  meantime : 31.25323910482921 arrived : 1698
+01-01 22:43:08 ../DATA\traffic_dqn DEBUG     train  meantime : 35.85537190082645 arrived : 1694
+01-01 22:44:22 ../DATA\traffic_dqn DEBUG     train  meantime : 31.041152263374485 arrived : 1701
+01-01 22:45:32 ../DATA\traffic_dqn DEBUG     train  meantime : 30.511834319526628 arrived : 1690
+01-01 22:46:42 ../DATA\traffic_dqn DEBUG     train  meantime : 31.784734645199762 arrived : 1677
+01-01 22:47:53 ../DATA\traffic_dqn DEBUG     train  meantime : 33.00648202710666 arrived : 1697
+01-01 22:49:05 ../DATA\traffic_dqn DEBUG     train  meantime : 32.024089306698 arrived : 1702
+01-01 22:50:16 ../DATA\traffic_dqn DEBUG     train  meantime : 31.923031379514505 arrived : 1689
+01-01 22:51:26 ../DATA\traffic_dqn DEBUG     train  meantime : 30.806489675516225 arrived : 1695
+01-01 22:52:37 ../DATA\traffic_dqn DEBUG     train  meantime : 32.85156712004731 arrived : 1691
+01-01 22:53:47 ../DATA\traffic_dqn DEBUG     train  meantime : 31.596935769004126 arrived : 1697
+01-01 22:54:55 ../DATA\traffic_dqn DEBUG     train  meantime : 28.972813238770687 arrived : 1692
+01-01 22:56:05 ../DATA\traffic_dqn DEBUG     train  meantime : 31.995218170950388 arrived : 1673
+01-01 22:57:16 ../DATA\traffic_dqn DEBUG     train  meantime : 32.1937756899589 arrived : 1703
+01-01 22:58:30 ../DATA\traffic_dqn DEBUG     train  meantime : 34.243657817109145 arrived : 1695
+01-01 22:59:41 ../DATA\traffic_dqn DEBUG     train  meantime : 31.216360403082394 arrived : 1687
+01-01 23:00:51 ../DATA\traffic_dqn DEBUG     train  meantime : 31.67884502062463 arrived : 1697
+01-01 23:02:06 ../DATA\traffic_dqn DEBUG     train  meantime : 34.98702064896755 arrived : 1695
+01-01 23:03:15 ../DATA\traffic_dqn DEBUG     train  meantime : 30.399646851088875 arrived : 1699
+01-01 23:04:27 ../DATA\traffic_dqn DEBUG     train  meantime : 31.891048292108362 arrived : 1698
+01-01 23:05:36 ../DATA\traffic_dqn DEBUG     train  meantime : 30.085156712004732 arrived : 1691
+01-01 23:06:48 ../DATA\traffic_dqn DEBUG     train  meantime : 33.55005889281507 arrived : 1698
+01-01 23:08:00 ../DATA\traffic_dqn DEBUG     train  meantime : 31.12849494348602 arrived : 1681
+01-01 23:09:11 ../DATA\traffic_dqn DEBUG     train  meantime : 31.751622418879055 arrived : 1695
+01-01 23:10:26 ../DATA\traffic_dqn DEBUG     train  meantime : 33.54112808460634 arrived : 1702
+01-01 23:11:37 ../DATA\traffic_dqn DEBUG     train  meantime : 30.46615656268393 arrived : 1699
+01-01 23:12:46 ../DATA\traffic_dqn DEBUG     train  meantime : 28.59152442613302 arrived : 1699
+01-01 23:13:57 ../DATA\traffic_dqn DEBUG     train  meantime : 30.555882352941175 arrived : 1700
+01-01 23:15:08 ../DATA\traffic_dqn DEBUG     train  meantime : 31.35811209439528 arrived : 1695
+01-01 23:16:19 ../DATA\traffic_dqn DEBUG     train  meantime : 32.123602118893466 arrived : 1699
+01-01 23:17:36 ../DATA\traffic_dqn DEBUG     train  meantime : 36.812203791469194 arrived : 1688
+01-01 23:18:53 ../DATA\traffic_dqn DEBUG     train  meantime : 37.395473496128645 arrived : 1679
+01-01 23:20:06 ../DATA\traffic_dqn DEBUG     train  meantime : 32.616244849911716 arrived : 1699
+01-01 23:21:15 ../DATA\traffic_dqn DEBUG     train  meantime : 30.926800472255017 arrived : 1694
+01-01 23:22:28 ../DATA\traffic_dqn DEBUG     train  meantime : 32.90355029585799 arrived : 1690
+01-01 23:23:39 ../DATA\traffic_dqn DEBUG     train  meantime : 32.15023474178404 arrived : 1704
+01-01 23:24:49 ../DATA\traffic_dqn DEBUG     train  meantime : 31.34260355029586 arrived : 1690
+01-01 23:26:04 ../DATA\traffic_dqn DEBUG     train  meantime : 35.84825133372851 arrived : 1687
+01-01 23:27:19 ../DATA\traffic_dqn DEBUG     train  meantime : 35.25781710914454 arrived : 1695
+01-01 23:28:30 ../DATA\traffic_dqn DEBUG     train  meantime : 32.21849234393404 arrived : 1698
+01-01 23:29:42 ../DATA\traffic_dqn DEBUG     train  meantime : 31.95223880597015 arrived : 1675
+01-01 23:30:54 ../DATA\traffic_dqn DEBUG     train  meantime : 31.870643827525104 arrived : 1693
+01-01 23:32:03 ../DATA\traffic_dqn DEBUG     train  meantime : 30.732551319648096 arrived : 1705
+01-01 23:33:28 ../DATA\traffic_dqn DEBUG     train  meantime : 42.47197106690778 arrived : 1659
+01-01 23:34:37 ../DATA\traffic_dqn DEBUG     train  meantime : 30.526253687315634 arrived : 1695
+01-01 23:35:46 ../DATA\traffic_dqn DEBUG     train  meantime : 29.38620283018868 arrived : 1696
+01-01 23:36:56 ../DATA\traffic_dqn DEBUG     train  meantime : 31.213028169014084 arrived : 1704
+01-01 23:38:07 ../DATA\traffic_dqn DEBUG     train  meantime : 31.2623820754717 arrived : 1696
+01-01 23:39:19 ../DATA\traffic_dqn DEBUG     train  meantime : 31.670990566037737 arrived : 1696
+01-01 23:40:36 ../DATA\traffic_dqn DEBUG     train  meantime : 35.50798344175044 arrived : 1691
+01-01 23:41:49 ../DATA\traffic_dqn DEBUG     train  meantime : 31.99701848539058 arrived : 1677
+01-01 23:43:09 ../DATA\traffic_dqn DEBUG     train  meantime : 39.02860548271752 arrived : 1678
+01-01 23:44:37 ../DATA\traffic_dqn DEBUG     train  meantime : 45.33153153153153 arrived : 1665
+01-01 23:45:53 ../DATA\traffic_dqn DEBUG     train  meantime : 36.348314606741575 arrived : 1691
+01-01 23:47:12 ../DATA\traffic_dqn DEBUG     train  meantime : 37.791469194312796 arrived : 1688
+01-01 23:48:31 ../DATA\traffic_dqn DEBUG     train  meantime : 39.462224866151104 arrived : 1681
+01-01 23:49:40 ../DATA\traffic_dqn DEBUG     train  meantime : 30.501473187978785 arrived : 1697
+01-01 23:50:55 ../DATA\traffic_dqn DEBUG     train  meantime : 34.61941176470588 arrived : 1700
+01-01 23:52:07 ../DATA\traffic_dqn DEBUG     train  meantime : 33.47616244849912 arrived : 1699
+01-01 23:53:21 ../DATA\traffic_dqn DEBUG     train  meantime : 33.5591524426133 arrived : 1699
+01-01 23:54:30 ../DATA\traffic_dqn DEBUG     train  meantime : 31.045400943396228 arrived : 1696
+01-01 23:55:43 ../DATA\traffic_dqn DEBUG     train  meantime : 32.09419431279621 arrived : 1688
+01-01 23:56:52 ../DATA\traffic_dqn DEBUG     train  meantime : 30.597517730496453 arrived : 1692
+01-01 23:58:03 ../DATA\traffic_dqn DEBUG     train  meantime : 30.83500294637596 arrived : 1697
+01-01 23:59:26 ../DATA\traffic_dqn DEBUG     train  meantime : 41.97941176470588 arrived : 1700
+01-02 00:00:36 ../DATA\traffic_dqn DEBUG     train  meantime : 31.879694835680752 arrived : 1704
+01-02 00:01:59 ../DATA\traffic_dqn DEBUG     train  meantime : 42.16432498472816 arrived : 1637
+01-02 00:03:15 ../DATA\traffic_dqn DEBUG     train  meantime : 35.08680142687277 arrived : 1682
+01-02 00:04:25 ../DATA\traffic_dqn DEBUG     train  meantime : 29.099646226415093 arrived : 1696
+01-02 00:05:35 ../DATA\traffic_dqn DEBUG     train  meantime : 31.445945945945947 arrived : 1702
+01-02 00:06:45 ../DATA\traffic_dqn DEBUG     train  meantime : 31.607416127133607 arrived : 1699
+01-02 00:07:53 ../DATA\traffic_dqn DEBUG     train  meantime : 28.63244837758112 arrived : 1695
+01-02 00:09:05 ../DATA\traffic_dqn DEBUG     train  meantime : 31.44732195409064 arrived : 1699
+01-02 00:10:16 ../DATA\traffic_dqn DEBUG     train  meantime : 31.50941176470588 arrived : 1700
+01-02 00:11:40 ../DATA\traffic_dqn DEBUG     train  meantime : 41.79807692307692 arrived : 1664
+01-02 00:13:00 ../DATA\traffic_dqn DEBUG     train  meantime : 38.65855106888361 arrived : 1684
+01-02 00:14:08 ../DATA\traffic_dqn DEBUG     train  meantime : 28.78727165586329 arrived : 1697
+01-02 00:15:16 ../DATA\traffic_dqn DEBUG     train  meantime : 30.2132309509746 arrived : 1693
+01-02 00:16:26 ../DATA\traffic_dqn DEBUG     train  meantime : 30.79964643488509 arrived : 1697
+01-02 00:17:35 ../DATA\traffic_dqn DEBUG     train  meantime : 31.993498817966902 arrived : 1692
+01-02 00:18:46 ../DATA\traffic_dqn DEBUG     train  meantime : 31.778959810874703 arrived : 1692
+01-02 00:20:05 ../DATA\traffic_dqn DEBUG     train  meantime : 38.47192353643967 arrived : 1674
+01-02 00:21:17 ../DATA\traffic_dqn DEBUG     train  meantime : 32.70840681951793 arrived : 1701
+01-02 00:22:28 ../DATA\traffic_dqn DEBUG     train  meantime : 31.038212815990594 arrived : 1701
+01-02 00:23:37 ../DATA\traffic_dqn DEBUG     train  meantime : 29.85512367491166 arrived : 1698
+01-02 00:24:48 ../DATA\traffic_dqn DEBUG     train  meantime : 33.00235155790711 arrived : 1701
+01-02 00:26:00 ../DATA\traffic_dqn DEBUG     train  meantime : 33.19400352733686 arrived : 1701
+01-02 00:27:11 ../DATA\traffic_dqn DEBUG     train  meantime : 30.771681415929205 arrived : 1695
+01-02 00:28:21 ../DATA\traffic_dqn DEBUG     train  meantime : 31.800117233294255 arrived : 1706
+01-02 00:29:32 ../DATA\traffic_dqn DEBUG     train  meantime : 32.5475910693302 arrived : 1702
+01-02 00:30:42 ../DATA\traffic_dqn DEBUG     train  meantime : 32.00767414403778 arrived : 1694
+01-02 00:31:53 ../DATA\traffic_dqn DEBUG     train  meantime : 31.527122641509433 arrived : 1696
+01-02 00:33:02 ../DATA\traffic_dqn DEBUG     train  meantime : 30.489111241907004 arrived : 1699
+01-02 00:34:13 ../DATA\traffic_dqn DEBUG     train  meantime : 31.218053927315356 arrived : 1706
+01-02 00:35:25 ../DATA\traffic_dqn DEBUG     train  meantime : 31.371225577264653 arrived : 1689
+01-02 00:36:36 ../DATA\traffic_dqn DEBUG     train  meantime : 32.514134275618375 arrived : 1698
+01-02 00:37:46 ../DATA\traffic_dqn DEBUG     train  meantime : 31.887390029325513 arrived : 1705
+01-02 00:38:55 ../DATA\traffic_dqn DEBUG     train  meantime : 31.49208211143695 arrived : 1705
+01-02 00:40:03 ../DATA\traffic_dqn DEBUG     train  meantime : 30.884638022366097 arrived : 1699
+01-02 00:41:14 ../DATA\traffic_dqn DEBUG     train  meantime : 32.834316037735846 arrived : 1696
+01-02 00:42:24 ../DATA\traffic_dqn DEBUG     train  meantime : 30.585250737463127 arrived : 1695
+01-02 00:43:33 ../DATA\traffic_dqn DEBUG     train  meantime : 30.253396337861783 arrived : 1693
+01-02 00:44:43 ../DATA\traffic_dqn DEBUG     train  meantime : 30.98051948051948 arrived : 1694
+01-02 00:45:55 ../DATA\traffic_dqn DEBUG     train  meantime : 33.05962219598583 arrived : 1694
+01-02 00:47:04 ../DATA\traffic_dqn DEBUG     train  meantime : 29.92873969375736 arrived : 1698
+01-02 00:48:16 ../DATA\traffic_dqn DEBUG     train  meantime : 33.64155385520895 arrived : 1699
+01-02 00:49:26 ../DATA\traffic_dqn DEBUG     train  meantime : 30.81930547380812 arrived : 1699
+01-02 00:50:36 ../DATA\traffic_dqn DEBUG     train  meantime : 30.618963486454653 arrived : 1698
+01-02 00:51:47 ../DATA\traffic_dqn DEBUG     train  meantime : 31.622485207100592 arrived : 1690
+01-02 00:52:57 ../DATA\traffic_dqn DEBUG     train  meantime : 29.91745283018868 arrived : 1696
+01-02 00:54:08 ../DATA\traffic_dqn DEBUG     train  meantime : 31.19858156028369 arrived : 1692
+01-02 00:55:16 ../DATA\traffic_dqn DEBUG     train  meantime : 29.59211300765156 arrived : 1699
+01-02 00:56:27 ../DATA\traffic_dqn DEBUG     train  meantime : 30.809299587992935 arrived : 1699
+01-02 00:57:38 ../DATA\traffic_dqn DEBUG     train  meantime : 30.604569420035148 arrived : 1707
+01-02 00:58:50 ../DATA\traffic_dqn DEBUG     train  meantime : 30.588928150765607 arrived : 1698
+01-02 00:59:59 ../DATA\traffic_dqn DEBUG     train  meantime : 31.023529411764706 arrived : 1700
+01-02 01:01:08 ../DATA\traffic_dqn DEBUG     train  meantime : 30.53113983548766 arrived : 1702
+01-02 01:02:17 ../DATA\traffic_dqn DEBUG     train  meantime : 31.05483490566038 arrived : 1696
+01-02 01:03:26 ../DATA\traffic_dqn DEBUG     train  meantime : 30.236641221374047 arrived : 1703
+01-02 01:04:36 ../DATA\traffic_dqn DEBUG     train  meantime : 31.33057362507392 arrived : 1691
+01-02 01:05:51 ../DATA\traffic_dqn DEBUG     train  meantime : 36.709563164108616 arrived : 1694
+01-02 01:07:01 ../DATA\traffic_dqn DEBUG     train  meantime : 33.360849056603776 arrived : 1696
+01-02 01:08:12 ../DATA\traffic_dqn DEBUG     train  meantime : 29.36568047337278 arrived : 1690
+01-02 01:09:22 ../DATA\traffic_dqn DEBUG     train  meantime : 31.058476077968105 arrived : 1693
+01-02 01:10:34 ../DATA\traffic_dqn DEBUG     train  meantime : 30.796002351557906 arrived : 1701
+01-02 01:11:44 ../DATA\traffic_dqn DEBUG     train  meantime : 30.74676089517079 arrived : 1698
+01-02 01:12:54 ../DATA\traffic_dqn DEBUG     train  meantime : 30.795774647887324 arrived : 1704
+01-02 01:14:03 ../DATA\traffic_dqn DEBUG     train  meantime : 31.53470588235294 arrived : 1700
+01-02 01:15:12 ../DATA\traffic_dqn DEBUG     train  meantime : 30.09746012994684 arrived : 1693
+01-02 01:16:20 ../DATA\traffic_dqn DEBUG     train  meantime : 29.40058651026393 arrived : 1705
+01-02 01:17:31 ../DATA\traffic_dqn DEBUG     train  meantime : 30.9787610619469 arrived : 1695
+01-02 01:18:40 ../DATA\traffic_dqn DEBUG     train  meantime : 29.86328815556865 arrived : 1697
+01-02 01:19:50 ../DATA\traffic_dqn DEBUG     train  meantime : 31.578761061946903 arrived : 1695
+01-02 01:21:01 ../DATA\traffic_dqn DEBUG     train  meantime : 30.918487891317188 arrived : 1693
+01-02 01:22:10 ../DATA\traffic_dqn DEBUG     train  meantime : 30.531176470588235 arrived : 1700
+01-02 01:23:20 ../DATA\traffic_dqn DEBUG     train  meantime : 30.952296819787986 arrived : 1698
+01-02 01:24:29 ../DATA\traffic_dqn DEBUG     train  meantime : 30.748527679623088 arrived : 1698
+01-02 01:25:38 ../DATA\traffic_dqn DEBUG     train  meantime : 29.837869822485207 arrived : 1690
+01-02 01:26:48 ../DATA\traffic_dqn DEBUG     train  meantime : 31.297472075249853 arrived : 1701
+01-02 01:27:58 ../DATA\traffic_dqn DEBUG     train  meantime : 30.540858318636097 arrived : 1701
+01-02 01:29:05 ../DATA\traffic_dqn DEBUG     train  meantime : 29.18428824571766 arrived : 1693
+01-02 01:30:16 ../DATA\traffic_dqn DEBUG     train  meantime : 30.551967116852612 arrived : 1703
+01-02 01:31:26 ../DATA\traffic_dqn DEBUG     train  meantime : 30.9952802359882 arrived : 1695
+01-02 01:32:36 ../DATA\traffic_dqn DEBUG     train  meantime : 30.235605170387778 arrived : 1702
+01-02 01:33:46 ../DATA\traffic_dqn DEBUG     train  meantime : 32.091710758377424 arrived : 1701
+01-02 01:34:56 ../DATA\traffic_dqn DEBUG     train  meantime : 31.988770685579198 arrived : 1692
+01-02 01:36:07 ../DATA\traffic_dqn DEBUG     train  meantime : 30.031231585150266 arrived : 1697
+01-02 01:37:17 ../DATA\traffic_dqn DEBUG     train  meantime : 29.365395894428154 arrived : 1705
+01-02 01:38:28 ../DATA\traffic_dqn DEBUG     train  meantime : 29.574204946996467 arrived : 1698
+01-02 01:39:37 ../DATA\traffic_dqn DEBUG     train  meantime : 28.87168922895821 arrived : 1699
+01-02 01:40:46 ../DATA\traffic_dqn DEBUG     train  meantime : 30.736470588235296 arrived : 1700
+01-02 01:41:54 ../DATA\traffic_dqn DEBUG     train  meantime : 30.928150765606595 arrived : 1698
+01-02 01:43:03 ../DATA\traffic_dqn DEBUG     train  meantime : 30.622719246615656 arrived : 1699
+01-02 01:44:12 ../DATA\traffic_dqn DEBUG     train  meantime : 29.289829512051735 arrived : 1701
+01-02 01:45:21 ../DATA\traffic_dqn DEBUG     train  meantime : 30.458235294117646 arrived : 1700
+01-02 01:46:29 ../DATA\traffic_dqn DEBUG     train  meantime : 29.082941176470587 arrived : 1700
+01-02 01:47:38 ../DATA\traffic_dqn DEBUG     train  meantime : 29.584269662921347 arrived : 1691
+01-02 01:48:47 ../DATA\traffic_dqn DEBUG     train  meantime : 30.02536873156342 arrived : 1695
+01-02 01:49:58 ../DATA\traffic_dqn DEBUG     train  meantime : 30.74793388429752 arrived : 1694
+01-02 01:51:08 ../DATA\traffic_dqn DEBUG     train  meantime : 31.835014836795253 arrived : 1685
+01-02 01:52:16 ../DATA\traffic_dqn DEBUG     train  meantime : 29.733490566037737 arrived : 1696
+01-02 01:53:24 ../DATA\traffic_dqn DEBUG     train  meantime : 29.113396004700352 arrived : 1702
+01-02 01:54:36 ../DATA\traffic_dqn DEBUG     train  meantime : 31.460223924572777 arrived : 1697
+01-02 01:55:44 ../DATA\traffic_dqn DEBUG     train  meantime : 29.16077738515901 arrived : 1698
+01-02 01:56:59 ../DATA\traffic_dqn DEBUG     train  meantime : 30.14042303172738 arrived : 1702
+01-02 01:58:08 ../DATA\traffic_dqn DEBUG     train  meantime : 29.102639296187682 arrived : 1705
+01-02 01:59:20 ../DATA\traffic_dqn DEBUG     train  meantime : 32.29693034238489 arrived : 1694
+01-02 02:00:31 ../DATA\traffic_dqn DEBUG     train  meantime : 32.19221698113208 arrived : 1696
+01-02 02:01:42 ../DATA\traffic_dqn DEBUG     train  meantime : 31.566037735849058 arrived : 1696
+01-02 02:02:52 ../DATA\traffic_dqn DEBUG     train  meantime : 30.972369194591415 arrived : 1701
+01-02 02:04:00 ../DATA\traffic_dqn DEBUG     train  meantime : 29.072098475967174 arrived : 1706
+01-02 02:05:14 ../DATA\traffic_dqn DEBUG     train  meantime : 33.66942148760331 arrived : 1694
+01-02 02:06:24 ../DATA\traffic_dqn DEBUG     train  meantime : 31.248817966903072 arrived : 1692
+01-02 02:07:36 ../DATA\traffic_dqn DEBUG     train  meantime : 31.889810426540283 arrived : 1688
+01-02 02:08:45 ../DATA\traffic_dqn DEBUG     train  meantime : 31.32021151586369 arrived : 1702
+01-02 02:09:56 ../DATA\traffic_dqn DEBUG     train  meantime : 31.206124852767964 arrived : 1698
+01-02 02:11:06 ../DATA\traffic_dqn DEBUG     train  meantime : 30.3708063566804 arrived : 1699
+01-02 02:12:16 ../DATA\traffic_dqn DEBUG     train  meantime : 30.658837345860245 arrived : 1703
+01-02 02:13:26 ../DATA\traffic_dqn DEBUG     train  meantime : 30.507974010632015 arrived : 1693
+01-02 02:14:35 ../DATA\traffic_dqn DEBUG     train  meantime : 29.8561320754717 arrived : 1696
+01-02 02:15:44 ../DATA\traffic_dqn DEBUG     train  meantime : 29.698880377136124 arrived : 1697
+01-02 02:16:54 ../DATA\traffic_dqn DEBUG     train  meantime : 30.64890467732386 arrived : 1689
+01-02 02:18:04 ../DATA\traffic_dqn DEBUG     train  meantime : 29.086521483225425 arrived : 1699
+01-02 02:19:14 ../DATA\traffic_dqn DEBUG     train  meantime : 30.071512309495898 arrived : 1706
+01-02 02:20:27 ../DATA\traffic_dqn DEBUG     train  meantime : 32.29863985807215 arrived : 1691
+01-02 02:21:38 ../DATA\traffic_dqn DEBUG     train  meantime : 32.08759553203998 arrived : 1701
+01-02 02:22:49 ../DATA\traffic_dqn DEBUG     train  meantime : 31.745882352941177 arrived : 1700
+01-02 02:24:00 ../DATA\traffic_dqn DEBUG     train  meantime : 31.924028268551236 arrived : 1698
+01-02 02:25:10 ../DATA\traffic_dqn DEBUG     train  meantime : 31.38961038961039 arrived : 1694
+01-02 02:26:20 ../DATA\traffic_dqn DEBUG     train  meantime : 29.43834808259587 arrived : 1695
+01-02 02:27:31 ../DATA\traffic_dqn DEBUG     train  meantime : 33.48443922489724 arrived : 1703
+01-02 02:28:42 ../DATA\traffic_dqn DEBUG     train  meantime : 30.612676056338028 arrived : 1704
+01-02 02:29:51 ../DATA\traffic_dqn DEBUG     train  meantime : 28.855797527957623 arrived : 1699
+01-02 02:31:01 ../DATA\traffic_dqn DEBUG     train  meantime : 31.86568914956012 arrived : 1705
+01-02 02:32:11 ../DATA\traffic_dqn DEBUG     train  meantime : 30.16509433962264 arrived : 1696
+01-02 02:33:19 ../DATA\traffic_dqn DEBUG     train  meantime : 29.53502060035315 arrived : 1699
+01-02 02:34:30 ../DATA\traffic_dqn DEBUG     train  meantime : 31.065804935370153 arrived : 1702
+01-02 02:35:40 ../DATA\traffic_dqn DEBUG     train  meantime : 30.158205430932703 arrived : 1694
+01-02 02:36:51 ../DATA\traffic_dqn DEBUG     train  meantime : 31.419526627218936 arrived : 1690
+01-02 02:38:07 ../DATA\traffic_dqn DEBUG     train  meantime : 34.91438763376932 arrived : 1682
+01-02 02:39:18 ../DATA\traffic_dqn DEBUG     train  meantime : 31.36104513064133 arrived : 1684
+01-02 02:40:29 ../DATA\traffic_dqn DEBUG     train  meantime : 31.48409893992933 arrived : 1698
+01-02 02:41:45 ../DATA\traffic_dqn DEBUG     train  meantime : 35.90246768507638 arrived : 1702
+01-02 02:42:58 ../DATA\traffic_dqn DEBUG     train  meantime : 32.84428656009473 arrived : 1689
+01-02 02:44:11 ../DATA\traffic_dqn DEBUG     train  meantime : 32.86135693215339 arrived : 1695
+01-02 02:45:23 ../DATA\traffic_dqn DEBUG     train  meantime : 31.70549970431697 arrived : 1691
+01-02 02:46:37 ../DATA\traffic_dqn DEBUG     train  meantime : 33.35103244837758 arrived : 1695
+01-02 02:47:47 ../DATA\traffic_dqn DEBUG     train  meantime : 30.276959340011786 arrived : 1697
+01-02 02:48:55 ../DATA\traffic_dqn DEBUG     train  meantime : 29.57268981753973 arrived : 1699
+01-02 02:50:08 ../DATA\traffic_dqn DEBUG     train  meantime : 33.57286135693215 arrived : 1695
+01-02 02:51:18 ../DATA\traffic_dqn DEBUG     train  meantime : 31.88895417156287 arrived : 1702
+01-02 02:52:29 ../DATA\traffic_dqn DEBUG     train  meantime : 32.09929494712103 arrived : 1702
+01-02 02:53:43 ../DATA\traffic_dqn DEBUG     train  meantime : 34.79245283018868 arrived : 1696
+01-02 02:54:52 ../DATA\traffic_dqn DEBUG     train  meantime : 29.274970622796708 arrived : 1702
+01-02 02:56:02 ../DATA\traffic_dqn DEBUG     train  meantime : 30.438751472320376 arrived : 1698
+01-02 02:57:11 ../DATA\traffic_dqn DEBUG     train  meantime : 30.36042402826855 arrived : 1698
+01-02 02:58:21 ../DATA\traffic_dqn DEBUG     train  meantime : 30.01827830188679 arrived : 1696
+01-02 02:59:30 ../DATA\traffic_dqn DEBUG     train  meantime : 29.935179728933413 arrived : 1697
+01-02 03:00:41 ../DATA\traffic_dqn DEBUG     train  meantime : 30.13932980599647 arrived : 1701
+01-02 03:01:54 ../DATA\traffic_dqn DEBUG     train  meantime : 32.40925266903915 arrived : 1686
+01-02 03:03:05 ../DATA\traffic_dqn DEBUG     train  meantime : 31.45326278659612 arrived : 1701
+01-02 03:04:16 ../DATA\traffic_dqn DEBUG     train  meantime : 29.747349823321557 arrived : 1698
+01-02 03:05:27 ../DATA\traffic_dqn DEBUG     train  meantime : 31.177163037080636 arrived : 1699
+01-02 03:06:37 ../DATA\traffic_dqn DEBUG     train  meantime : 30.121462264150942 arrived : 1696
+01-02 03:07:51 ../DATA\traffic_dqn DEBUG     train  meantime : 32.67550058892815 arrived : 1698
+01-02 03:09:02 ../DATA\traffic_dqn DEBUG     train  meantime : 30.17020023557126 arrived : 1698
+01-02 03:10:15 ../DATA\traffic_dqn DEBUG     train  meantime : 31.851699882766706 arrived : 1706
+01-02 03:11:26 ../DATA\traffic_dqn DEBUG     train  meantime : 30.354534746760894 arrived : 1698
+01-02 03:12:40 ../DATA\traffic_dqn DEBUG     train  meantime : 33.49293286219081 arrived : 1698
+01-02 03:13:53 ../DATA\traffic_dqn DEBUG     train  meantime : 33.684988179669034 arrived : 1692
+01-02 03:15:00 ../DATA\traffic_dqn DEBUG     train  meantime : 28.90199530516432 arrived : 1704
+01-02 03:16:13 ../DATA\traffic_dqn DEBUG     train  meantime : 32.4165191740413 arrived : 1695
+01-02 03:17:25 ../DATA\traffic_dqn DEBUG     train  meantime : 32.77208480565371 arrived : 1698
+01-02 03:18:38 ../DATA\traffic_dqn DEBUG     train  meantime : 33.45422116527943 arrived : 1682
+01-02 03:19:50 ../DATA\traffic_dqn DEBUG     train  meantime : 32.35941176470588 arrived : 1700
+01-02 03:21:01 ../DATA\traffic_dqn DEBUG     train  meantime : 30.182726204465336 arrived : 1702
+01-02 03:22:10 ../DATA\traffic_dqn DEBUG     train  meantime : 29.34470588235294 arrived : 1700
+01-02 03:23:24 ../DATA\traffic_dqn DEBUG     train  meantime : 33.75736160188457 arrived : 1698
+01-02 03:24:35 ../DATA\traffic_dqn DEBUG     train  meantime : 32.67922307239553 arrived : 1699
+01-02 03:25:45 ../DATA\traffic_dqn DEBUG     train  meantime : 30.75868157739847 arrived : 1699
+01-02 03:26:59 ../DATA\traffic_dqn DEBUG     train  meantime : 32.93392330383481 arrived : 1695
+01-02 03:28:10 ../DATA\traffic_dqn DEBUG     train  meantime : 30.538280329799765 arrived : 1698
+01-02 03:29:23 ../DATA\traffic_dqn DEBUG     train  meantime : 32.822732626619555 arrived : 1698
+01-02 03:30:32 ../DATA\traffic_dqn DEBUG     train  meantime : 29.935579196217493 arrived : 1692
+01-02 03:31:48 ../DATA\traffic_dqn DEBUG     train  meantime : 34.985865724381625 arrived : 1698
+01-02 03:33:01 ../DATA\traffic_dqn DEBUG     train  meantime : 34.071386430678466 arrived : 1695
+01-02 03:34:13 ../DATA\traffic_dqn DEBUG     train  meantime : 31.381205673758867 arrived : 1692
+01-02 03:35:26 ../DATA\traffic_dqn DEBUG     train  meantime : 33.075471698113205 arrived : 1696
+01-02 03:36:35 ../DATA\traffic_dqn DEBUG     train  meantime : 29.189634864546527 arrived : 1698
+01-02 03:37:46 ../DATA\traffic_dqn DEBUG     train  meantime : 33.02125147579693 arrived : 1694
+01-02 03:38:56 ../DATA\traffic_dqn DEBUG     train  meantime : 31.078419811320753 arrived : 1696
+01-02 03:40:05 ../DATA\traffic_dqn DEBUG     train  meantime : 30.33823529411765 arrived : 1700
+01-02 03:41:21 ../DATA\traffic_dqn DEBUG     train  meantime : 34.64542772861357 arrived : 1695
+01-02 03:42:31 ../DATA\traffic_dqn DEBUG     train  meantime : 31.22967359050445 arrived : 1685
+01-02 03:43:43 ../DATA\traffic_dqn DEBUG     train  meantime : 32.75929203539823 arrived : 1695
+01-02 03:44:52 ../DATA\traffic_dqn DEBUG     train  meantime : 29.751919669226226 arrived : 1693
+01-02 03:46:04 ../DATA\traffic_dqn DEBUG     train  meantime : 33.55778301886792 arrived : 1696
+01-02 03:47:16 ../DATA\traffic_dqn DEBUG     train  meantime : 33.06603773584906 arrived : 1696
+01-02 03:48:31 ../DATA\traffic_dqn DEBUG     train  meantime : 35.07231040564374 arrived : 1701
+01-02 03:49:42 ../DATA\traffic_dqn DEBUG     train  meantime : 29.419165196942973 arrived : 1701
+01-02 03:50:52 ../DATA\traffic_dqn DEBUG     train  meantime : 31.350856467808622 arrived : 1693
+01-02 03:52:03 ../DATA\traffic_dqn DEBUG     train  meantime : 29.884638022366097 arrived : 1699
+01-02 03:53:12 ../DATA\traffic_dqn DEBUG     train  meantime : 29.82370283018868 arrived : 1696
+01-02 03:54:28 ../DATA\traffic_dqn DEBUG     train  meantime : 35.94186729301233 arrived : 1703
+01-02 03:55:43 ../DATA\traffic_dqn DEBUG     train  meantime : 30.420555227406968 arrived : 1693
+01-02 03:56:56 ../DATA\traffic_dqn DEBUG     train  meantime : 33.486709982279976 arrived : 1693
+01-02 03:58:09 ../DATA\traffic_dqn DEBUG     train  meantime : 33.30235294117647 arrived : 1700
+01-02 03:59:21 ../DATA\traffic_dqn DEBUG     train  meantime : 30.954248366013072 arrived : 1683
+01-02 04:00:34 ../DATA\traffic_dqn DEBUG     train  meantime : 33.1301775147929 arrived : 1690
+01-02 04:01:43 ../DATA\traffic_dqn DEBUG     train  meantime : 31.307783018867923 arrived : 1696
+01-02 04:02:54 ../DATA\traffic_dqn DEBUG     train  meantime : 32.27781047675103 arrived : 1699
+01-02 04:04:09 ../DATA\traffic_dqn DEBUG     train  meantime : 35.88113542282673 arrived : 1691
+01-02 04:05:20 ../DATA\traffic_dqn DEBUG     train  meantime : 33.249706227967096 arrived : 1702
+01-02 04:06:31 ../DATA\traffic_dqn DEBUG     train  meantime : 32.68654073199528 arrived : 1694
+01-02 04:07:42 ../DATA\traffic_dqn DEBUG     train  meantime : 31.93632075471698 arrived : 1696
+01-02 04:08:52 ../DATA\traffic_dqn DEBUG     train  meantime : 30.64782096584217 arrived : 1698
+01-02 04:10:01 ../DATA\traffic_dqn DEBUG     train  meantime : 29.994103773584907 arrived : 1696
+01-02 04:11:11 ../DATA\traffic_dqn DEBUG     train  meantime : 30.86336866902238 arrived : 1698
+01-02 04:12:22 ../DATA\traffic_dqn DEBUG     train  meantime : 29.505591524426134 arrived : 1699
+01-02 04:13:31 ../DATA\traffic_dqn DEBUG     train  meantime : 29.862190812720847 arrived : 1698
+01-02 04:14:41 ../DATA\traffic_dqn DEBUG     train  meantime : 29.90860849056604 arrived : 1696
+01-02 04:15:55 ../DATA\traffic_dqn DEBUG     train  meantime : 31.715380082498527 arrived : 1697
+01-02 04:17:03 ../DATA\traffic_dqn DEBUG     train  meantime : 28.85377358490566 arrived : 1696
+01-02 04:18:17 ../DATA\traffic_dqn DEBUG     train  meantime : 32.17557251908397 arrived : 1703
+01-02 04:19:30 ../DATA\traffic_dqn DEBUG     train  meantime : 34.09187907528157 arrived : 1687
+01-02 04:20:42 ../DATA\traffic_dqn DEBUG     train  meantime : 29.34944018856806 arrived : 1697
+01-02 04:21:54 ../DATA\traffic_dqn DEBUG     train  meantime : 32.492924528301884 arrived : 1696
+01-02 04:23:03 ../DATA\traffic_dqn DEBUG     train  meantime : 29.818235294117645 arrived : 1700
+01-02 04:24:12 ../DATA\traffic_dqn DEBUG     train  meantime : 30.309509746012996 arrived : 1693
+01-02 04:25:20 ../DATA\traffic_dqn DEBUG     train  meantime : 29.4728453364817 arrived : 1694
+01-02 04:26:28 ../DATA\traffic_dqn DEBUG     train  meantime : 29.33666862860506 arrived : 1699
+01-02 04:27:40 ../DATA\traffic_dqn DEBUG     train  meantime : 31.744529863985807 arrived : 1691
+01-02 04:28:48 ../DATA\traffic_dqn DEBUG     train  meantime : 29.409305064782096 arrived : 1698
+01-02 04:30:01 ../DATA\traffic_dqn DEBUG     train  meantime : 33.54888103651354 arrived : 1698
+01-02 04:31:15 ../DATA\traffic_dqn DEBUG     train  meantime : 34.36953955135773 arrived : 1694
+01-02 04:32:25 ../DATA\traffic_dqn DEBUG     train  meantime : 29.4673721340388 arrived : 1701
+01-02 04:33:35 ../DATA\traffic_dqn DEBUG     train  meantime : 31.40516735173224 arrived : 1703
+01-02 04:34:46 ../DATA\traffic_dqn DEBUG     train  meantime : 32.73560517038778 arrived : 1702
+01-02 04:36:00 ../DATA\traffic_dqn DEBUG     train  meantime : 32.518278301886795 arrived : 1696
+01-02 04:37:12 ../DATA\traffic_dqn DEBUG     train  meantime : 32.346335697399525 arrived : 1692
+01-02 04:38:26 ../DATA\traffic_dqn DEBUG     train  meantime : 33.83362831858407 arrived : 1695
+01-02 04:39:35 ../DATA\traffic_dqn DEBUG     train  meantime : 30.57268981753973 arrived : 1699
+01-02 04:40:45 ../DATA\traffic_dqn DEBUG     train  meantime : 30.072812683499706 arrived : 1703
+01-02 04:41:54 ../DATA\traffic_dqn DEBUG     train  meantime : 30.3952802359882 arrived : 1695
+01-02 04:43:05 ../DATA\traffic_dqn DEBUG     train  meantime : 29.815339233038348 arrived : 1695
+01-02 04:44:14 ../DATA\traffic_dqn DEBUG     train  meantime : 31.830399061032864 arrived : 1704
+01-02 04:45:28 ../DATA\traffic_dqn DEBUG     train  meantime : 33.322143698468786 arrived : 1698
+01-02 04:46:43 ../DATA\traffic_dqn DEBUG     train  meantime : 33.22405660377358 arrived : 1696
+01-02 04:47:57 ../DATA\traffic_dqn DEBUG     train  meantime : 35.30277942046126 arrived : 1691
+01-02 04:49:05 ../DATA\traffic_dqn DEBUG     train  meantime : 29.27482269503546 arrived : 1692
+01-02 04:50:16 ../DATA\traffic_dqn DEBUG     train  meantime : 31.765744555620955 arrived : 1699
+01-02 04:51:26 ../DATA\traffic_dqn DEBUG     train  meantime : 31.926757235676313 arrived : 1693
+01-02 04:52:35 ../DATA\traffic_dqn DEBUG     train  meantime : 29.358959195742166 arrived : 1691
+01-02 04:53:45 ../DATA\traffic_dqn DEBUG     train  meantime : 30.537691401649 arrived : 1698
+01-02 04:54:55 ../DATA\traffic_dqn DEBUG     train  meantime : 29.7021777516186 arrived : 1699
+01-02 04:56:05 ../DATA\traffic_dqn DEBUG     train  meantime : 31.187389510901593 arrived : 1697
+01-02 04:57:21 ../DATA\traffic_dqn DEBUG     train  meantime : 35.97278106508876 arrived : 1690
+01-02 04:58:34 ../DATA\traffic_dqn DEBUG     train  meantime : 31.49645390070922 arrived : 1692
+01-02 04:59:46 ../DATA\traffic_dqn DEBUG     train  meantime : 31.44870283018868 arrived : 1696
+01-02 05:00:57 ../DATA\traffic_dqn DEBUG     train  meantime : 31.78268551236749 arrived : 1698
+01-02 05:02:09 ../DATA\traffic_dqn DEBUG     train  meantime : 29.73665480427046 arrived : 1686
+01-02 05:03:20 ../DATA\traffic_dqn DEBUG     train  meantime : 30.639692852923805 arrived : 1693
+01-02 05:04:31 ../DATA\traffic_dqn DEBUG     train  meantime : 30.57631113730112 arrived : 1697
+01-02 05:05:42 ../DATA\traffic_dqn DEBUG     train  meantime : 31.574618096357227 arrived : 1702
+01-02 05:06:52 ../DATA\traffic_dqn DEBUG     train  meantime : 30.712192262602578 arrived : 1706
+01-02 05:08:04 ../DATA\traffic_dqn DEBUG     train  meantime : 31.20981087470449 arrived : 1692
+01-02 05:09:15 ../DATA\traffic_dqn DEBUG     train  meantime : 32.351938895417156 arrived : 1702
+01-02 05:10:32 ../DATA\traffic_dqn DEBUG     train  meantime : 33.917702782711665 arrived : 1689
+01-02 05:11:42 ../DATA\traffic_dqn DEBUG     train  meantime : 30.660199882422106 arrived : 1701
+01-02 05:12:49 ../DATA\traffic_dqn DEBUG     train  meantime : 28.651917404129794 arrived : 1695
+01-02 05:14:01 ../DATA\traffic_dqn DEBUG     train  meantime : 31.785840707964603 arrived : 1695
+01-02 05:15:10 ../DATA\traffic_dqn DEBUG     train  meantime : 29.113396004700352 arrived : 1702
+01-02 05:16:21 ../DATA\traffic_dqn DEBUG     train  meantime : 33.869103773584904 arrived : 1696
+01-02 05:17:31 ../DATA\traffic_dqn DEBUG     train  meantime : 30.47700471698113 arrived : 1696
+01-02 05:18:44 ../DATA\traffic_dqn DEBUG     train  meantime : 33.936207914943886 arrived : 1693
+01-02 05:19:53 ../DATA\traffic_dqn DEBUG     train  meantime : 29.146384479717813 arrived : 1701
+01-02 05:21:04 ../DATA\traffic_dqn DEBUG     train  meantime : 31.13639035861258 arrived : 1701
+01-02 05:22:14 ../DATA\traffic_dqn DEBUG     train  meantime : 29.771950500883914 arrived : 1697
+01-02 05:23:23 ../DATA\traffic_dqn DEBUG     train  meantime : 29.201650943396228 arrived : 1696
+01-02 05:24:36 ../DATA\traffic_dqn DEBUG     train  meantime : 34.3060141509434 arrived : 1696
+01-02 05:25:48 ../DATA\traffic_dqn DEBUG     train  meantime : 29.90448113207547 arrived : 1696
+01-02 05:27:02 ../DATA\traffic_dqn DEBUG     train  meantime : 32.9764982373678 arrived : 1702
+01-02 05:28:11 ../DATA\traffic_dqn DEBUG     train  meantime : 29.05785123966942 arrived : 1694
+01-02 05:29:26 ../DATA\traffic_dqn DEBUG     train  meantime : 30.95567375886525 arrived : 1692
+01-02 05:30:41 ../DATA\traffic_dqn DEBUG     train  meantime : 36.135342789598106 arrived : 1692
+01-02 05:31:53 ../DATA\traffic_dqn DEBUG     train  meantime : 30.13038348082596 arrived : 1695
+01-02 05:33:06 ../DATA\traffic_dqn DEBUG     train  meantime : 33.55785123966942 arrived : 1694
+01-02 05:34:16 ../DATA\traffic_dqn DEBUG     train  meantime : 30.76210153482881 arrived : 1694
+01-02 05:35:25 ../DATA\traffic_dqn DEBUG     train  meantime : 30.165582495564756 arrived : 1691
+01-02 05:36:37 ../DATA\traffic_dqn DEBUG     train  meantime : 33.851088875809296 arrived : 1699
+01-02 05:37:50 ../DATA\traffic_dqn DEBUG     train  meantime : 32.57286135693215 arrived : 1695
+01-02 05:39:01 ../DATA\traffic_dqn DEBUG     train  meantime : 33.57733175914994 arrived : 1694
+01-02 05:40:15 ../DATA\traffic_dqn DEBUG     train  meantime : 33.54625810253388 arrived : 1697
+01-02 05:41:25 ../DATA\traffic_dqn DEBUG     train  meantime : 30.202014218009477 arrived : 1688
+01-02 05:42:34 ../DATA\traffic_dqn DEBUG     train  meantime : 29.23172169811321 arrived : 1696
+01-02 05:43:48 ../DATA\traffic_dqn DEBUG     train  meantime : 35.739386792452834 arrived : 1696
+01-02 05:45:02 ../DATA\traffic_dqn DEBUG     train  meantime : 35.240117994100295 arrived : 1695
+01-02 05:46:16 ../DATA\traffic_dqn DEBUG     train  meantime : 33.71797884841363 arrived : 1702
+01-02 05:47:27 ../DATA\traffic_dqn DEBUG     train  meantime : 28.844155844155843 arrived : 1694
+01-02 05:48:38 ../DATA\traffic_dqn DEBUG     train  meantime : 32.63266509433962 arrived : 1696
+01-02 05:49:54 ../DATA\traffic_dqn DEBUG     train  meantime : 33.97701826753094 arrived : 1697
+01-02 05:51:03 ../DATA\traffic_dqn DEBUG     train  meantime : 28.670975323149236 arrived : 1702
+01-02 05:52:13 ../DATA\traffic_dqn DEBUG     train  meantime : 30.51559741024132 arrived : 1699
+01-02 05:53:24 ../DATA\traffic_dqn DEBUG     train  meantime : 30.93156342182891 arrived : 1695
+01-02 05:54:41 ../DATA\traffic_dqn DEBUG     train  meantime : 34.46788450206246 arrived : 1697
+01-02 05:55:51 ../DATA\traffic_dqn DEBUG     train  meantime : 28.22479240806643 arrived : 1686
+01-02 05:57:02 ../DATA\traffic_dqn DEBUG     train  meantime : 30.653575615474796 arrived : 1706
+01-02 05:58:13 ../DATA\traffic_dqn DEBUG     train  meantime : 31.41956393635828 arrived : 1697
+01-02 05:59:31 ../DATA\traffic_dqn DEBUG     train  meantime : 35.592789598108745 arrived : 1692
+01-02 06:00:43 ../DATA\traffic_dqn DEBUG     train  meantime : 32.95796329188869 arrived : 1689
+01-02 06:01:57 ../DATA\traffic_dqn DEBUG     train  meantime : 34.06382978723404 arrived : 1692
+01-02 06:03:08 ../DATA\traffic_dqn DEBUG     train  meantime : 32.44825547013601 arrived : 1691
+01-02 06:04:22 ../DATA\traffic_dqn DEBUG     train  meantime : 35.604609929078016 arrived : 1692
+01-02 06:05:35 ../DATA\traffic_dqn DEBUG     train  meantime : 33.56780660377358 arrived : 1696
+01-02 06:06:47 ../DATA\traffic_dqn DEBUG     train  meantime : 33.367081113084666 arrived : 1689
+01-02 06:08:03 ../DATA\traffic_dqn DEBUG     train  meantime : 36.640117994100294 arrived : 1695
+01-02 06:09:18 ../DATA\traffic_dqn DEBUG     train  meantime : 33.6831566548881 arrived : 1698
+01-02 06:10:34 ../DATA\traffic_dqn DEBUG     train  meantime : 34.540810334703465 arrived : 1703
+01-02 06:11:43 ../DATA\traffic_dqn DEBUG     train  meantime : 29.47107438016529 arrived : 1694
+01-02 06:12:54 ../DATA\traffic_dqn DEBUG     train  meantime : 30.071218363743377 arrived : 1699
+01-02 06:14:08 ../DATA\traffic_dqn DEBUG     train  meantime : 33.96122209165687 arrived : 1702
+01-02 06:15:21 ../DATA\traffic_dqn DEBUG     train  meantime : 30.024749558043606 arrived : 1697
+01-02 06:16:35 ../DATA\traffic_dqn DEBUG     train  meantime : 33.5929203539823 arrived : 1695
+01-02 06:17:45 ../DATA\traffic_dqn DEBUG     train  meantime : 29.28134196586227 arrived : 1699
+01-02 06:18:55 ../DATA\traffic_dqn DEBUG     train  meantime : 30.094451003541913 arrived : 1694
+01-02 06:20:10 ../DATA\traffic_dqn DEBUG     train  meantime : 35.733333333333334 arrived : 1695
+01-02 06:21:22 ../DATA\traffic_dqn DEBUG     train  meantime : 31.351590106007066 arrived : 1698
+01-02 06:22:31 ../DATA\traffic_dqn DEBUG     train  meantime : 30.929453262786595 arrived : 1701
+01-02 06:23:41 ../DATA\traffic_dqn DEBUG     train  meantime : 31.243051448846835 arrived : 1691
+01-02 06:24:51 ../DATA\traffic_dqn DEBUG     train  meantime : 30.006485849056602 arrived : 1696
+01-02 06:26:02 ../DATA\traffic_dqn DEBUG     train  meantime : 31.420990566037737 arrived : 1696
+01-02 06:27:12 ../DATA\traffic_dqn DEBUG     train  meantime : 31.5475910693302 arrived : 1702
+01-02 06:28:27 ../DATA\traffic_dqn DEBUG     train  meantime : 34.56132075471698 arrived : 1696
+01-02 06:29:37 ../DATA\traffic_dqn DEBUG     train  meantime : 30.149940968122785 arrived : 1694
+01-02 06:30:52 ../DATA\traffic_dqn DEBUG     train  meantime : 36.080425783560024 arrived : 1691
+01-02 06:32:03 ../DATA\traffic_dqn DEBUG     train  meantime : 31.250735726898174 arrived : 1699
+01-02 06:33:17 ../DATA\traffic_dqn DEBUG     train  meantime : 34.56419316843345 arrived : 1698
+01-02 06:34:30 ../DATA\traffic_dqn DEBUG     train  meantime : 32.709411764705884 arrived : 1700
+01-02 06:35:41 ../DATA\traffic_dqn DEBUG     train  meantime : 30.726092089728454 arrived : 1694
+01-02 06:36:56 ../DATA\traffic_dqn DEBUG     train  meantime : 29.16991150442478 arrived : 1695
+01-02 06:38:07 ../DATA\traffic_dqn DEBUG     train  meantime : 30.642688679245282 arrived : 1696
+01-02 06:39:22 ../DATA\traffic_dqn DEBUG     train  meantime : 34.42722451384797 arrived : 1697
+01-02 06:40:32 ../DATA\traffic_dqn DEBUG     train  meantime : 29.88502358490566 arrived : 1696
+01-02 06:41:43 ../DATA\traffic_dqn DEBUG     train  meantime : 30.26458456098998 arrived : 1697
+01-02 06:43:01 ../DATA\traffic_dqn DEBUG     train  meantime : 31.37264150943396 arrived : 1696
+01-02 06:44:13 ../DATA\traffic_dqn DEBUG     train  meantime : 30.951147733961154 arrived : 1699
+01-02 06:45:25 ../DATA\traffic_dqn DEBUG     train  meantime : 32.661764705882355 arrived : 1700
+01-02 06:46:37 ../DATA\traffic_dqn DEBUG     train  meantime : 32.04660766961652 arrived : 1695
+01-02 06:47:46 ../DATA\traffic_dqn DEBUG     train  meantime : 30.35705882352941 arrived : 1700
+01-02 06:48:56 ../DATA\traffic_dqn DEBUG     train  meantime : 30.803182086034177 arrived : 1697
+01-02 06:50:05 ../DATA\traffic_dqn DEBUG     train  meantime : 30.570335491465567 arrived : 1699
+01-02 06:51:15 ../DATA\traffic_dqn DEBUG     train  meantime : 31.159882005899703 arrived : 1695
+01-02 06:52:26 ../DATA\traffic_dqn DEBUG     train  meantime : 30.6466784244562 arrived : 1701
+01-02 06:53:35 ../DATA\traffic_dqn DEBUG     train  meantime : 30.43193871538008 arrived : 1697
+01-02 06:54:48 ../DATA\traffic_dqn DEBUG     train  meantime : 31.64399763453578 arrived : 1691
+01-02 06:56:01 ../DATA\traffic_dqn DEBUG     train  meantime : 30.244536326048436 arrived : 1693
+01-02 06:57:14 ../DATA\traffic_dqn DEBUG     train  meantime : 30.535377358490567 arrived : 1696
+01-02 06:58:30 ../DATA\traffic_dqn DEBUG     train  meantime : 35.69189828503844 arrived : 1691
+01-02 06:59:45 ../DATA\traffic_dqn DEBUG     train  meantime : 32.86430678466077 arrived : 1695
+01-02 07:00:57 ../DATA\traffic_dqn DEBUG     train  meantime : 31.782762691853602 arrived : 1694
+01-02 07:02:08 ../DATA\traffic_dqn DEBUG     train  meantime : 30.26368452030606 arrived : 1699
+01-02 07:03:17 ../DATA\traffic_dqn DEBUG     train  meantime : 29.711515863689776 arrived : 1702
+01-02 07:04:29 ../DATA\traffic_dqn DEBUG     train  meantime : 29.078327444051826 arrived : 1698
+01-02 07:05:44 ../DATA\traffic_dqn DEBUG     train  meantime : 35.10532544378698 arrived : 1690
+01-02 07:06:54 ../DATA\traffic_dqn DEBUG     train  meantime : 30.206021251475796 arrived : 1694
+01-02 07:08:04 ../DATA\traffic_dqn DEBUG     train  meantime : 30.3248670998228 arrived : 1693
+01-02 07:09:15 ../DATA\traffic_dqn DEBUG     train  meantime : 31.03425871234495 arrived : 1693
+01-02 07:10:29 ../DATA\traffic_dqn DEBUG     train  meantime : 34.475825471698116 arrived : 1696
+01-02 07:11:39 ../DATA\traffic_dqn DEBUG     train  meantime : 29.48235294117647 arrived : 1700
+01-02 07:12:48 ../DATA\traffic_dqn DEBUG     train  meantime : 29.39294117647059 arrived : 1700
+01-02 07:14:01 ../DATA\traffic_dqn DEBUG     train  meantime : 33.66627288836385 arrived : 1693
+01-02 07:15:12 ../DATA\traffic_dqn DEBUG     train  meantime : 31.873671782762692 arrived : 1694
+01-02 07:16:26 ../DATA\traffic_dqn DEBUG     train  meantime : 34.76011904761905 arrived : 1680
+01-02 07:17:40 ../DATA\traffic_dqn DEBUG     train  meantime : 33.93628318584071 arrived : 1695
+01-02 07:18:51 ../DATA\traffic_dqn DEBUG     train  meantime : 30.031820860341778 arrived : 1697
+01-02 07:20:06 ../DATA\traffic_dqn DEBUG     train  meantime : 32.86854460093897 arrived : 1704
+01-02 07:21:18 ../DATA\traffic_dqn DEBUG     train  meantime : 28.870283018867923 arrived : 1696
+01-02 07:22:33 ../DATA\traffic_dqn DEBUG     train  meantime : 35.383529411764705 arrived : 1700
+01-02 07:23:47 ../DATA\traffic_dqn DEBUG     train  meantime : 33.48470588235294 arrived : 1700
+01-02 07:25:02 ../DATA\traffic_dqn DEBUG     train  meantime : 33.9858407079646 arrived : 1695
+01-02 07:26:15 ../DATA\traffic_dqn DEBUG     train  meantime : 34.19033588685917 arrived : 1697
+01-02 07:27:34 ../DATA\traffic_dqn DEBUG     train  meantime : 35.8993525603296 arrived : 1699
+01-02 07:28:48 ../DATA\traffic_dqn DEBUG     train  meantime : 34.42772861356932 arrived : 1695
+01-02 07:29:57 ../DATA\traffic_dqn DEBUG     train  meantime : 29.736749116607776 arrived : 1698
+01-02 07:31:12 ../DATA\traffic_dqn DEBUG     train  meantime : 33.79490219324244 arrived : 1687
+01-02 07:32:27 ../DATA\traffic_dqn DEBUG     train  meantime : 34.16824644549763 arrived : 1688
+01-02 07:33:37 ../DATA\traffic_dqn DEBUG     train  meantime : 31.03891509433962 arrived : 1696
+01-02 07:34:51 ../DATA\traffic_dqn DEBUG     train  meantime : 33.98575667655786 arrived : 1685
+01-02 07:36:06 ../DATA\traffic_dqn DEBUG     train  meantime : 36.45126993502658 arrived : 1693
+01-02 07:37:22 ../DATA\traffic_dqn DEBUG     train  meantime : 38.101363366923536 arrived : 1687
+01-02 07:38:35 ../DATA\traffic_dqn DEBUG     train  meantime : 32.062351543942995 arrived : 1684
+01-02 07:39:45 ../DATA\traffic_dqn DEBUG     train  meantime : 30.57294117647059 arrived : 1700
+01-02 07:40:56 ../DATA\traffic_dqn DEBUG     train  meantime : 31.742789876397882 arrived : 1699
+01-02 07:42:09 ../DATA\traffic_dqn DEBUG     train  meantime : 34.569994093325455 arrived : 1693
+01-02 07:43:22 ../DATA\traffic_dqn DEBUG     train  meantime : 33.45949142519219 arrived : 1691
+01-02 07:44:31 ../DATA\traffic_dqn DEBUG     train  meantime : 30.94811320754717 arrived : 1696
+01-02 07:45:40 ../DATA\traffic_dqn DEBUG     train  meantime : 28.148061104582844 arrived : 1702
+01-02 07:46:49 ../DATA\traffic_dqn DEBUG     train  meantime : 28.285883047844063 arrived : 1693
+01-02 07:48:05 ../DATA\traffic_dqn DEBUG     train  meantime : 33.88475177304964 arrived : 1692
+01-02 07:49:20 ../DATA\traffic_dqn DEBUG     train  meantime : 35.50383480825959 arrived : 1695
+01-02 07:50:32 ../DATA\traffic_dqn DEBUG     train  meantime : 30.980599647266313 arrived : 1701
+01-02 07:51:45 ../DATA\traffic_dqn DEBUG     train  meantime : 32.60530973451328 arrived : 1695
+01-02 07:53:01 ../DATA\traffic_dqn DEBUG     train  meantime : 35.89940828402367 arrived : 1690

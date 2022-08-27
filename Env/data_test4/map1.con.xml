@@ -1,0 +1,19 @@
+<connections xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/connections_file.xsd">	
+	<!--<connection from="edgeR-1-0" to="edgeD-0-4" fromLane="0" toLane="0"/>	-->
+	<!--<connection from="edgeR-1-0" to="edgeU-0-4" fromLine="0" toLine="3" dir="r" state="o"/>	-->
+	<delete from="edge-1-0" to="edge-0-2" fromLane="3" toLane="3"/>
+	<delete from="edge-0-1" to="edge-1-0" fromLane="3" toLane="3"/>
+	<delete from="edge-1-0" to="edge-0-1" fromLane="3" toLane="3"/>
+	
+	<delete from="edge-2-0" to="edge-0-1" fromLane="3" toLane="3"/>
+	<delete from="edge-0-2" to="edge-2-0" fromLane="3" toLane="3"/>
+	<delete from="edge-2-0" to="edge-0-2" fromLane="3" toLane="3"/>
+
+	<delete from="edge-3-0" to="edge-0-4" fromLane="3" toLane="3"/>
+	<delete from="edge-3-0" to="edge-0-3" fromLane="3" toLane="3"/>
+	<delete from="edge-0-3" to="edge-3-0" fromLane="3" toLane="3"/>
+
+	<delete from="edge-4-0" to="edge-0-3" fromLane="3" toLane="3"/>
+	<delete from="edge-4-0" to="edge-0-4" fromLane="3" toLane="3"/>
+	<delete from="edge-0-4" to="edge-4-0" fromLane="3" toLane="3"/>
+</connections>

@@ -1,0 +1,500 @@
+01-07 21:28:27 ../DATA\traffic_Compare_Double_drqn DEBUG     train 0 P: 0.1 ddqnwaitingtime : 14.581120943952802 fixed : 23.352941176470587 dqnwaitingtime : 83.70710059171597 ca: 82.0688622754491
+01-07 21:28:43 ../DATA\traffic_Compare_Double_drqn DEBUG     train stop 0 P: 0.1 ddqn_stop : 186 fixed : 231 dqn_stop : 292 ca: 231
+01-07 21:35:22 ../DATA/traffic_Compare_Double_drqn DEBUG     train 0 P: 0.1 ddqnwaitingtime : 18.729577464788733 fixed : 23.34180790960452 dqnwaitingtime : 64.55240793201133 ca: 61.94632768361582
+01-07 21:35:22 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 0 P: 0.1 ddqn_stop : 200 fixed : 241 dqn_stop : 246 ca: 210
+01-07 21:37:05 ../DATA/traffic_Compare_Double_drqn DEBUG     train 1 P: 0.1 ddqnwaitingtime : 16.089820359281436 fixed : 21.996996996996998 dqnwaitingtime : 65.80923076923077 ca: 61.55891238670695
+01-07 21:37:05 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 1 P: 0.1 ddqn_stop : 185 fixed : 228 dqn_stop : 215 ca: 195
+01-07 21:38:55 ../DATA/traffic_Compare_Double_drqn DEBUG     train 2 P: 0.1 ddqnwaitingtime : 18.6866485013624 fixed : 22.277929155313352 dqnwaitingtime : 90.04507042253522 ca: 67.76795580110497
+01-07 21:38:55 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 2 P: 0.1 ddqn_stop : 247 fixed : 240 dqn_stop : 273 ca: 216
+01-07 21:40:46 ../DATA/traffic_Compare_Double_drqn DEBUG     train 3 P: 0.1 ddqnwaitingtime : 16.514792899408285 fixed : 24.94752186588921 dqnwaitingtime : 79.71554252199414 ca: 79.486646884273
+01-07 21:40:46 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 3 P: 0.1 ddqn_stop : 194 fixed : 236 dqn_stop : 257 ca: 228
+01-07 21:42:33 ../DATA/traffic_Compare_Double_drqn DEBUG     train 4 P: 0.1 ddqnwaitingtime : 15.02865329512894 fixed : 24.072046109510087 dqnwaitingtime : 70.88662790697674 ca: 65.0266272189349
+01-07 21:42:33 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 4 P: 0.1 ddqn_stop : 200 fixed : 235 dqn_stop : 245 ca: 212
+01-07 21:44:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train 5 P: 0.1 ddqnwaitingtime : 14.79224376731302 fixed : 21.45277777777778 dqnwaitingtime : 73.24860335195531 ca: 53.71348314606742
+01-07 21:44:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 5 P: 0.1 ddqn_stop : 209 fixed : 249 dqn_stop : 263 ca: 190
+01-07 21:46:06 ../DATA/traffic_Compare_Double_drqn DEBUG     train 6 P: 0.1 ddqnwaitingtime : 20.16618911174785 fixed : 26.74712643678161 dqnwaitingtime : 69.16060606060606 ca: 71.88622754491018
+01-07 21:46:06 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 6 P: 0.1 ddqn_stop : 209 fixed : 252 dqn_stop : 234 ca: 202
+01-07 21:47:53 ../DATA/traffic_Compare_Double_drqn DEBUG     train 7 P: 0.1 ddqnwaitingtime : 18.652542372881356 fixed : 22.752136752136753 dqnwaitingtime : 66.8313953488372 ca: 64.50862068965517
+01-07 21:47:53 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 7 P: 0.1 ddqn_stop : 186 fixed : 218 dqn_stop : 251 ca: 212
+01-07 21:49:40 ../DATA/traffic_Compare_Double_drqn DEBUG     train 8 P: 0.1 ddqnwaitingtime : 11.84958217270195 fixed : 23.86350974930362 dqnwaitingtime : 73.78551532033426 ca: 68.98314606741573
+01-07 21:49:40 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 8 P: 0.1 ddqn_stop : 201 fixed : 240 dqn_stop : 282 ca: 237
+01-07 21:51:29 ../DATA/traffic_Compare_Double_drqn DEBUG     train 9 P: 0.1 ddqnwaitingtime : 15.463414634146341 fixed : 25.83651226158038 dqnwaitingtime : 64.64364640883979 ca: 75.77260273972603
+01-07 21:51:29 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 9 P: 0.1 ddqn_stop : 205 fixed : 256 dqn_stop : 285 ca: 240
+01-07 21:53:11 ../DATA/traffic_Compare_Double_drqn DEBUG     train 10 P: 0.1 ddqnwaitingtime : 17.144694533762056 fixed : 23.703225806451613 dqnwaitingtime : 85.18506493506493 ca: 72.1029900332226
+01-07 21:53:11 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 10 P: 0.1 ddqn_stop : 186 fixed : 211 dqn_stop : 252 ca: 151
+01-07 21:54:54 ../DATA/traffic_Compare_Double_drqn DEBUG     train 11 P: 0.1 ddqnwaitingtime : 16.916666666666668 fixed : 22.63157894736842 dqnwaitingtime : 67.28450704225352 ca: 71.26285714285714
+01-07 21:54:54 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 11 P: 0.1 ddqn_stop : 216 fixed : 240 dqn_stop : 249 ca: 218
+01-07 21:56:45 ../DATA/traffic_Compare_Double_drqn DEBUG     train 12 P: 0.1 ddqnwaitingtime : 13.820289855072463 fixed : 22.087719298245613 dqnwaitingtime : 96.02694610778443 ca: 67.8076923076923
+01-07 21:56:45 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 12 P: 0.1 ddqn_stop : 185 fixed : 224 dqn_stop : 260 ca: 238
+01-07 21:58:30 ../DATA/traffic_Compare_Double_drqn DEBUG     train 13 P: 0.1 ddqnwaitingtime : 13.763020833333334 fixed : 24.75130890052356 dqnwaitingtime : 68.32467532467533 ca: 54.02652519893899
+01-07 21:58:30 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 13 P: 0.1 ddqn_stop : 229 fixed : 271 dqn_stop : 279 ca: 238
+01-07 22:00:18 ../DATA/traffic_Compare_Double_drqn DEBUG     train 14 P: 0.1 ddqnwaitingtime : 17.81267217630854 fixed : 23.2292817679558 dqnwaitingtime : 60.28080229226361 ca: 64.22689075630252
+01-07 22:00:18 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 14 P: 0.1 ddqn_stop : 213 fixed : 239 dqn_stop : 220 ca: 200
+01-07 22:02:05 ../DATA/traffic_Compare_Double_drqn DEBUG     train 15 P: 0.1 ddqnwaitingtime : 15.452879581151832 fixed : 20.79575596816976 dqnwaitingtime : 68.2627345844504 ca: 61.63709677419355
+01-07 22:02:05 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 15 P: 0.1 ddqn_stop : 243 fixed : 251 dqn_stop : 288 ca: 248
+01-07 22:03:49 ../DATA/traffic_Compare_Double_drqn DEBUG     train 16 P: 0.1 ddqnwaitingtime : 17.78635014836795 fixed : 22.735735735735737 dqnwaitingtime : 71.44345238095238 ca: 72.78571428571429
+01-07 22:03:49 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 16 P: 0.1 ddqn_stop : 191 fixed : 223 dqn_stop : 243 ca: 213
+01-07 22:05:36 ../DATA/traffic_Compare_Double_drqn DEBUG     train 17 P: 0.1 ddqnwaitingtime : 25.916890080428953 fixed : 21.24462365591398 dqnwaitingtime : 63.90909090909091 ca: 61.532967032967036
+01-07 22:05:36 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 17 P: 0.1 ddqn_stop : 224 fixed : 258 dqn_stop : 248 ca: 248
+01-07 22:09:39 ../DATA/traffic_Compare_Double_drqn DEBUG     train 18 P: 0.1 ddqnwaitingtime : 16.571830985915494 fixed : 25.002808988764045 dqnwaitingtime : 71.7492795389049 ca: 69.64689265536722
+01-07 22:09:39 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 18 P: 0.1 ddqn_stop : 228 fixed : 259 dqn_stop : 260 ca: 241
+01-07 22:11:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train 19 P: 0.1 ddqnwaitingtime : 18.638655462184875 fixed : 27.117977528089888 dqnwaitingtime : 77.52808988764045 ca: 65.16011235955057
+01-07 22:11:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 19 P: 0.1 ddqn_stop : 214 fixed : 262 dqn_stop : 297 ca: 219
+01-07 22:13:32 ../DATA/traffic_Compare_Double_drqn DEBUG     train 20 P: 0.2 ddqnwaitingtime : 13.204884667571235 fixed : 23.611491108071135 dqnwaitingtime : 39.990196078431374 ca: 40.58024691358025
+01-07 22:13:32 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 20 P: 0.2 ddqn_stop : 493 fixed : 548 dqn_stop : 566 ca: 468
+01-07 22:15:36 ../DATA/traffic_Compare_Double_drqn DEBUG     train 21 P: 0.2 ddqnwaitingtime : 17.242380261248186 fixed : 23.23546511627907 dqnwaitingtime : 43.674963396778914 ca: 35.05232558139535
+01-07 22:15:36 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 21 P: 0.2 ddqn_stop : 474 fixed : 529 dqn_stop : 563 ca: 453
+01-07 22:17:39 ../DATA/traffic_Compare_Double_drqn DEBUG     train 22 P: 0.2 ddqnwaitingtime : 13.934017595307918 fixed : 22.474302496328928 dqnwaitingtime : 46.839941262848754 ca: 40.31958762886598
+01-07 22:17:39 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 22 P: 0.2 ddqn_stop : 459 fixed : 478 dqn_stop : 515 ca: 454
+01-07 22:19:41 ../DATA/traffic_Compare_Double_drqn DEBUG     train 23 P: 0.2 ddqnwaitingtime : 13.90125173852573 fixed : 22.93548387096774 dqnwaitingtime : 48.60814606741573 ca: 37.329624478442284
+01-07 22:19:41 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 23 P: 0.2 ddqn_stop : 494 fixed : 530 dqn_stop : 614 ca: 496
+01-07 22:21:44 ../DATA/traffic_Compare_Double_drqn DEBUG     train 24 P: 0.2 ddqnwaitingtime : 14.206946454413893 fixed : 22.807580174927114 dqnwaitingtime : 44.643695014662754 ca: 34.01013024602026
+01-07 22:21:44 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 24 P: 0.2 ddqn_stop : 462 fixed : 517 dqn_stop : 562 ca: 443
+01-07 22:23:48 ../DATA/traffic_Compare_Double_drqn DEBUG     train 25 P: 0.2 ddqnwaitingtime : 15.129032258064516 fixed : 23.63790664780764 dqnwaitingtime : 42.18953323903819 ca: 34.71148459383753
+01-07 22:23:48 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 25 P: 0.2 ddqn_stop : 493 fixed : 518 dqn_stop : 565 ca: 476
+01-07 22:25:47 ../DATA/traffic_Compare_Double_drqn DEBUG     train 26 P: 0.2 ddqnwaitingtime : 14.766619519094766 fixed : 24.10056657223796 dqnwaitingtime : 40.97171145685997 ca: 34.744619799139166
+01-07 22:25:47 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 26 P: 0.2 ddqn_stop : 462 fixed : 537 dqn_stop : 576 ca: 483
+01-07 22:27:51 ../DATA/traffic_Compare_Double_drqn DEBUG     train 27 P: 0.2 ddqnwaitingtime : 13.080056179775282 fixed : 24.228813559322035 dqnwaitingtime : 40.195774647887326 ca: 38.43404255319149
+01-07 22:27:51 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 27 P: 0.2 ddqn_stop : 473 fixed : 554 dqn_stop : 551 ca: 429
+01-07 22:29:56 ../DATA/traffic_Compare_Double_drqn DEBUG     train 28 P: 0.2 ddqnwaitingtime : 13.492455418381343 fixed : 23.786501377410467 dqnwaitingtime : 43.67400275103164 ca: 35.752747252747255
+01-07 22:29:56 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 28 P: 0.2 ddqn_stop : 465 fixed : 537 dqn_stop : 604 ca: 489
+01-07 22:31:57 ../DATA/traffic_Compare_Double_drqn DEBUG     train 29 P: 0.2 ddqnwaitingtime : 13.14864864864865 fixed : 22.726287262872628 dqnwaitingtime : 41.02880658436214 ca: 33.68521031207598
+01-07 22:31:57 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 29 P: 0.2 ddqn_stop : 508 fixed : 554 dqn_stop : 582 ca: 532
+01-07 22:34:00 ../DATA/traffic_Compare_Double_drqn DEBUG     train 30 P: 0.2 ddqnwaitingtime : 13.890625 fixed : 25.386590584878746 dqnwaitingtime : 44.10315186246418 ca: 35.52040816326531
+01-07 22:34:00 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 30 P: 0.2 ddqn_stop : 421 fixed : 541 dqn_stop : 542 ca: 478
+01-07 22:36:01 ../DATA/traffic_Compare_Double_drqn DEBUG     train 31 P: 0.2 ddqnwaitingtime : 13.1863173216885 fixed : 25.480349344978166 dqnwaitingtime : 42.85755813953488 ca: 33.34388489208633
+01-07 22:36:01 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 31 P: 0.2 ddqn_stop : 422 fixed : 541 dqn_stop : 522 ca: 439
+01-07 22:38:01 ../DATA/traffic_Compare_Double_drqn DEBUG     train 32 P: 0.2 ddqnwaitingtime : 13.832865168539326 fixed : 23.677871148459385 dqnwaitingtime : 40.299157303370784 ca: 35.662921348314605
+01-07 22:38:01 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 32 P: 0.2 ddqn_stop : 468 fixed : 528 dqn_stop : 583 ca: 478
+01-07 22:40:04 ../DATA/traffic_Compare_Double_drqn DEBUG     train 33 P: 0.2 ddqnwaitingtime : 15.574695121951219 fixed : 24.446153846153845 dqnwaitingtime : 46.90723270440252 ca: 36.03732503888025
+01-07 22:40:04 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 33 P: 0.2 ddqn_stop : 408 fixed : 491 dqn_stop : 527 ca: 412
+01-07 22:42:03 ../DATA/traffic_Compare_Double_drqn DEBUG     train 34 P: 0.2 ddqnwaitingtime : 14.48435171385991 fixed : 25.253731343283583 dqnwaitingtime : 43.02682563338301 ca: 37.849478390462
+01-07 22:42:03 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 34 P: 0.2 ddqn_stop : 445 fixed : 503 dqn_stop : 492 ca: 437
+01-07 22:44:10 ../DATA/traffic_Compare_Double_drqn DEBUG     train 35 P: 0.2 ddqnwaitingtime : 12.295652173913043 fixed : 24.296783625730995 dqnwaitingtime : 51.58055152394775 ca: 40.71111111111111
+01-07 22:44:10 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 35 P: 0.2 ddqn_stop : 453 fixed : 506 dqn_stop : 566 ca: 473
+01-07 22:46:11 ../DATA/traffic_Compare_Double_drqn DEBUG     train 36 P: 0.2 ddqnwaitingtime : 13.20669577874818 fixed : 23.140969162995596 dqnwaitingtime : 42.47922848664688 ca: 37.29428989751098
+01-07 22:46:11 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 36 P: 0.2 ddqn_stop : 442 fixed : 482 dqn_stop : 532 ca: 440
+01-07 22:48:14 ../DATA/traffic_Compare_Double_drqn DEBUG     train 37 P: 0.2 ddqnwaitingtime : 14.42120765832106 fixed : 21.957163958641065 dqnwaitingtime : 50.183703703703706 ca: 38.89004457652303
+01-07 22:48:14 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 37 P: 0.2 ddqn_stop : 451 fixed : 472 dqn_stop : 584 ca: 419
+01-07 22:50:14 ../DATA/traffic_Compare_Double_drqn DEBUG     train 38 P: 0.2 ddqnwaitingtime : 13.392441860465116 fixed : 22.807860262008735 dqnwaitingtime : 41.94395280235988 ca: 40.45043731778426
+01-07 22:50:14 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 38 P: 0.2 ddqn_stop : 435 fixed : 473 dqn_stop : 535 ca: 476
+01-07 22:52:20 ../DATA/traffic_Compare_Double_drqn DEBUG     train 39 P: 0.2 ddqnwaitingtime : 13.976090014064697 fixed : 26.22222222222222 dqnwaitingtime : 40.7177304964539 ca: 33.9302987197724
+01-07 22:52:20 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 39 P: 0.2 ddqn_stop : 456 fixed : 563 dqn_stop : 551 ca: 472
+01-07 22:54:43 ../DATA/traffic_Compare_Double_drqn DEBUG     train 40 P: 0.30000000000000004 ddqnwaitingtime : 14.295454545454545 fixed : 23.494538232373387 dqnwaitingtime : 34.52338308457711 ca: 25.84371909000989
+01-07 22:54:43 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 40 P: 0.30000000000000004 ddqn_stop : 728 fixed : 835 dqn_stop : 876 ca: 677
+01-07 22:57:06 ../DATA/traffic_Compare_Double_drqn DEBUG     train 41 P: 0.30000000000000004 ddqnwaitingtime : 12.865402843601895 fixed : 23.957264957264957 dqnwaitingtime : 34.965811965811966 ca: 23.806635071090046
+01-07 22:57:06 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 41 P: 0.30000000000000004 ddqn_stop : 742 fixed : 916 dqn_stop : 938 ca: 786
+01-07 22:59:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train 42 P: 0.30000000000000004 ddqnwaitingtime : 14.330805687203792 fixed : 23.56155303030303 dqnwaitingtime : 34.44571428571429 ca: 24.942748091603054
+01-07 22:59:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 42 P: 0.30000000000000004 ddqn_stop : 763 fixed : 900 dqn_stop : 917 ca: 735
+01-07 23:01:43 ../DATA/traffic_Compare_Double_drqn DEBUG     train 43 P: 0.30000000000000004 ddqnwaitingtime : 13.881616939364774 fixed : 24.09477756286267 dqnwaitingtime : 38.15057915057915 ca: 26.740812379110253
+01-07 23:01:43 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 43 P: 0.30000000000000004 ddqn_stop : 741 fixed : 844 dqn_stop : 956 ca: 764
+01-07 23:04:08 ../DATA/traffic_Compare_Double_drqn DEBUG     train 44 P: 0.30000000000000004 ddqnwaitingtime : 13.600190839694656 fixed : 22.487130600571973 dqnwaitingtime : 35.50716332378224 ca: 24.967711301044634
+01-07 23:04:08 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 44 P: 0.30000000000000004 ddqn_stop : 788 fixed : 869 dqn_stop : 964 ca: 745
+01-07 23:06:28 ../DATA/traffic_Compare_Double_drqn DEBUG     train 45 P: 0.30000000000000004 ddqnwaitingtime : 13.937984496124031 fixed : 24.100677637947726 dqnwaitingtime : 33.23246878001921 ca: 25.14990328820116
+01-07 23:06:28 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 45 P: 0.30000000000000004 ddqn_stop : 727 fixed : 857 dqn_stop : 845 ca: 742
+01-07 23:08:48 ../DATA/traffic_Compare_Double_drqn DEBUG     train 46 P: 0.30000000000000004 ddqnwaitingtime : 14.615308151093439 fixed : 24.90547263681592 dqnwaitingtime : 35.25620655412115 ca: 26.048707753479125
+01-07 23:08:48 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 46 P: 0.30000000000000004 ddqn_stop : 713 fixed : 832 dqn_stop : 870 ca: 748
+01-07 23:11:11 ../DATA/traffic_Compare_Double_drqn DEBUG     train 47 P: 0.30000000000000004 ddqnwaitingtime : 14.45691382765531 fixed : 23.496489468405215 dqnwaitingtime : 39.076608784473954 ca: 24.51751751751752
+01-07 23:11:11 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 47 P: 0.30000000000000004 ddqn_stop : 719 fixed : 848 dqn_stop : 916 ca: 698
+01-07 23:13:35 ../DATA/traffic_Compare_Double_drqn DEBUG     train 48 P: 0.30000000000000004 ddqnwaitingtime : 13.277726001863932 fixed : 23.203928905519177 dqnwaitingtime : 35.152416356877325 ca: 26.166355140186916
+01-07 23:13:35 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 48 P: 0.30000000000000004 ddqn_stop : 778 fixed : 866 dqn_stop : 978 ca: 741
+01-07 23:15:51 ../DATA/traffic_Compare_Double_drqn DEBUG     train 49 P: 0.30000000000000004 ddqnwaitingtime : 14.495495495495495 fixed : 25.18391959798995 dqnwaitingtime : 39.01598401598402 ca: 26.335329341317365
+01-07 23:15:51 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 49 P: 0.30000000000000004 ddqn_stop : 743 fixed : 842 dqn_stop : 893 ca: 729
+01-07 23:18:11 ../DATA/traffic_Compare_Double_drqn DEBUG     train 50 P: 0.30000000000000004 ddqnwaitingtime : 13.453358208955224 fixed : 23.81663516068053 dqnwaitingtime : 34.12806026365348 ca: 26.094392523364487
+01-07 23:18:11 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 50 P: 0.30000000000000004 ddqn_stop : 758 fixed : 867 dqn_stop : 970 ca: 785
+01-07 23:20:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train 51 P: 0.30000000000000004 ddqnwaitingtime : 14.891611687087654 fixed : 24.329245283018867 dqnwaitingtime : 34.35880077369439 ca: 23.543826578699342
+01-07 23:20:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 51 P: 0.30000000000000004 ddqn_stop : 809 fixed : 904 dqn_stop : 990 ca: 764
+01-07 23:22:52 ../DATA/traffic_Compare_Double_drqn DEBUG     train 52 P: 0.30000000000000004 ddqnwaitingtime : 13.297536945812809 fixed : 25.11904761904762 dqnwaitingtime : 35.238716148445334 ca: 23.994076999012833
+01-07 23:22:52 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 52 P: 0.30000000000000004 ddqn_stop : 701 fixed : 844 dqn_stop : 868 ca: 705
+01-07 23:25:12 ../DATA/traffic_Compare_Double_drqn DEBUG     train 53 P: 0.30000000000000004 ddqnwaitingtime : 13.063218390804598 fixed : 22.893822393822393 dqnwaitingtime : 36.582608695652176 ca: 25.034648700673724
+01-07 23:25:12 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 53 P: 0.30000000000000004 ddqn_stop : 745 fixed : 847 dqn_stop : 919 ca: 745
+01-07 23:27:32 ../DATA/traffic_Compare_Double_drqn DEBUG     train 54 P: 0.30000000000000004 ddqnwaitingtime : 13.676028084252758 fixed : 24.4994944388271 dqnwaitingtime : 38.663306451612904 ca: 25.341
+01-07 23:27:32 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 54 P: 0.30000000000000004 ddqn_stop : 717 fixed : 827 dqn_stop : 926 ca: 683
+01-07 23:29:53 ../DATA/traffic_Compare_Double_drqn DEBUG     train 55 P: 0.30000000000000004 ddqnwaitingtime : 13.009496676163343 fixed : 25.49952335557674 dqnwaitingtime : 32.970391595033426 ca: 25.54736842105263
+01-07 23:29:53 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 55 P: 0.30000000000000004 ddqn_stop : 714 fixed : 886 dqn_stop : 913 ca: 692
+01-07 23:32:11 ../DATA/traffic_Compare_Double_drqn DEBUG     train 56 P: 0.30000000000000004 ddqnwaitingtime : 14.212989493791786 fixed : 23.443062200956938 dqnwaitingtime : 33.18864292589028 ca: 25.11461318051576
+01-07 23:32:11 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 56 P: 0.30000000000000004 ddqn_stop : 777 fixed : 880 dqn_stop : 916 ca: 742
+01-07 23:34:35 ../DATA/traffic_Compare_Double_drqn DEBUG     train 57 P: 0.30000000000000004 ddqnwaitingtime : 14.007373271889401 fixed : 24.055504162812213 dqnwaitingtime : 32.1437969924812 ca: 26.083487940630796
+01-07 23:34:35 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 57 P: 0.30000000000000004 ddqn_stop : 777 fixed : 901 dqn_stop : 910 ca: 741
+01-07 23:36:55 ../DATA/traffic_Compare_Double_drqn DEBUG     train 58 P: 0.30000000000000004 ddqnwaitingtime : 14.8389662027833 fixed : 24.026973026973028 dqnwaitingtime : 34.246261216350945 ca: 24.74550898203593
+01-07 23:36:55 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 58 P: 0.30000000000000004 ddqn_stop : 727 fixed : 801 dqn_stop : 836 ca: 670
+01-07 23:39:17 ../DATA/traffic_Compare_Double_drqn DEBUG     train 59 P: 0.30000000000000004 ddqnwaitingtime : 15.39651837524178 fixed : 24.63407550822846 dqnwaitingtime : 33.33891625615764 ca: 25.78564500484966
+01-07 23:39:17 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 59 P: 0.30000000000000004 ddqn_stop : 721 fixed : 859 dqn_stop : 853 ca: 758
+01-07 23:41:55 ../DATA/traffic_Compare_Double_drqn DEBUG     train 60 P: 0.4 ddqnwaitingtime : 13.266620973269363 fixed : 24.11195054945055 dqnwaitingtime : 28.260539046302696 ca: 18.039014373716633
+01-07 23:41:55 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 60 P: 0.4 ddqn_stop : 1165 fixed : 1315 dqn_stop : 1348 ca: 1128
+01-07 23:44:42 ../DATA/traffic_Compare_Double_drqn DEBUG     train 61 P: 0.4 ddqnwaitingtime : 15.7264218862491 fixed : 25.748740100791938 dqnwaitingtime : 30.295714285714286 ca: 19.873118279569894
+01-07 23:44:42 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 61 P: 0.4 ddqn_stop : 1137 fixed : 1280 dqn_stop : 1379 ca: 1097
+01-07 23:47:18 ../DATA/traffic_Compare_Double_drqn DEBUG     train 62 P: 0.4 ddqnwaitingtime : 13.07117181883537 fixed : 24.99064748201439 dqnwaitingtime : 29.082674335010783 ca: 19.124192390524048
+01-07 23:47:18 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 62 P: 0.4 ddqn_stop : 1045 fixed : 1288 dqn_stop : 1365 ca: 1048
+01-07 23:50:01 ../DATA/traffic_Compare_Double_drqn DEBUG     train 63 P: 0.4 ddqnwaitingtime : 14.665294924554184 fixed : 24.659106529209623 dqnwaitingtime : 29.345890410958905 ca: 19.15205479452055
+01-07 23:50:01 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 63 P: 0.4 ddqn_stop : 1200 fixed : 1365 dqn_stop : 1428 ca: 1155
+01-07 23:52:43 ../DATA/traffic_Compare_Double_drqn DEBUG     train 64 P: 0.4 ddqnwaitingtime : 13.60631001371742 fixed : 23.751552795031056 dqnwaitingtime : 28.29399441340782 ca: 18.786454733932274
+01-07 23:52:43 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 64 P: 0.4 ddqn_stop : 1160 fixed : 1312 dqn_stop : 1411 ca: 1168
+01-07 23:55:24 ../DATA/traffic_Compare_Double_drqn DEBUG     train 65 P: 0.4 ddqnwaitingtime : 13.89185393258427 fixed : 24.18450704225352 dqnwaitingtime : 31.486447931526392 ca: 19.531645569620252
+01-07 23:55:24 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 65 P: 0.4 ddqn_stop : 1095 fixed : 1306 dqn_stop : 1371 ca: 1167
+01-07 23:58:07 ../DATA/traffic_Compare_Double_drqn DEBUG     train 66 P: 0.4 ddqnwaitingtime : 14.94011544011544 fixed : 25.970951343500364 dqnwaitingtime : 32.12354651162791 ca: 19.01657060518732
+01-07 23:58:07 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 66 P: 0.4 ddqn_stop : 1100 fixed : 1313 dqn_stop : 1350 ca: 1100
+01-08 00:00:44 ../DATA/traffic_Compare_Double_drqn DEBUG     train 67 P: 0.4 ddqnwaitingtime : 14.812762973352033 fixed : 24.170662905500706 dqnwaitingtime : 29.5210970464135 ca: 18.708567415730336
+01-08 00:00:44 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 67 P: 0.4 ddqn_stop : 1155 fixed : 1306 dqn_stop : 1330 ca: 1152
+01-08 00:03:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train 68 P: 0.4 ddqnwaitingtime : 14.421052631578947 fixed : 25.54786862334032 dqnwaitingtime : 31.269473684210528 ca: 18.377637130801688
+01-08 00:03:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 68 P: 0.4 ddqn_stop : 1188 fixed : 1368 dqn_stop : 1348 ca: 1168
+01-08 00:06:04 ../DATA/traffic_Compare_Double_drqn DEBUG     train 69 P: 0.4 ddqnwaitingtime : 13.671252715423606 fixed : 25.85786802030457 dqnwaitingtime : 29.982608695652175 ca: 18.550398839738943
+01-08 00:06:04 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 69 P: 0.4 ddqn_stop : 1089 fixed : 1242 dqn_stop : 1305 ca: 1014
+01-08 00:08:48 ../DATA/traffic_Compare_Double_drqn DEBUG     train 70 P: 0.4 ddqnwaitingtime : 13.864453665283541 fixed : 24.759722222222223 dqnwaitingtime : 27.238396624472575 ca: 19.70709855272226
+01-08 00:08:48 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 70 P: 0.4 ddqn_stop : 1161 fixed : 1371 dqn_stop : 1350 ca: 1146
+01-08 00:11:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train 71 P: 0.4 ddqnwaitingtime : 14.096590909090908 fixed : 24.631165117941386 dqnwaitingtime : 29.605413105413106 ca: 19.18026969481902
+01-08 00:11:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 71 P: 0.4 ddqn_stop : 1075 fixed : 1332 dqn_stop : 1329 ca: 1156
+01-08 00:14:02 ../DATA/traffic_Compare_Double_drqn DEBUG     train 72 P: 0.4 ddqnwaitingtime : 13.379285714285714 fixed : 24.317369549678343 dqnwaitingtime : 30.271816881258943 ca: 19.041428571428572
+01-08 00:14:02 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 72 P: 0.4 ddqn_stop : 1049 fixed : 1315 dqn_stop : 1365 ca: 1061
+01-08 00:16:40 ../DATA/traffic_Compare_Double_drqn DEBUG     train 73 P: 0.4 ddqnwaitingtime : 14.914970930232558 fixed : 24.89327485380117 dqnwaitingtime : 30.3379970544919 ca: 20.10844250363901
+01-08 00:16:40 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 73 P: 0.4 ddqn_stop : 1053 fixed : 1299 dqn_stop : 1305 ca: 1104
+01-08 00:19:16 ../DATA/traffic_Compare_Double_drqn DEBUG     train 74 P: 0.4 ddqnwaitingtime : 13.876347951114306 fixed : 25.20331651045422 dqnwaitingtime : 29.778417266187052 ca: 20.649313087490963
+01-08 00:19:16 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 74 P: 0.4 ddqn_stop : 1080 fixed : 1236 dqn_stop : 1296 ca: 1095
+01-08 00:22:00 ../DATA/traffic_Compare_Double_drqn DEBUG     train 75 P: 0.4 ddqnwaitingtime : 14.815255423372989 fixed : 25.401967673928322 dqnwaitingtime : 30.263751763046546 ca: 19.80056179775281
+01-08 00:22:00 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 75 P: 0.4 ddqn_stop : 1095 fixed : 1355 dqn_stop : 1402 ca: 1110
+01-08 00:24:41 ../DATA/traffic_Compare_Double_drqn DEBUG     train 76 P: 0.4 ddqnwaitingtime : 14.945244956772335 fixed : 24.05979827089337 dqnwaitingtime : 31.83956834532374 ca: 18.632075471698112
+01-08 00:24:41 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 76 P: 0.4 ddqn_stop : 1059 fixed : 1248 dqn_stop : 1310 ca: 1023
+01-08 00:27:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train 77 P: 0.4 ddqnwaitingtime : 13.007022471910112 fixed : 24.192932862190812 dqnwaitingtime : 31.727464788732394 ca: 19.126056338028167
+01-08 00:27:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 77 P: 0.4 ddqn_stop : 1087 fixed : 1316 dqn_stop : 1403 ca: 1080
+01-08 00:29:58 ../DATA/traffic_Compare_Double_drqn DEBUG     train 78 P: 0.4 ddqnwaitingtime : 14.07643312101911 fixed : 24.313837375178316 dqnwaitingtime : 28.673281360737064 ca: 19.758718861209964
+01-08 00:29:58 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 78 P: 0.4 ddqn_stop : 1085 fixed : 1278 dqn_stop : 1359 ca: 1072
+01-08 00:32:37 ../DATA/traffic_Compare_Double_drqn DEBUG     train 79 P: 0.4 ddqnwaitingtime : 14.23033309709426 fixed : 24.61593172119488 dqnwaitingtime : 33.01067615658363 ca: 20.831556503198293
+01-08 00:32:37 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 79 P: 0.4 ddqn_stop : 1143 fixed : 1309 dqn_stop : 1361 ca: 1149
+01-08 00:35:45 ../DATA/traffic_Compare_Double_drqn DEBUG     train 80 P: 0.5 ddqnwaitingtime : 14.590809628008753 fixed : 25.524202420242023 dqnwaitingtime : 26.72993912562258 ca: 16.62944718117132
+01-08 00:35:45 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 80 P: 0.5 ddqn_stop : 1552 fixed : 1895 dqn_stop : 1911 ca: 1626
+01-08 00:38:44 ../DATA/traffic_Compare_Double_drqn DEBUG     train 81 P: 0.5 ddqnwaitingtime : 16.01874633860574 fixed : 25.16822977725674 dqnwaitingtime : 27.75177304964539 ca: 17.533411488862836
+01-08 00:38:44 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 81 P: 0.5 ddqn_stop : 1424 fixed : 1698 dqn_stop : 1722 ca: 1452
+01-08 00:41:43 ../DATA/traffic_Compare_Double_drqn DEBUG     train 82 P: 0.5 ddqnwaitingtime : 14.530813953488373 fixed : 25.535359438924605 dqnwaitingtime : 29.00348634514817 ca: 18.385374347069064
+01-08 00:41:43 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 82 P: 0.5 ddqn_stop : 1412 fixed : 1736 dqn_stop : 1730 ca: 1467
+01-08 00:44:40 ../DATA/traffic_Compare_Double_drqn DEBUG     train 83 P: 0.5 ddqnwaitingtime : 13.819854991634132 fixed : 25.42977056519306 dqnwaitingtime : 26.431678750697156 ca: 18.155728587319242
+01-08 00:44:40 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 83 P: 0.5 ddqn_stop : 1490 fixed : 1826 dqn_stop : 1708 ca: 1576
+01-08 00:47:28 ../DATA/traffic_Compare_Double_drqn DEBUG     train 84 P: 0.5 ddqnwaitingtime : 14.068965517241379 fixed : 25.935522388059702 dqnwaitingtime : 27.022754491017963 ca: 17.841979725700657
+01-08 00:47:28 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 84 P: 0.5 ddqn_stop : 1360 fixed : 1652 dqn_stop : 1618 ca: 1392
+01-08 00:50:24 ../DATA/traffic_Compare_Double_drqn DEBUG     train 85 P: 0.5 ddqnwaitingtime : 14.41839596186203 fixed : 25.04864253393665 dqnwaitingtime : 28.091321610890528 ca: 17.61391694725028
+01-08 00:50:24 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 85 P: 0.5 ddqn_stop : 1490 fixed : 1825 dqn_stop : 1840 ca: 1496
+01-08 00:53:28 ../DATA/traffic_Compare_Double_drqn DEBUG     train 86 P: 0.5 ddqnwaitingtime : 14.89391401451703 fixed : 25.538891997761613 dqnwaitingtime : 27.551145891559532 ca: 17.6035734226689
+01-08 00:53:28 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 86 P: 0.5 ddqn_stop : 1514 fixed : 1835 dqn_stop : 1824 ca: 1601
+01-08 00:56:29 ../DATA/traffic_Compare_Double_drqn DEBUG     train 87 P: 0.5 ddqnwaitingtime : 14.162162162162161 fixed : 25.394350896252035 dqnwaitingtime : 26.155822854018588 ca: 17.044372294372295
+01-08 00:56:29 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 87 P: 0.5 ddqn_stop : 1557 fixed : 1942 dqn_stop : 1914 ca: 1685
+01-08 00:59:27 ../DATA/traffic_Compare_Double_drqn DEBUG     train 88 P: 0.5 ddqnwaitingtime : 14.706496519721577 fixed : 25.856224430157802 dqnwaitingtime : 27.00467562828755 ca: 17.269610691458453
+01-08 00:59:27 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 88 P: 0.5 ddqn_stop : 1443 fixed : 1744 dqn_stop : 1712 ca: 1465
+01-08 01:02:33 ../DATA/traffic_Compare_Double_drqn DEBUG     train 89 P: 0.5 ddqnwaitingtime : 14.737246297312122 fixed : 25.805830583058306 dqnwaitingtime : 27.563048245614034 ca: 17.431308155446086
+01-08 01:02:33 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 89 P: 0.5 ddqn_stop : 1580 fixed : 1902 dqn_stop : 1870 ca: 1693
+01-08 01:05:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train 90 P: 0.5 ddqnwaitingtime : 14.63981588032221 fixed : 25.431451612903224 dqnwaitingtime : 28.609447004608295 ca: 18.017857142857142
+01-08 01:05:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 90 P: 0.5 ddqn_stop : 1427 fixed : 1755 dqn_stop : 1704 ca: 1451
+01-08 01:08:30 ../DATA/traffic_Compare_Double_drqn DEBUG     train 91 P: 0.5 ddqnwaitingtime : 14.346711259754738 fixed : 25.447677672076104 dqnwaitingtime : 27.415730337078653 ca: 17.253764640267708
+01-08 01:08:30 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 91 P: 0.5 ddqn_stop : 1536 fixed : 1861 dqn_stop : 1836 ca: 1633
+01-08 01:11:23 ../DATA/traffic_Compare_Double_drqn DEBUG     train 92 P: 0.5 ddqnwaitingtime : 14.45031232254401 fixed : 25.29183323814963 dqnwaitingtime : 27.439566704675027 ca: 18.009648127128262
+01-08 01:11:23 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 92 P: 0.5 ddqn_stop : 1482 fixed : 1839 dqn_stop : 1787 ca: 1486
+01-08 01:14:17 ../DATA/traffic_Compare_Double_drqn DEBUG     train 93 P: 0.5 ddqnwaitingtime : 14.89136649514008 fixed : 24.849827387802073 dqnwaitingtime : 27.89207807118255 ca: 17.173762945914845
+01-08 01:14:17 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 93 P: 0.5 ddqn_stop : 1489 fixed : 1798 dqn_stop : 1710 ca: 1507
+01-08 01:17:11 ../DATA/traffic_Compare_Double_drqn DEBUG     train 94 P: 0.5 ddqnwaitingtime : 14.348744292237443 fixed : 25.265902578796563 dqnwaitingtime : 27.67031070195627 ca: 16.33466819221968
+01-08 01:17:11 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 94 P: 0.5 ddqn_stop : 1427 fixed : 1729 dqn_stop : 1761 ca: 1452
+01-08 01:20:00 ../DATA/traffic_Compare_Double_drqn DEBUG     train 95 P: 0.5 ddqnwaitingtime : 15.544177881802224 fixed : 26.298009367681498 dqnwaitingtime : 26.37091121495327 ca: 16.834691501746217
+01-08 01:20:00 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 95 P: 0.5 ddqn_stop : 1438 fixed : 1776 dqn_stop : 1659 ca: 1432
+01-08 01:22:53 ../DATA/traffic_Compare_Double_drqn DEBUG     train 96 P: 0.5 ddqnwaitingtime : 13.480822679266259 fixed : 25.477653631284916 dqnwaitingtime : 27.046927374301674 ca: 17.45199326221224
+01-08 01:22:53 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 96 P: 0.5 ddqn_stop : 1476 fixed : 1846 dqn_stop : 1787 ca: 1573
+01-08 01:25:44 ../DATA/traffic_Compare_Double_drqn DEBUG     train 97 P: 0.5 ddqnwaitingtime : 14.474556889651229 fixed : 24.94724770642202 dqnwaitingtime : 27.11505437893532 ca: 17.97531572904707
+01-08 01:25:44 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 97 P: 0.5 ddqn_stop : 1479 fixed : 1799 dqn_stop : 1770 ca: 1558
+01-08 01:28:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train 98 P: 0.5 ddqnwaitingtime : 15.340575455079271 fixed : 25.506776664702414 dqnwaitingtime : 26.96174220129488 ca: 18.151265450264862
+01-08 01:28:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 98 P: 0.5 ddqn_stop : 1468 fixed : 1666 dqn_stop : 1670 ca: 1427
+01-08 01:31:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train 99 P: 0.5 ddqnwaitingtime : 14.579908675799087 fixed : 25.256 dqnwaitingtime : 26.21342512908778 ca: 17.846815834767643
+01-08 01:31:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 99 P: 0.5 ddqn_stop : 1478 fixed : 1789 dqn_stop : 1723 ca: 1579
+01-08 01:34:34 ../DATA/traffic_Compare_Double_drqn DEBUG     train 100 P: 0.6000000000000001 ddqnwaitingtime : 14.160731948565777 fixed : 26.150766188828474 dqnwaitingtime : 26.64461994076999 ca: 16.56154226396441
+01-08 01:34:34 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 100 P: 0.6000000000000001 ddqn_stop : 1761 fixed : 2166 dqn_stop : 2154 ca: 1836
+01-08 01:37:57 ../DATA/traffic_Compare_Double_drqn DEBUG     train 101 P: 0.6000000000000001 ddqnwaitingtime : 16.095439586271745 fixed : 25.25 dqnwaitingtime : 27.2202747513027 ca: 17.336946277097077
+01-08 01:37:57 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 101 P: 0.6000000000000001 ddqn_stop : 1995 fixed : 2231 dqn_stop : 2255 ca: 2039
+01-08 01:41:09 ../DATA/traffic_Compare_Double_drqn DEBUG     train 102 P: 0.6000000000000001 ddqnwaitingtime : 14.745002437835202 fixed : 25.437866927592957 dqnwaitingtime : 26.18320235756385 ca: 18.43248532289628
+01-08 01:41:09 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 102 P: 0.6000000000000001 ddqn_stop : 1806 fixed : 2119 dqn_stop : 2160 ca: 1950
+01-08 01:44:28 ../DATA/traffic_Compare_Double_drqn DEBUG     train 103 P: 0.6000000000000001 ddqnwaitingtime : 14.698610445615717 fixed : 26.077145612343298 dqnwaitingtime : 27.37037037037037 ca: 17.68028846153846
+01-08 01:44:28 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 103 P: 0.6000000000000001 ddqn_stop : 1845 fixed : 2210 dqn_stop : 2292 ca: 1954
+01-08 01:47:43 ../DATA/traffic_Compare_Double_drqn DEBUG     train 104 P: 0.6000000000000001 ddqnwaitingtime : 14.010561689870379 fixed : 25.449638554216868 dqnwaitingtime : 26.149375600384246 ca: 17.156759348034516
+01-08 01:47:43 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 104 P: 0.6000000000000001 ddqn_stop : 1750 fixed : 2232 dqn_stop : 2174 ca: 1915
+01-08 01:50:56 ../DATA/traffic_Compare_Double_drqn DEBUG     train 105 P: 0.6000000000000001 ddqnwaitingtime : 14.48030739673391 fixed : 25.96011532916867 dqnwaitingtime : 25.561293436293436 ca: 17.016738402678143
+01-08 01:50:56 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 105 P: 0.6000000000000001 ddqn_stop : 1864 fixed : 2203 dqn_stop : 2223 ca: 2002
+01-08 01:54:17 ../DATA/traffic_Compare_Double_drqn DEBUG     train 106 P: 0.6000000000000001 ddqnwaitingtime : 14.800187617260788 fixed : 26.083333333333332 dqnwaitingtime : 25.615784499054822 ca: 16.937704918032786
+01-08 01:54:17 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 106 P: 0.6000000000000001 ddqn_stop : 1940 fixed : 2347 dqn_stop : 2298 ca: 2109
+01-08 01:57:32 ../DATA/traffic_Compare_Double_drqn DEBUG     train 107 P: 0.6000000000000001 ddqnwaitingtime : 15.370075046904315 fixed : 26.161016949152543 dqnwaitingtime : 25.945958646616543 ca: 16.77720450281426
+01-08 01:57:32 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 107 P: 0.6000000000000001 ddqn_stop : 1966 fixed : 2311 dqn_stop : 2232 ca: 2075
+01-08 02:00:52 ../DATA/traffic_Compare_Double_drqn DEBUG     train 108 P: 0.6000000000000001 ddqnwaitingtime : 15.169958658704639 fixed : 26.251499769266267 dqnwaitingtime : 25.341632088520054 ca: 17.62246777163904
+01-08 02:00:52 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 108 P: 0.6000000000000001 ddqn_stop : 1963 fixed : 2348 dqn_stop : 2261 ca: 2149
+01-08 02:04:10 ../DATA/traffic_Compare_Double_drqn DEBUG     train 109 P: 0.6000000000000001 ddqnwaitingtime : 15.344889689329131 fixed : 25.957600360847994 dqnwaitingtime : 25.853811659192825 ca: 16.58913336326897
+01-08 02:04:10 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 109 P: 0.6000000000000001 ddqn_stop : 2041 fixed : 2470 dqn_stop : 2328 ca: 2093
+01-08 02:07:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train 110 P: 0.6000000000000001 ddqnwaitingtime : 15.063829787234043 fixed : 26.81032078103208 dqnwaitingtime : 26.486511627906978 ca: 17.523433874709976
+01-08 02:07:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 110 P: 0.6000000000000001 ddqn_stop : 1980 fixed : 2423 dqn_stop : 2297 ca: 2072
+01-08 02:10:48 ../DATA/traffic_Compare_Double_drqn DEBUG     train 111 P: 0.6000000000000001 ddqnwaitingtime : 15.222275564090255 fixed : 26.597101449275364 dqnwaitingtime : 26.084017382906808 ca: 17.51421686746988
+01-08 02:10:48 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 111 P: 0.6000000000000001 ddqn_stop : 1894 fixed : 2313 dqn_stop : 2201 ca: 2043
+01-08 02:14:08 ../DATA/traffic_Compare_Double_drqn DEBUG     train 112 P: 0.6000000000000001 ddqnwaitingtime : 15.301149425287356 fixed : 27.13777161349977 dqnwaitingtime : 25.53609195402299 ca: 17.108095676172955
+01-08 02:14:08 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 112 P: 0.6000000000000001 ddqn_stop : 1942 fixed : 2406 dqn_stop : 2278 ca: 2085
+01-08 02:17:25 ../DATA/traffic_Compare_Double_drqn DEBUG     train 113 P: 0.6000000000000001 ddqnwaitingtime : 14.919172932330827 fixed : 25.82516493873704 dqnwaitingtime : 25.277541371158392 ca: 16.50352278064819
+01-08 02:17:25 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 113 P: 0.6000000000000001 ddqn_stop : 1953 fixed : 2325 dqn_stop : 2257 ca: 2000
+01-08 02:20:38 ../DATA/traffic_Compare_Double_drqn DEBUG     train 114 P: 0.6000000000000001 ddqnwaitingtime : 15.733713742272943 fixed : 26.275466284074607 dqnwaitingtime : 24.825381679389313 ca: 16.129154795821464
+01-08 02:20:38 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 114 P: 0.6000000000000001 ddqn_stop : 1866 fixed : 2356 dqn_stop : 2210 ca: 1993
+01-08 02:23:50 ../DATA/traffic_Compare_Double_drqn DEBUG     train 115 P: 0.6000000000000001 ddqnwaitingtime : 15.060505002382087 fixed : 25.88538681948424 dqnwaitingtime : 25.411428571428573 ca: 16.967220902612826
+01-08 02:23:50 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 115 P: 0.6000000000000001 ddqn_stop : 1893 fixed : 2287 dqn_stop : 2225 ca: 2012
+01-08 02:27:15 ../DATA/traffic_Compare_Double_drqn DEBUG     train 116 P: 0.6000000000000001 ddqnwaitingtime : 14.49418334108888 fixed : 25.51167133520075 dqnwaitingtime : 26.84080298786181 ca: 17.25128205128205
+01-08 02:27:15 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 116 P: 0.6000000000000001 ddqn_stop : 1884 fixed : 2344 dqn_stop : 2351 ca: 2087
+01-08 02:30:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train 117 P: 0.6000000000000001 ddqnwaitingtime : 15.523394495412845 fixed : 25.866297833102813 dqnwaitingtime : 26.240313653136532 ca: 17.190497944266788
+01-08 02:30:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 117 P: 0.6000000000000001 ddqn_stop : 2007 fixed : 2350 dqn_stop : 2416 ca: 2146
+01-08 02:33:39 ../DATA/traffic_Compare_Double_drqn DEBUG     train 118 P: 0.6000000000000001 ddqnwaitingtime : 15.459086584205519 fixed : 26.10349784379492 dqnwaitingtime : 26.14456106870229 ca: 17.132570338578923
+01-08 02:33:39 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 118 P: 0.6000000000000001 ddqn_stop : 1866 fixed : 2278 dqn_stop : 2197 ca: 2014
+01-08 02:37:01 ../DATA/traffic_Compare_Double_drqn DEBUG     train 119 P: 0.6000000000000001 ddqnwaitingtime : 15.04644681839294 fixed : 25.5088868101029 dqnwaitingtime : 25.49789621318373 ca: 17.086672879776327
+01-08 02:37:01 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 119 P: 0.6000000000000001 ddqn_stop : 1956 fixed : 2328 dqn_stop : 2292 ca: 2118
+01-08 02:40:37 ../DATA/traffic_Compare_Double_drqn DEBUG     train 120 P: 0.7000000000000001 ddqnwaitingtime : 16.739258635214828 fixed : 27.241335587489434 dqnwaitingtime : 26.212558336868902 ca: 17.530629488804394
+01-08 02:40:37 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 120 P: 0.7000000000000001 ddqn_stop : 2318 fixed : 2656 dqn_stop : 2587 ca: 2420
+01-08 02:44:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train 121 P: 0.7000000000000001 ddqnwaitingtime : 17.105987055016183 fixed : 27.6522091609242 dqnwaitingtime : 25.736286062576188 ca: 18.332929292929293
+01-08 02:44:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 121 P: 0.7000000000000001 ddqn_stop : 2460 fixed : 2863 dqn_stop : 2741 ca: 2586
+01-08 02:48:01 ../DATA/traffic_Compare_Double_drqn DEBUG     train 122 P: 0.7000000000000001 ddqnwaitingtime : 15.956087824351297 fixed : 26.8101518784972 dqnwaitingtime : 24.862151394422312 ca: 19.03391859537111
+01-08 02:48:01 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 122 P: 0.7000000000000001 ddqn_stop : 2496 fixed : 2926 dqn_stop : 2766 ca: 2704
+01-08 02:51:42 ../DATA/traffic_Compare_Double_drqn DEBUG     train 123 P: 0.7000000000000001 ddqnwaitingtime : 16.656262833675566 fixed : 26.65855670103093 dqnwaitingtime : 27.984316962443252 ca: 17.864364981504316
+01-08 02:51:42 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 123 P: 0.7000000000000001 ddqn_stop : 2390 fixed : 2706 dqn_stop : 2770 ca: 2497
+01-08 02:55:20 ../DATA/traffic_Compare_Double_drqn DEBUG     train 124 P: 0.7000000000000001 ddqnwaitingtime : 16.123883021933388 fixed : 26.870044953003678 dqnwaitingtime : 25.19607843137255 ca: 18.45132382892057
+01-08 02:55:20 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 124 P: 0.7000000000000001 ddqn_stop : 2396 fixed : 2816 dqn_stop : 2682 ca: 2514
+01-08 02:58:52 ../DATA/traffic_Compare_Double_drqn DEBUG     train 125 P: 0.7000000000000001 ddqnwaitingtime : 16.99290780141844 fixed : 27.062605042016806 dqnwaitingtime : 25.50271852781263 ca: 17.961988304093566
+01-08 02:58:52 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 125 P: 0.7000000000000001 ddqn_stop : 2315 fixed : 2675 dqn_stop : 2638 ca: 2476
+01-08 03:02:23 ../DATA/traffic_Compare_Double_drqn DEBUG     train 126 P: 0.7000000000000001 ddqnwaitingtime : 15.46604808097849 fixed : 26.610593220338984 dqnwaitingtime : 25.541913632514817 ca: 17.827775432672013
+01-08 03:02:23 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 126 P: 0.7000000000000001 ddqn_stop : 2312 fixed : 2707 dqn_stop : 2648 ca: 2408
+01-08 03:06:08 ../DATA/traffic_Compare_Double_drqn DEBUG     train 127 P: 0.7000000000000001 ddqnwaitingtime : 16.99330181245075 fixed : 26.187993680884677 dqnwaitingtime : 25.390873015873016 ca: 18.48379446640316
+01-08 03:06:08 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 127 P: 0.7000000000000001 ddqn_stop : 2505 fixed : 2888 dqn_stop : 2903 ca: 2634
+01-08 03:09:43 ../DATA/traffic_Compare_Double_drqn DEBUG     train 128 P: 0.7000000000000001 ddqnwaitingtime : 16.365934521342727 fixed : 27.565888240200167 dqnwaitingtime : 26.101419031719534 ca: 18.2993762993763
+01-08 03:09:43 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 128 P: 0.7000000000000001 ddqn_stop : 2304 fixed : 2783 dqn_stop : 2646 ca: 2529
+01-08 03:13:21 ../DATA/traffic_Compare_Double_drqn DEBUG     train 129 P: 0.7000000000000001 ddqnwaitingtime : 16.435886761032474 fixed : 27.02758044295863 dqnwaitingtime : 25.453862212943633 ca: 18.47088186356073
+01-08 03:13:21 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 129 P: 0.7000000000000001 ddqn_stop : 2335 fixed : 2759 dqn_stop : 2590 ca: 2495
+01-08 03:16:56 ../DATA/traffic_Compare_Double_drqn DEBUG     train 130 P: 0.7000000000000001 ddqnwaitingtime : 15.876146788990825 fixed : 26.793391886240066 dqnwaitingtime : 25.414095079232695 ca: 17.284105131414268
+01-08 03:16:56 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 130 P: 0.7000000000000001 ddqn_stop : 2361 fixed : 2734 dqn_stop : 2627 ca: 2421
+01-08 03:20:43 ../DATA/traffic_Compare_Double_drqn DEBUG     train 131 P: 0.7000000000000001 ddqnwaitingtime : 15.595540176855057 fixed : 27.007335907335907 dqnwaitingtime : 26.129779837775203 ca: 18.906430496726994
+01-08 03:20:43 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 131 P: 0.7000000000000001 ddqn_stop : 2547 fixed : 2972 dqn_stop : 2976 ca: 2845
+01-08 03:24:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train 132 P: 0.7000000000000001 ddqnwaitingtime : 16.09736732135395 fixed : 26.758200168208578 dqnwaitingtime : 27.890886287625417 ca: 19.270213657310432
+01-08 03:24:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 132 P: 0.7000000000000001 ddqn_stop : 2327 fixed : 2642 dqn_stop : 2763 ca: 2606
+01-08 03:28:13 ../DATA/traffic_Compare_Double_drqn DEBUG     train 133 P: 0.7000000000000001 ddqnwaitingtime : 16.645891226677254 fixed : 27.421198888447798 dqnwaitingtime : 25.605336519315014 ca: 18.381631037212983
+01-08 03:28:13 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 133 P: 0.7000000000000001 ddqn_stop : 2533 fixed : 2866 dqn_stop : 2831 ca: 2658
+01-08 03:31:55 ../DATA/traffic_Compare_Double_drqn DEBUG     train 134 P: 0.7000000000000001 ddqnwaitingtime : 14.993021346469622 fixed : 28.06930693069307 dqnwaitingtime : 25.317244224422442 ca: 17.107863318237957
+01-08 03:31:55 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 134 P: 0.7000000000000001 ddqn_stop : 2249 fixed : 2753 dqn_stop : 2654 ca: 2390
+01-08 03:35:39 ../DATA/traffic_Compare_Double_drqn DEBUG     train 135 P: 0.7000000000000001 ddqnwaitingtime : 17.05564451561249 fixed : 27.240064231232438 dqnwaitingtime : 25.607142857142858 ca: 19.37580128205128
+01-08 03:35:39 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 135 P: 0.7000000000000001 ddqn_stop : 2527 fixed : 2815 dqn_stop : 2799 ca: 2690
+01-08 03:39:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train 136 P: 0.7000000000000001 ddqnwaitingtime : 16.49383207321926 fixed : 27.865629984051036 dqnwaitingtime : 25.82579365079365 ca: 18.014251781472684
+01-08 03:39:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 136 P: 0.7000000000000001 ddqn_stop : 2514 fixed : 2903 dqn_stop : 2809 ca: 2625
+01-08 03:42:56 ../DATA/traffic_Compare_Double_drqn DEBUG     train 137 P: 0.7000000000000001 ddqnwaitingtime : 15.335796387520526 fixed : 26.802306425041188 dqnwaitingtime : 25.45686113393591 ca: 18.326899383983573
+01-08 03:42:56 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 137 P: 0.7000000000000001 ddqn_stop : 2321 fixed : 2766 dqn_stop : 2638 ca: 2563
+01-08 03:46:37 ../DATA/traffic_Compare_Double_drqn DEBUG     train 138 P: 0.7000000000000001 ddqnwaitingtime : 16.156750102585146 fixed : 27.46185567010309 dqnwaitingtime : 26.437911184210527 ca: 17.743526510480887
+01-08 03:46:37 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 138 P: 0.7000000000000001 ddqn_stop : 2365 fixed : 2781 dqn_stop : 2758 ca: 2453
+01-08 03:50:08 ../DATA/traffic_Compare_Double_drqn DEBUG     train 139 P: 0.7000000000000001 ddqnwaitingtime : 16.285892116182573 fixed : 26.729538845035314 dqnwaitingtime : 25.7103620474407 ca: 17.82911654914973
+01-08 03:50:08 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 139 P: 0.7000000000000001 ddqn_stop : 2340 fixed : 2611 dqn_stop : 2637 ca: 2503
+01-08 03:54:14 ../DATA/traffic_Compare_Double_drqn DEBUG     train 140 P: 0.8 ddqnwaitingtime : 17.685132237312366 fixed : 29.76350626118068 dqnwaitingtime : 26.46981064665952 ca: 18.461785714285714
+01-08 03:54:14 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 140 P: 0.8 ddqn_stop : 2935 fixed : 3441 dqn_stop : 3252 ca: 3036
+01-08 03:58:30 ../DATA/traffic_Compare_Double_drqn DEBUG     train 141 P: 0.8 ddqnwaitingtime : 17.904419690980955 fixed : 29.715215034333212 dqnwaitingtime : 26.33634067123782 ca: 20.43196544276458
+01-08 03:58:30 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 141 P: 0.8 ddqn_stop : 2960 fixed : 3422 dqn_stop : 3170 ca: 3239
+01-08 04:02:41 ../DATA/traffic_Compare_Double_drqn DEBUG     train 142 P: 0.8 ddqnwaitingtime : 18.42280701754386 fixed : 29.2688927943761 dqnwaitingtime : 25.252115655853313 ca: 21.35105633802817
+01-08 04:02:41 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 142 P: 0.8 ddqn_stop : 3115 fixed : 3505 dqn_stop : 3259 ca: 3478
+01-08 04:06:46 ../DATA/traffic_Compare_Double_drqn DEBUG     train 143 P: 0.8 ddqnwaitingtime : 17.82835552356963 fixed : 28.772202166064982 dqnwaitingtime : 26.60914985590778 ca: 19.163610212153902
+01-08 04:06:46 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 143 P: 0.8 ddqn_stop : 2972 fixed : 3396 dqn_stop : 3267 ca: 3166
+01-08 04:10:48 ../DATA/traffic_Compare_Double_drqn DEBUG     train 144 P: 0.8 ddqnwaitingtime : 17.7994132746608 fixed : 27.804036697247707 dqnwaitingtime : 25.644794721407624 ca: 21.428676470588236
+01-08 04:10:48 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 144 P: 0.8 ddqn_stop : 2832 fixed : 3231 dqn_stop : 3163 ca: 3197
+01-08 04:14:57 ../DATA/traffic_Compare_Double_drqn DEBUG     train 145 P: 0.8 ddqnwaitingtime : 17.384642985288842 fixed : 29.175665946724262 dqnwaitingtime : 26.535353535353536 ca: 19.258157045536034
+01-08 04:14:57 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 145 P: 0.8 ddqn_stop : 2956 fixed : 3387 dqn_stop : 3409 ca: 3061
+01-08 04:18:55 ../DATA/traffic_Compare_Double_drqn DEBUG     train 146 P: 0.8 ddqnwaitingtime : 17.849215041986128 fixed : 28.645208485735186 dqnwaitingtime : 25.271600437477215 ca: 19.270772594752188
+01-08 04:18:55 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 146 P: 0.8 ddqn_stop : 2917 fixed : 3344 dqn_stop : 3060 ca: 3025
+01-08 04:23:06 ../DATA/traffic_Compare_Double_drqn DEBUG     train 147 P: 0.8 ddqnwaitingtime : 18.70250521920668 fixed : 30.23407977606718 dqnwaitingtime : 25.83455753760056 ca: 20.346931659693166
+01-08 04:23:06 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 147 P: 0.8 ddqn_stop : 3166 fixed : 3693 dqn_stop : 3409 ca: 3392
+01-08 04:27:16 ../DATA/traffic_Compare_Double_drqn DEBUG     train 148 P: 0.8 ddqnwaitingtime : 17.813518197573657 fixed : 28.625567586447783 dqnwaitingtime : 27.090020935101187 ca: 21.05777932474765
+01-08 04:27:16 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 148 P: 0.8 ddqn_stop : 3123 fixed : 3472 dqn_stop : 3453 ca: 3428
+01-08 04:31:20 ../DATA/traffic_Compare_Double_drqn DEBUG     train 149 P: 0.8 ddqnwaitingtime : 18.610212153901475 fixed : 29.131673881673883 dqnwaitingtime : 27.297687861271676 ca: 20.61214953271028
+01-08 04:31:20 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 149 P: 0.8 ddqn_stop : 3021 fixed : 3371 dqn_stop : 3313 ca: 3172
+01-08 04:35:22 ../DATA/traffic_Compare_Double_drqn DEBUG     train 150 P: 0.8 ddqnwaitingtime : 17.82635602475428 fixed : 27.639344262295083 dqnwaitingtime : 25.1353711790393 ca: 19.70029133284778
+01-08 04:35:22 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 150 P: 0.8 ddqn_stop : 3021 fixed : 3272 dqn_stop : 3229 ca: 3120
+01-08 04:39:34 ../DATA/traffic_Compare_Double_drqn DEBUG     train 151 P: 0.8 ddqnwaitingtime : 19.640686449767607 fixed : 28.464094319399784 dqnwaitingtime : 27.508909479686388 ca: 21.414529914529915
+01-08 04:39:34 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 151 P: 0.8 ddqn_stop : 3171 fixed : 3422 dqn_stop : 3381 ca: 3329
+01-08 04:43:45 ../DATA/traffic_Compare_Double_drqn DEBUG     train 152 P: 0.8 ddqnwaitingtime : 17.83914590747331 fixed : 27.61346633416459 dqnwaitingtime : 25.236739053043788 ca: 20.301136363636363
+01-08 04:43:45 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 152 P: 0.8 ddqn_stop : 2941 fixed : 3295 dqn_stop : 3240 ca: 3296
+01-08 04:47:55 ../DATA/traffic_Compare_Double_drqn DEBUG     train 153 P: 0.8 ddqnwaitingtime : 17.96894626657362 fixed : 29.39727463312369 dqnwaitingtime : 26.815047021943574 ca: 20.591322603219034
+01-08 04:47:55 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 153 P: 0.8 ddqn_stop : 3119 fixed : 3587 dqn_stop : 3441 ca: 3380
+01-08 04:52:04 ../DATA/traffic_Compare_Double_drqn DEBUG     train 154 P: 0.8 ddqnwaitingtime : 18.867142857142856 fixed : 28.060714285714287 dqnwaitingtime : 26.00392436674991 ca: 20.093381037567084
+01-08 04:52:04 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 154 P: 0.8 ddqn_stop : 3064 fixed : 3265 dqn_stop : 3259 ca: 3214
+01-08 04:56:17 ../DATA/traffic_Compare_Double_drqn DEBUG     train 155 P: 0.8 ddqnwaitingtime : 18.39008547008547 fixed : 28.92016517549897 dqnwaitingtime : 26.037444177258674 ca: 20.25068306010929
+01-08 04:56:17 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 155 P: 0.8 ddqn_stop : 3138 fixed : 3609 dqn_stop : 3463 ca: 3365
+01-08 05:00:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train 156 P: 0.8 ddqnwaitingtime : 18.153094462540718 fixed : 29.041666666666668 dqnwaitingtime : 25.857142857142858 ca: 19.784136182542557
+01-08 05:00:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 156 P: 0.8 ddqn_stop : 2928 fixed : 3323 dqn_stop : 3245 ca: 3092
+01-08 05:04:35 ../DATA/traffic_Compare_Double_drqn DEBUG     train 157 P: 0.8 ddqnwaitingtime : 18.971153846153847 fixed : 28.444099378881987 dqnwaitingtime : 26.43805918788713 ca: 20.11890034364261
+01-08 05:04:35 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 157 P: 0.8 ddqn_stop : 3322 fixed : 3554 dqn_stop : 3520 ca: 3496
+01-08 05:08:49 ../DATA/traffic_Compare_Double_drqn DEBUG     train 158 P: 0.8 ddqnwaitingtime : 17.708230307311904 fixed : 27.397095288699965 dqnwaitingtime : 25.98062015503876 ca: 20.690509915014164
+01-08 05:08:49 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 158 P: 0.8 ddqn_stop : 3052 fixed : 3380 dqn_stop : 3372 ca: 3327
+01-08 05:12:53 ../DATA/traffic_Compare_Double_drqn DEBUG     train 159 P: 0.8 ddqnwaitingtime : 17.623219373219374 fixed : 28.05218012866333 dqnwaitingtime : 26.362535612535613 ca: 19.548949804200785
+01-08 05:12:53 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 159 P: 0.8 ddqn_stop : 2945 fixed : 3361 dqn_stop : 3264 ca: 3132
+01-08 05:17:42 ../DATA/traffic_Compare_Double_drqn DEBUG     train 160 P: 0.9 ddqnwaitingtime : 20.46115753636645 fixed : 34.22308649657747 dqnwaitingtime : 26.87569919204475 ca: 25.44067268763625
+01-08 05:17:42 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 160 P: 0.9 ddqn_stop : 3869 fixed : 4560 dqn_stop : 4006 ca: 4499
+01-08 05:22:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train 161 P: 0.9 ddqnwaitingtime : 20.421373555840823 fixed : 30.66430412371134 dqnwaitingtime : 26.456179775280898 ca: 21.32466281310212
+01-08 05:22:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 161 P: 0.9 ddqn_stop : 3679 fixed : 3968 dqn_stop : 3755 ca: 3784
+01-08 05:27:08 ../DATA/traffic_Compare_Double_drqn DEBUG     train 162 P: 0.9 ddqnwaitingtime : 21.048757763975154 fixed : 36.43546365914787 dqnwaitingtime : 27.482371294851795 ca: 23.85891858297079
+01-08 05:27:08 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 162 P: 0.9 ddqn_stop : 3871 fixed : 4859 dqn_stop : 4114 ca: 4222
+01-08 05:31:56 ../DATA/traffic_Compare_Double_drqn DEBUG     train 163 P: 0.9 ddqnwaitingtime : 21.403707194470623 fixed : 31.442483454144345 dqnwaitingtime : 27.028607356177304 ca: 25.178504085480828
+01-08 05:31:56 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 163 P: 0.9 ddqn_stop : 3852 fixed : 4141 dqn_stop : 3799 ca: 4291
+01-08 05:36:49 ../DATA/traffic_Compare_Double_drqn DEBUG     train 164 P: 0.9 ddqnwaitingtime : 21.707400497512438 fixed : 36.366813602015114 dqnwaitingtime : 28.711959924859112 ca: 24.743445692883896
+01-08 05:36:49 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 164 P: 0.9 ddqn_stop : 3917 fixed : 4783 dqn_stop : 4234 ca: 4296
+01-08 05:41:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train 165 P: 0.9 ddqnwaitingtime : 20.187559204294285 fixed : 31.982176957352006 dqnwaitingtime : 26.722910708611376 ca: 22.500476341695776
+01-08 05:41:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 165 P: 0.9 ddqn_stop : 3738 fixed : 4213 dqn_stop : 3860 ca: 3915
+01-08 05:45:53 ../DATA/traffic_Compare_Double_drqn DEBUG     train 166 P: 0.9 ddqnwaitingtime : 20.047619047619047 fixed : 31.40853264382676 dqnwaitingtime : 27.082716446733183 ca: 24.66022544283414
+01-08 05:45:53 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 166 P: 0.9 ddqn_stop : 3618 fixed : 4081 dqn_stop : 3737 ca: 4166
+01-08 05:50:27 ../DATA/traffic_Compare_Double_drqn DEBUG     train 167 P: 0.9 ddqnwaitingtime : 19.999370078740156 fixed : 32.60593621724029 dqnwaitingtime : 26.74061218049858 ca: 22.824494949494948
+01-08 05:50:27 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 167 P: 0.9 ddqn_stop : 3589 fixed : 4391 dqn_stop : 3935 ca: 4077
+01-08 05:55:08 ../DATA/traffic_Compare_Double_drqn DEBUG     train 168 P: 0.9 ddqnwaitingtime : 20.427846495401205 fixed : 31.44203821656051 dqnwaitingtime : 27.06289707750953 ca: 24.25571791613723
+01-08 05:55:08 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 168 P: 0.9 ddqn_stop : 3772 fixed : 4098 dqn_stop : 3852 ca: 4192
+01-08 05:59:48 ../DATA/traffic_Compare_Double_drqn DEBUG     train 169 P: 0.9 ddqnwaitingtime : 21.720886668748047 fixed : 31.524436090225564 dqnwaitingtime : 25.800690521029505 ca: 23.08722741433022
+01-08 05:59:48 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 169 P: 0.9 ddqn_stop : 3914 fixed : 4153 dqn_stop : 3826 ca: 4136
+01-08 06:04:28 ../DATA/traffic_Compare_Double_drqn DEBUG     train 170 P: 0.9 ddqnwaitingtime : 20.62664950112649 fixed : 30.208279430789133 dqnwaitingtime : 26.76847932269619 ca: 22.95704134366925
+01-08 06:04:28 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 170 P: 0.9 ddqn_stop : 3612 fixed : 3974 dqn_stop : 3771 ca: 3897
+01-08 06:09:10 ../DATA/traffic_Compare_Double_drqn DEBUG     train 171 P: 0.9 ddqnwaitingtime : 20.804932026557065 fixed : 30.50557502389296 dqnwaitingtime : 26.254447268106734 ca: 24.60999681630054
+01-08 06:09:10 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 171 P: 0.9 ddqn_stop : 3783 fixed : 4145 dqn_stop : 3795 ca: 4303
+01-08 06:13:49 ../DATA/traffic_Compare_Double_drqn DEBUG     train 172 P: 0.9 ddqnwaitingtime : 20.061562998405105 fixed : 31.938618925831204 dqnwaitingtime : 26.511775938892423 ca: 23.74442319949012
+01-08 06:13:49 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 172 P: 0.9 ddqn_stop : 3700 fixed : 4170 dqn_stop : 3778 ca: 4192
+01-08 06:18:25 ../DATA/traffic_Compare_Double_drqn DEBUG     train 173 P: 0.9 ddqnwaitingtime : 19.279895731508635 fixed : 33.5075016307893 dqnwaitingtime : 26.765319426336376 ca: 21.921095533094228
+01-08 06:18:25 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 173 P: 0.9 ddqn_stop : 3479 fixed : 4220 dqn_stop : 3750 ca: 3866
+01-08 06:23:12 ../DATA/traffic_Compare_Double_drqn DEBUG     train 174 P: 0.9 ddqnwaitingtime : 21.677992518703242 fixed : 31.00342999688182 dqnwaitingtime : 26.620485678704856 ca: 23.576514678326046
+01-08 06:23:12 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 174 P: 0.9 ddqn_stop : 3908 fixed : 4199 dqn_stop : 3888 ca: 4158
+01-08 06:28:09 ../DATA/traffic_Compare_Double_drqn DEBUG     train 175 P: 0.9 ddqnwaitingtime : 21.10592686002522 fixed : 37.719147582697204 dqnwaitingtime : 30.528146742567994 ca: 25.622581668252458
+01-08 06:28:09 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 175 P: 0.9 ddqn_stop : 3759 fixed : 4741 dqn_stop : 4276 ca: 4371
+01-08 06:32:43 ../DATA/traffic_Compare_Double_drqn DEBUG     train 176 P: 0.9 ddqnwaitingtime : 20.083574413371906 fixed : 33.99481361426256 dqnwaitingtime : 26.645255003227888 ca: 22.181290322580644
+01-08 06:32:43 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 176 P: 0.9 ddqn_stop : 3691 fixed : 4377 dqn_stop : 3824 ca: 3867
+01-08 06:37:28 ../DATA/traffic_Compare_Double_drqn DEBUG     train 177 P: 0.9 ddqnwaitingtime : 20.995296331138288 fixed : 31.985168822972547 dqnwaitingtime : 27.25173064820642 ca: 26.0610254797106
+01-08 06:37:28 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 177 P: 0.9 ddqn_stop : 3859 fixed : 4249 dqn_stop : 3969 ca: 4515
+01-08 06:42:06 ../DATA/traffic_Compare_Double_drqn DEBUG     train 178 P: 0.9 ddqnwaitingtime : 19.636926082709216 fixed : 31.77832351015062 dqnwaitingtime : 26.42014341590613 ca: 22.51401564537158
+01-08 06:42:06 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 178 P: 0.9 ddqn_stop : 3581 fixed : 4159 dqn_stop : 3691 ca: 3956
+01-08 06:46:51 ../DATA/traffic_Compare_Double_drqn DEBUG     train 179 P: 0.9 ddqnwaitingtime : 21.230647709320696 fixed : 31.563492063492063 dqnwaitingtime : 25.693527918781726 ca: 24.94106463878327
+01-08 06:46:51 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 179 P: 0.9 ddqn_stop : 3811 fixed : 4191 dqn_stop : 3845 ca: 4346
+01-08 06:52:42 ../DATA/traffic_Compare_Double_drqn DEBUG     train 180 P: 1.0 ddqnwaitingtime : 24.98576715058355 fixed : 45.37222870478413 dqnwaitingtime : 32.560961648540356 ca: 36.27361751152074
+01-08 06:52:42 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 180 P: 1.0 ddqn_stop : 4696 fixed : 6748 dqn_stop : 5154 ca: 6699
+01-08 06:58:28 ../DATA/traffic_Compare_Double_drqn DEBUG     train 181 P: 1.0 ddqnwaitingtime : 25.272077736496144 fixed : 42.83755760368663 dqnwaitingtime : 29.750857142857143 ca: 35.189001447178
+01-08 06:58:28 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 181 P: 1.0 ddqn_stop : 4701 fixed : 6150 dqn_stop : 4683 ca: 6496
+01-08 07:04:36 ../DATA/traffic_Compare_Double_drqn DEBUG     train 182 P: 1.0 ddqnwaitingtime : 24.259791490560723 fixed : 54.56139332365748 dqnwaitingtime : 28.184954751131222 ca: 43.57925967787511
+01-08 07:04:36 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 182 P: 1.0 ddqn_stop : 4753 fixed : 7802 dqn_stop : 4702 ca: 7727
+01-08 07:09:49 ../DATA/traffic_Compare_Double_drqn DEBUG     train 183 P: 1.0 ddqnwaitingtime : 23.08787346221441 fixed : 36.179547458125185 dqnwaitingtime : 27.472929470295583 ca: 27.17683284457478
+01-08 07:09:49 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 183 P: 1.0 ddqn_stop : 4338 fixed : 5073 dqn_stop : 4369 ca: 5046
+01-08 07:15:32 ../DATA/traffic_Compare_Double_drqn DEBUG     train 184 P: 1.0 ddqnwaitingtime : 25.966819221967963 fixed : 42.624889673433366 dqnwaitingtime : 31.121255760368662 ca: 32.553333333333335
+01-08 07:15:32 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 184 P: 1.0 ddqn_stop : 4940 fixed : 6621 dqn_stop : 4903 ca: 5925
+01-08 07:21:36 ../DATA/traffic_Compare_Double_drqn DEBUG     train 185 P: 1.0 ddqnwaitingtime : 25.178632969557725 fixed : 54.662481315396114 dqnwaitingtime : 33.595713871995365 ca: 32.787608069164264
+01-08 07:21:36 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 185 P: 1.0 ddqn_stop : 4770 fixed : 8599 dqn_stop : 5409 ca: 5795
+01-08 07:28:14 ../DATA/traffic_Compare_Double_drqn DEBUG     train 186 P: 1.0 ddqnwaitingtime : 23.70728929384966 fixed : 65.85418541854186 dqnwaitingtime : 35.80239520958084 ca: 36.62038362439164
+01-08 07:28:14 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 186 P: 1.0 ddqn_stop : 4443 fixed : 10769 dqn_stop : 5790 ca: 6772
+01-08 07:33:47 ../DATA/traffic_Compare_Double_drqn DEBUG     train 187 P: 1.0 ddqnwaitingtime : 23.476149425287357 fixed : 40.74298930326684 dqnwaitingtime : 30.661489790048893 ca: 35.03050552004648
+01-08 07:33:47 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 187 P: 1.0 ddqn_stop : 4423 fixed : 5822 dqn_stop : 4853 ca: 6354
+01-08 07:39:58 ../DATA/traffic_Compare_Double_drqn DEBUG     train 188 P: 1.0 ddqnwaitingtime : 25.878470254957506 fixed : 55.54798127559977 dqnwaitingtime : 30.520376175548588 ca: 36.72436446729506
+01-08 07:39:58 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 188 P: 1.0 ddqn_stop : 4749 fixed : 8453 dqn_stop : 5071 ca: 6573
+01-08 07:45:22 ../DATA/traffic_Compare_Double_drqn DEBUG     train 189 P: 1.0 ddqnwaitingtime : 23.209234365867914 fixed : 39.50073681108164 dqnwaitingtime : 28.934699853587116 ca: 31.898150865864398
+01-08 07:45:22 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 189 P: 1.0 ddqn_stop : 4329 fixed : 5472 dqn_stop : 4426 ca: 5671
+01-08 07:51:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train 190 P: 1.0 ddqnwaitingtime : 26.378676470588236 fixed : 48.042633410672856 dqnwaitingtime : 31.24568843652813 ca: 36.36281179138322
+01-08 07:51:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 190 P: 1.0 ddqn_stop : 4814 fixed : 7806 dqn_stop : 4979 ca: 6609
+01-08 07:57:03 ../DATA/traffic_Compare_Double_drqn DEBUG     train 191 P: 1.0 ddqnwaitingtime : 24.048442906574394 fixed : 50.27533234859675 dqnwaitingtime : 28.78680937228811 ca: 38.04221251819505
+01-08 07:57:03 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 191 P: 1.0 ddqn_stop : 4513 fixed : 7169 dqn_stop : 4548 ca: 6680
+01-08 08:02:44 ../DATA/traffic_Compare_Double_drqn DEBUG     train 192 P: 1.0 ddqnwaitingtime : 23.011661807580175 fixed : 52.11942959001782 dqnwaitingtime : 30.777907315651415 ca: 29.58981860737273
+01-08 08:02:44 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 192 P: 1.0 ddqn_stop : 4410 fixed : 7794 dqn_stop : 4933 ca: 5416
+01-08 08:08:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train 193 P: 1.0 ddqnwaitingtime : 24.593785632839225 fixed : 50.762503656039776 dqnwaitingtime : 30.384439359267734 ca: 30.381833712984054
+01-08 08:08:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 193 P: 1.0 ddqn_stop : 4783 fixed : 7256 dqn_stop : 4773 ca: 5525
+01-08 08:14:15 ../DATA/traffic_Compare_Double_drqn DEBUG     train 194 P: 1.0 ddqnwaitingtime : 23.395528804815132 fixed : 52.30537507383343 dqnwaitingtime : 29.88149210903874 ca: 31.544537330642836
+01-08 08:14:15 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 194 P: 1.0 ddqn_stop : 4513 fixed : 7555 dqn_stop : 4867 ca: 5776
+01-08 08:20:47 ../DATA/traffic_Compare_Double_drqn DEBUG     train 195 P: 1.0 ddqnwaitingtime : 25.057282671272308 fixed : 49.30509478672986 dqnwaitingtime : 42.124160093485244 ca: 40.973630831643
+01-08 08:20:47 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 195 P: 1.0 ddqn_stop : 4624 fixed : 7948 dqn_stop : 6277 ca: 7529
+01-08 08:26:37 ../DATA/traffic_Compare_Double_drqn DEBUG     train 196 P: 1.0 ddqnwaitingtime : 24.946175637393768 fixed : 45.69950738916256 dqnwaitingtime : 33.286206896551725 ca: 29.841685649202734
+01-08 08:26:37 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 196 P: 1.0 ddqn_stop : 4787 fixed : 6639 dqn_stop : 5363 ca: 5537
+01-08 08:33:54 ../DATA/traffic_Compare_Double_drqn DEBUG     train 197 P: 1.0 ddqnwaitingtime : 25.866326819597848 fixed : 66.77872082449227 dqnwaitingtime : 48.46301605504587 ca: 42.72018348623853
+01-08 08:33:54 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 197 P: 1.0 ddqn_stop : 4838 fixed : 12227 dqn_stop : 7351 ca: 7786
+01-08 08:39:29 ../DATA/traffic_Compare_Double_drqn DEBUG     train 198 P: 1.0 ddqnwaitingtime : 23.162365903160335 fixed : 53.141846063108225 dqnwaitingtime : 31.163377829367384 ca: 28.575819672131146
+01-08 08:39:29 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 198 P: 1.0 ddqn_stop : 4476 fixed : 7489 dqn_stop : 4820 ca: 5501
+01-08 08:46:52 ../DATA/traffic_Compare_Double_drqn DEBUG     train 199 P: 1.0 ddqnwaitingtime : 31.46117450598386 fixed : 63.02375366568915 dqnwaitingtime : 39.5371044525343 ca: 54.79653310599602
+01-08 08:46:52 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 199 P: 1.0 ddqn_stop : 5674 fixed : 10618 dqn_stop : 6370 ca: 11223
+01-08 08:55:32 ../DATA/traffic_Compare_Double_drqn DEBUG     train 200 P: 1.1 ddqnwaitingtime : 35.059911435269605 fixed : 60.07753207753208 dqnwaitingtime : 47.02150537634409 ca: 70.13511282333516
+01-08 08:55:32 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 200 P: 1.1 ddqn_stop : 6464 fixed : 11006 dqn_stop : 8136 ca: 16116
+01-08 09:03:34 ../DATA/traffic_Compare_Double_drqn DEBUG     train 201 P: 1.1 ddqnwaitingtime : 30.0486643745041 fixed : 58.75391061452514 dqnwaitingtime : 51.84221980413493 ca: 59.778944459795525
+01-08 09:03:34 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 201 P: 1.1 ddqn_stop : 5702 fixed : 10908 dqn_stop : 8830 ca: 14190
+01-08 09:12:21 ../DATA/traffic_Compare_Double_drqn DEBUG     train 202 P: 1.1 ddqnwaitingtime : 30.96898618712536 fixed : 68.0951321279555 dqnwaitingtime : 38.567274649748875 ca: 77.25576642335767
+01-08 09:12:21 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 202 P: 1.1 ddqn_stop : 5931 fixed : 11926 dqn_stop : 6981 ca: 17031
+01-08 09:20:52 ../DATA/traffic_Compare_Double_drqn DEBUG     train 203 P: 1.1 ddqnwaitingtime : 30.29665587918015 fixed : 71.19488358723771 dqnwaitingtime : 50.21932473236344 ca: 56.042202347680266
+01-08 09:20:52 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 203 P: 1.1 ddqn_stop : 5618 fixed : 12554 dqn_stop : 8250 ca: 11836
+01-08 09:28:42 ../DATA/traffic_Compare_Double_drqn DEBUG     train 204 P: 1.1 ddqnwaitingtime : 31.949575371549894 fixed : 64.52286115007013 dqnwaitingtime : 36.601915912719534 ca: 62.32940846649846
+01-08 09:28:42 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 204 P: 1.1 ddqn_stop : 6038 fixed : 11023 dqn_stop : 6212 ca: 13000
+01-08 09:39:01 ../DATA/traffic_Compare_Double_drqn DEBUG     train 205 P: 1.1 ddqnwaitingtime : 33.48806434872859 fixed : 67.60892316166345 dqnwaitingtime : 68.53756441551397 ca: 68.87919684002634
+01-08 09:39:01 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 205 P: 1.1 ddqn_stop : 6411 fixed : 11233 dqn_stop : 11687 ca: 11703
+01-08 09:46:42 ../DATA/traffic_Compare_Double_drqn DEBUG     train 206 P: 1.1 ddqnwaitingtime : 30.904649330181247 fixed : 59.184108527131784 dqnwaitingtime : 38.82661717921527 ca: 57.14557823129252
+01-08 09:46:42 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 206 P: 1.1 ddqn_stop : 5830 fixed : 10469 dqn_stop : 6714 ca: 12509
+01-08 09:54:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train 207 P: 1.1 ddqnwaitingtime : 31.013056221689315 fixed : 58.88148764918124 dqnwaitingtime : 46.27446751145862 ca: 51.95763869909811
+01-08 09:54:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 207 P: 1.1 ddqn_stop : 5907 fixed : 11198 dqn_stop : 7806 ca: 11038
+01-08 10:04:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train 208 P: 1.1 ddqnwaitingtime : 29.91784776902887 fixed : 61.79211767971135 dqnwaitingtime : 59.08421913327882 ca: 61.69550930996714
+01-08 10:04:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 208 P: 1.1 ddqn_stop : 5632 fixed : 10538 dqn_stop : 9238 ca: 12329
+01-08 10:12:37 ../DATA/traffic_Compare_Double_drqn DEBUG     train 209 P: 1.1 ddqnwaitingtime : 36.02483311081442 fixed : 61.363508968609864 dqnwaitingtime : 41.91172488491741 ca: 63.01426533523538
+01-08 10:12:37 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 209 P: 1.1 ddqn_stop : 6868 fixed : 10841 dqn_stop : 7489 ca: 14415
+01-08 10:21:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train 210 P: 1.1 ddqnwaitingtime : 39.57165190203231 fixed : 72.73881227132001 dqnwaitingtime : 55.118976313640076 ca: 59.332884822389666
+01-08 10:21:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 210 P: 1.1 ddqn_stop : 7176 fixed : 11133 dqn_stop : 9888 ca: 11913
+01-08 10:30:18 ../DATA/traffic_Compare_Double_drqn DEBUG     train 211 P: 1.1 ddqnwaitingtime : 33.95443894819058 fixed : 65.05811071330213 dqnwaitingtime : 55.17950079660117 ca: 67.93746510329424
+01-08 10:30:18 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 211 P: 1.1 ddqn_stop : 6314 fixed : 11831 dqn_stop : 8883 ca: 16576
+01-08 10:36:23 ../DATA/traffic_Compare_Double_drqn DEBUG     train 212 P: 1.1 ddqnwaitingtime : 28.480405590572758 fixed : 44.676339285714285 dqnwaitingtime : 30.704048140043763 ca: 38.53366722314969
+01-08 10:36:23 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 212 P: 1.1 ddqn_stop : 5310 fixed : 6606 dqn_stop : 5040 ca: 7641
+01-08 10:44:29 ../DATA/traffic_Compare_Double_drqn DEBUG     train 213 P: 1.1 ddqnwaitingtime : 26.75470697427738 fixed : 67.04171332586786 dqnwaitingtime : 53.763115197404005 ca: 50.76517785504146
+01-08 10:44:29 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 213 P: 1.1 ddqn_stop : 5444 fixed : 12544 dqn_stop : 9480 ca: 10301
+01-08 10:53:42 ../DATA/traffic_Compare_Double_drqn DEBUG     train 214 P: 1.1 ddqnwaitingtime : 35.03573291601461 fixed : 65.60267979217939 dqnwaitingtime : 50.4321249007674 ca: 82.47489481065918
+01-08 10:53:42 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 214 P: 1.1 ddqn_stop : 6557 fixed : 11905 dqn_stop : 9411 ca: 16879
+01-08 11:03:16 ../DATA/traffic_Compare_Double_drqn DEBUG     train 215 P: 1.1 ddqnwaitingtime : 38.906933825467966 fixed : 72.04297520661157 dqnwaitingtime : 53.56990394877268 ca: 83.7244776119403
+01-08 11:03:16 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 215 P: 1.1 ddqn_stop : 8131 fixed : 10794 dqn_stop : 9274 ca: 10791
+01-08 11:10:45 ../DATA/traffic_Compare_Double_drqn DEBUG     train 216 P: 1.1 ddqnwaitingtime : 30.182753164556964 fixed : 60.42062830136225 dqnwaitingtime : 45.203230148048455 ca: 43.72414719312383
+01-08 11:10:45 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 216 P: 1.1 ddqn_stop : 5819 fixed : 10997 dqn_stop : 7578 ca: 8774
+01-08 11:19:14 ../DATA/traffic_Compare_Double_drqn DEBUG     train 217 P: 1.1 ddqnwaitingtime : 30.461114030478193 fixed : 70.84203102961918 dqnwaitingtime : 54.266433189655174 ca: 49.76939831200654
+01-08 11:19:14 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 217 P: 1.1 ddqn_stop : 5903 fixed : 12885 dqn_stop : 9818 ca: 10813
+01-08 11:27:29 ../DATA/traffic_Compare_Double_drqn DEBUG     train 218 P: 1.1 ddqnwaitingtime : 29.927647214153684 fixed : 66.16275823562256 dqnwaitingtime : 54.22542418529491 ca: 53.83141762452107
+01-08 11:27:29 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 218 P: 1.1 ddqn_stop : 5851 fixed : 11573 dqn_stop : 9910 ca: 12220
+01-08 11:36:53 ../DATA/traffic_Compare_Double_drqn DEBUG     train 219 P: 1.1 ddqnwaitingtime : 31.313296903460838 fixed : 72.73434004474272 dqnwaitingtime : 77.45206611570248 ca: 63.2651368537462
+01-08 11:36:53 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 219 P: 1.1 ddqn_stop : 6125 fixed : 11462 dqn_stop : 11472 ca: 12255
+01-08 11:49:09 ../DATA/traffic_Compare_Double_drqn DEBUG     train 220 P: 1.2000000000000002 ddqnwaitingtime : 52.65992414664981 fixed : 87.61802575107296 dqnwaitingtime : 82.57214323328067 ca: 78.8489336492891
+01-08 11:49:09 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 220 P: 1.2000000000000002 ddqn_stop : 11295 fixed : 13119 dqn_stop : 14595 ca: 14929
+01-08 12:02:36 ../DATA/traffic_Compare_Double_drqn DEBUG     train 221 P: 1.2000000000000002 ddqnwaitingtime : 84.10882647943832 fixed : 80.27041742286751 dqnwaitingtime : 71.04724409448819 ca: 95.20023944926669
+01-08 12:02:36 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 221 P: 1.2000000000000002 ddqn_stop : 15167 fixed : 13871 dqn_stop : 14663 ca: 17938
+01-08 12:13:47 ../DATA/traffic_Compare_Double_drqn DEBUG     train 222 P: 1.2000000000000002 ddqnwaitingtime : 39.502024291497975 fixed : 75.80375066032752 dqnwaitingtime : 71.48555499239737 ca: 95.4216770018873
+01-08 12:13:47 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 222 P: 1.2000000000000002 ddqn_stop : 7172 fixed : 12195 dqn_stop : 13287 ca: 20228
+01-08 12:25:44 ../DATA/traffic_Compare_Double_drqn DEBUG     train 223 P: 1.2000000000000002 ddqnwaitingtime : 37.39535470840697 fixed : 87.30306286942503 dqnwaitingtime : 69.29823212913143 ca: 91.52494643403735
+01-08 12:25:44 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 223 P: 1.2000000000000002 ddqn_stop : 6870 fixed : 13448 dqn_stop : 13741 ca: 15602
+01-08 12:38:54 ../DATA/traffic_Compare_Double_drqn DEBUG     train 224 P: 1.2000000000000002 ddqnwaitingtime : 49.10499619579001 fixed : 74.20611096220853 dqnwaitingtime : 61.74889524304653 ca: 59.82255639097745
+01-08 12:38:54 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 224 P: 1.2000000000000002 ddqn_stop : 10659 fixed : 11970 dqn_stop : 11497 ca: 9320
+01-08 12:49:33 ../DATA/traffic_Compare_Double_drqn DEBUG     train 225 P: 1.2000000000000002 ddqnwaitingtime : 38.23067173637516 fixed : 75.09392712550607 dqnwaitingtime : 55.61417734763275 ca: 79.43690165361184
+01-08 12:49:33 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 225 P: 1.2000000000000002 ddqn_stop : 7303 fixed : 12455 dqn_stop : 10985 ca: 19384
+01-08 13:01:41 ../DATA/traffic_Compare_Double_drqn DEBUG     train 226 P: 1.2000000000000002 ddqnwaitingtime : 49.20270948319117 fixed : 85.72830089426617 dqnwaitingtime : 82.25179487179487 ca: 93.5579729371186
+01-08 13:01:41 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 226 P: 1.2000000000000002 ddqn_stop : 10183 fixed : 14186 dqn_stop : 15113 ca: 18789
+01-08 13:13:33 ../DATA/traffic_Compare_Double_drqn DEBUG     train 227 P: 1.2000000000000002 ddqnwaitingtime : 63.42267488608952 fixed : 76.55377075959706 dqnwaitingtime : 68.62071692145493 ca: 95.78049482163406
+01-08 13:13:33 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 227 P: 1.2000000000000002 ddqn_stop : 11932 fixed : 13367 dqn_stop : 11326 ca: 16066
+01-08 13:27:36 ../DATA/traffic_Compare_Double_drqn DEBUG     train 228 P: 1.2000000000000002 ddqnwaitingtime : 55.10057543157368 fixed : 77.51773806348359 dqnwaitingtime : 63.61847492323439 ca: 66.24501197126895
+01-08 13:27:36 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 228 P: 1.2000000000000002 ddqn_stop : 10877 fixed : 13245 dqn_stop : 11522 ca: 6369
+01-08 13:39:41 ../DATA/traffic_Compare_Double_drqn DEBUG     train 229 P: 1.2000000000000002 ddqnwaitingtime : 42.07508106759791 fixed : 80.4436824056977 dqnwaitingtime : 54.589156926137775 ca: 108.42966507177033
+01-08 13:39:41 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 229 P: 1.2000000000000002 ddqn_stop : 9006 fixed : 12848 dqn_stop : 11394 ca: 17492
+01-08 13:52:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train 230 P: 1.2000000000000002 ddqnwaitingtime : 56.16986301369863 fixed : 86.77637130801688 dqnwaitingtime : 82.39531329597554 ca: 110.89814565976889
+01-08 13:52:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 230 P: 1.2000000000000002 ddqn_stop : 12318 fixed : 13025 dqn_stop : 14382 ca: 21318
+01-08 14:03:39 ../DATA/traffic_Compare_Double_drqn DEBUG     train 231 P: 1.2000000000000002 ddqnwaitingtime : 37.73653749370911 fixed : 76.35723842654535 dqnwaitingtime : 73.00207738249806 ca: 64.99074074074075
+01-08 14:03:39 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 231 P: 1.2000000000000002 ddqn_stop : 7089 fixed : 13207 dqn_stop : 12959 ca: 13911
+01-08 14:15:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train 232 P: 1.2000000000000002 ddqnwaitingtime : 37.240777666999 fixed : 81.75780208055481 dqnwaitingtime : 71.62110187110187 ca: 78.10207237859574
+01-08 14:15:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 232 P: 1.2000000000000002 ddqn_stop : 7284 fixed : 13550 dqn_stop : 12669 ca: 16919
+01-08 14:28:24 ../DATA/traffic_Compare_Double_drqn DEBUG     train 233 P: 1.2000000000000002 ddqnwaitingtime : 46.18950509823427 fixed : 81.6559705418201 dqnwaitingtime : 66.41236326634444 ca: 66.06614246068455
+01-08 14:28:24 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 233 P: 1.2000000000000002 ddqn_stop : 9295 fixed : 13538 dqn_stop : 12562 ca: 11451
+01-08 14:40:35 ../DATA/traffic_Compare_Double_drqn DEBUG     train 234 P: 1.2000000000000002 ddqnwaitingtime : 47.100704934541795 fixed : 87.414653784219 dqnwaitingtime : 71.7883116883117 ca: 82.12201591511936
+01-08 14:40:35 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 234 P: 1.2000000000000002 ddqn_stop : 10382 fixed : 14375 dqn_stop : 12675 ca: 17458
+01-08 14:52:22 ../DATA/traffic_Compare_Double_drqn DEBUG     train 235 P: 1.2000000000000002 ddqnwaitingtime : 43.32324243182387 fixed : 74.35305089261924 dqnwaitingtime : 51.98075850529838 ca: 64.9375
+01-08 14:52:22 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 235 P: 1.2000000000000002 ddqn_stop : 8085 fixed : 12864 dqn_stop : 12338 ca: 14591
+01-08 15:05:35 ../DATA/traffic_Compare_Double_drqn DEBUG     train 236 P: 1.2000000000000002 ddqnwaitingtime : 39.09936948297604 fixed : 77.35987089833243 dqnwaitingtime : 69.68973622355706 ca: 58.50112359550562
+01-08 15:05:35 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 236 P: 1.2000000000000002 ddqn_stop : 7232 fixed : 13350 dqn_stop : 11976 ca: 8484
+01-08 15:17:28 ../DATA/traffic_Compare_Double_drqn DEBUG     train 237 P: 1.2000000000000002 ddqnwaitingtime : 46.452041318248895 fixed : 81.90252897787144 dqnwaitingtime : 72.31171494488592 ca: 106.31423139598044
+01-08 15:17:28 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 237 P: 1.2000000000000002 ddqn_stop : 10229 fixed : 13568 dqn_stop : 12763 ca: 20719
+01-08 15:29:11 ../DATA/traffic_Compare_Double_drqn DEBUG     train 238 P: 1.2000000000000002 ddqnwaitingtime : 40.05674281503316 fixed : 83.77631924389604 dqnwaitingtime : 61.139598997493735 ca: 67.05118384401115
+01-08 15:29:11 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 238 P: 1.2000000000000002 ddqn_stop : 7560 fixed : 12772 dqn_stop : 12104 ca: 13121
+01-08 15:43:00 ../DATA/traffic_Compare_Double_drqn DEBUG     train 239 P: 1.2000000000000002 ddqnwaitingtime : 54.183378949987556 fixed : 83.59166666666667 dqnwaitingtime : 73.57392848085215 ca: 63.397341211226
+01-08 15:43:00 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 239 P: 1.2000000000000002 ddqn_stop : 11704 fixed : 13105 dqn_stop : 13285 ca: 10852
+01-08 15:58:44 ../DATA/traffic_Compare_Double_drqn DEBUG     train 240 P: 1.3 ddqnwaitingtime : 99.1658952496955 fixed : 99.43056994818653 dqnwaitingtime : 92.75932789720781 ca: 98.0
+01-08 15:58:44 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 240 P: 1.3 ddqn_stop : 18194 fixed : 15871 dqn_stop : 16624 ca: 16486
+01-08 16:15:41 ../DATA/traffic_Compare_Double_drqn DEBUG     train 241 P: 1.3 ddqnwaitingtime : 65.43546441495778 fixed : 99.53526865291572 dqnwaitingtime : 114.85616605616606 ca: 78.63251879699249
+01-08 16:15:41 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 241 P: 1.3 ddqn_stop : 10817 fixed : 16131 dqn_stop : 19235 ca: 6291
+01-08 16:29:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train 242 P: 1.3 ddqnwaitingtime : 68.77305493412877 fixed : 85.86883963494132 dqnwaitingtime : 58.28188423953896 ca: 97.67333743842364
+01-08 16:29:26 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 242 P: 1.3 ddqn_stop : 14406 fixed : 14104 dqn_stop : 10811 ca: 17247
+01-08 16:44:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train 243 P: 1.3 ddqnwaitingtime : 58.93260923228832 fixed : 88.77966101694915 dqnwaitingtime : 85.58966114271581 ca: 106.78814872192099
+01-08 16:44:19 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 243 P: 1.3 ddqn_stop : 10058 fixed : 14856 dqn_stop : 15307 ca: 14302
+01-08 17:01:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train 244 P: 1.3 ddqnwaitingtime : 88.54037111334002 fixed : 96.06243602865916 dqnwaitingtime : 98.6417525773196 ca: 67.8425702811245
+01-08 17:01:31 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 244 P: 1.3 ddqn_stop : 17388 fixed : 16066 dqn_stop : 15758 ca: 6416
+01-08 17:15:17 ../DATA/traffic_Compare_Double_drqn DEBUG     train 245 P: 1.3 ddqnwaitingtime : 75.44713216957607 fixed : 94.22664584959666 dqnwaitingtime : 82.1982780450747 ca: 114.17412231030578
+01-08 17:15:17 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 245 P: 1.3 ddqn_stop : 14330 fixed : 14345 dqn_stop : 14277 ca: 17666
+01-08 17:29:58 ../DATA/traffic_Compare_Double_drqn DEBUG     train 246 P: 1.3 ddqnwaitingtime : 85.78055351457262 fixed : 90.73813131313132 dqnwaitingtime : 57.642508540751585 ca: 87.48637702503682
+01-08 17:29:58 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 246 P: 1.3 ddqn_stop : 16264 fixed : 14701 dqn_stop : 9906 ca: 16206
+01-08 17:43:35 ../DATA/traffic_Compare_Double_drqn DEBUG     train 247 P: 1.3 ddqnwaitingtime : 55.4317738791423 fixed : 92.19695797886052 dqnwaitingtime : 91.26189876605389 ca: 74.89066951566952
+01-08 17:43:35 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 247 P: 1.3 ddqn_stop : 11300 fixed : 14361 dqn_stop : 15017 ca: 14503
+01-08 17:57:57 ../DATA/traffic_Compare_Double_drqn DEBUG     train 248 P: 1.3 ddqnwaitingtime : 113.20064086763618 fixed : 83.3037395064869 dqnwaitingtime : 77.93418467583497 ca: 109.73013698630137
+01-08 17:57:57 ../DATA/traffic_Compare_Double_drqn DEBUG     train stop 248 P: 1.3 ddqn_stop : 20515 fixed : 13264 dqn_stop : 16041 ca: 20546

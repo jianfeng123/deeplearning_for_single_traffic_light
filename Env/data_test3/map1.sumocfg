@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="map1.net.xml"/>
+        <route-files value="map1.rou.xml"/>
+        <additional-files value="map1.det.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+		<end value="600"/>
+    </time>
+	<processing>
+		<waiting-time-memory value="500.0" />
+		<device.rerouting.threads value="1" />
+	</processing>
+
+    <report>        
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
